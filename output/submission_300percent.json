@@ -1,0 +1,847 @@
+[
+  {
+    "timestamp": "2026-04-15T20:32:19.515758Z",
+    "portfolio_size": 55,
+    "total_allocated": 1000000,
+    "result": {
+      "status": "dry_run",
+      "payload": {
+        "team_id": "tumai-dream-team",
+        "model_agent_name": "LobsterAgent",
+        "model_version": "1.0",
+        "transactions": [
+          {
+            "nasdaq_code": "NVDA",
+            "amount": 21746
+          },
+          {
+            "nasdaq_code": "MSFT",
+            "amount": 21246
+          },
+          {
+            "nasdaq_code": "AAPL",
+            "amount": 20774
+          },
+          {
+            "nasdaq_code": "AMZN",
+            "amount": 20774
+          },
+          {
+            "nasdaq_code": "TSM",
+            "amount": 20774
+          },
+          {
+            "nasdaq_code": "GOOGL",
+            "amount": 20538
+          },
+          {
+            "nasdaq_code": "ASML",
+            "amount": 20302
+          },
+          {
+            "nasdaq_code": "META",
+            "amount": 20066
+          },
+          {
+            "nasdaq_code": "AVGO",
+            "amount": 20066
+          },
+          {
+            "nasdaq_code": "APP",
+            "amount": 20066
+          },
+          {
+            "nasdaq_code": "NBIS",
+            "amount": 19593
+          },
+          {
+            "nasdaq_code": "COST",
+            "amount": 19357
+          },
+          {
+            "nasdaq_code": "CRWD",
+            "amount": 19357
+          },
+          {
+            "nasdaq_code": "AMD",
+            "amount": 18885
+          },
+          {
+            "nasdaq_code": "PANW",
+            "amount": 18885
+          },
+          {
+            "nasdaq_code": "VRTX",
+            "amount": 18885
+          },
+          {
+            "nasdaq_code": "CRM",
+            "amount": 18885
+          },
+          {
+            "nasdaq_code": "PLTR",
+            "amount": 18885
+          },
+          {
+            "nasdaq_code": "MELI",
+            "amount": 18885
+          },
+          {
+            "nasdaq_code": "ENTG",
+            "amount": 18885
+          },
+          {
+            "nasdaq_code": "ADBE",
+            "amount": 18885
+          },
+          {
+            "nasdaq_code": "INTU",
+            "amount": 18885
+          },
+          {
+            "nasdaq_code": "NET",
+            "amount": 18649
+          },
+          {
+            "nasdaq_code": "NFLX",
+            "amount": 18413
+          },
+          {
+            "nasdaq_code": "MRVL",
+            "amount": 18413
+          },
+          {
+            "nasdaq_code": "ZS",
+            "amount": 18413
+          },
+          {
+            "nasdaq_code": "REGN",
+            "amount": 18413
+          },
+          {
+            "nasdaq_code": "SMCI",
+            "amount": 18413
+          },
+          {
+            "nasdaq_code": "TSLA",
+            "amount": 17941
+          },
+          {
+            "nasdaq_code": "DDOG",
+            "amount": 17941
+          },
+          {
+            "nasdaq_code": "WDAY",
+            "amount": 17941
+          },
+          {
+            "nasdaq_code": "AMGN",
+            "amount": 17705
+          },
+          {
+            "nasdaq_code": "QCOM",
+            "amount": 17705
+          },
+          {
+            "nasdaq_code": "MDB",
+            "amount": 17705
+          },
+          {
+            "nasdaq_code": "ANET",
+            "amount": 17705
+          },
+          {
+            "nasdaq_code": "AMAT",
+            "amount": 17469
+          },
+          {
+            "nasdaq_code": "FTNT",
+            "amount": 17469
+          },
+          {
+            "nasdaq_code": "MAR",
+            "amount": 17469
+          },
+          {
+            "nasdaq_code": "SNOW",
+            "amount": 17469
+          },
+          {
+            "nasdaq_code": "SNPS",
+            "amount": 17469
+          },
+          {
+            "nasdaq_code": "KLAC",
+            "amount": 17233
+          },
+          {
+            "nasdaq_code": "LRCX",
+            "amount": 16997
+          },
+          {
+            "nasdaq_code": "ABNB",
+            "amount": 16997
+          },
+          {
+            "nasdaq_code": "SBUX",
+            "amount": 16525
+          },
+          {
+            "nasdaq_code": "GILD",
+            "amount": 16525
+          },
+          {
+            "nasdaq_code": "PYPL",
+            "amount": 16525
+          },
+          {
+            "nasdaq_code": "INTC",
+            "amount": 16052
+          },
+          {
+            "nasdaq_code": "MRNA",
+            "amount": 16052
+          },
+          {
+            "nasdaq_code": "TXN",
+            "amount": 16052
+          },
+          {
+            "nasdaq_code": "ADI",
+            "amount": 16052
+          },
+          {
+            "nasdaq_code": "ARM",
+            "amount": 16052
+          },
+          {
+            "nasdaq_code": "ILMN",
+            "amount": 15580
+          },
+          {
+            "nasdaq_code": "MU",
+            "amount": 15344
+          },
+          {
+            "nasdaq_code": "BIIB",
+            "amount": 15344
+          },
+          {
+            "nasdaq_code": "COIN",
+            "amount": 15344
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2026-04-15T20:36:24.487754Z",
+    "portfolio_size": 55,
+    "total_allocated": 1000000,
+    "result": {
+      "status": "dry_run",
+      "payload": {
+        "team_id": "tumai-dream-team",
+        "model_agent_name": "LobsterAgent",
+        "model_version": "1.0",
+        "transactions": [
+          {
+            "nasdaq_code": "NVDA",
+            "amount": 21746
+          },
+          {
+            "nasdaq_code": "MSFT",
+            "amount": 21246
+          },
+          {
+            "nasdaq_code": "AAPL",
+            "amount": 20774
+          },
+          {
+            "nasdaq_code": "AMZN",
+            "amount": 20774
+          },
+          {
+            "nasdaq_code": "TSM",
+            "amount": 20774
+          },
+          {
+            "nasdaq_code": "GOOGL",
+            "amount": 20538
+          },
+          {
+            "nasdaq_code": "ASML",
+            "amount": 20302
+          },
+          {
+            "nasdaq_code": "META",
+            "amount": 20066
+          },
+          {
+            "nasdaq_code": "AVGO",
+            "amount": 20066
+          },
+          {
+            "nasdaq_code": "APP",
+            "amount": 20066
+          },
+          {
+            "nasdaq_code": "NBIS",
+            "amount": 19593
+          },
+          {
+            "nasdaq_code": "COST",
+            "amount": 19357
+          },
+          {
+            "nasdaq_code": "CRWD",
+            "amount": 19357
+          },
+          {
+            "nasdaq_code": "AMD",
+            "amount": 18885
+          },
+          {
+            "nasdaq_code": "PANW",
+            "amount": 18885
+          },
+          {
+            "nasdaq_code": "VRTX",
+            "amount": 18885
+          },
+          {
+            "nasdaq_code": "CRM",
+            "amount": 18885
+          },
+          {
+            "nasdaq_code": "PLTR",
+            "amount": 18885
+          },
+          {
+            "nasdaq_code": "MELI",
+            "amount": 18885
+          },
+          {
+            "nasdaq_code": "ENTG",
+            "amount": 18885
+          },
+          {
+            "nasdaq_code": "ADBE",
+            "amount": 18885
+          },
+          {
+            "nasdaq_code": "INTU",
+            "amount": 18885
+          },
+          {
+            "nasdaq_code": "NET",
+            "amount": 18649
+          },
+          {
+            "nasdaq_code": "NFLX",
+            "amount": 18413
+          },
+          {
+            "nasdaq_code": "MRVL",
+            "amount": 18413
+          },
+          {
+            "nasdaq_code": "ZS",
+            "amount": 18413
+          },
+          {
+            "nasdaq_code": "REGN",
+            "amount": 18413
+          },
+          {
+            "nasdaq_code": "SMCI",
+            "amount": 18413
+          },
+          {
+            "nasdaq_code": "TSLA",
+            "amount": 17941
+          },
+          {
+            "nasdaq_code": "DDOG",
+            "amount": 17941
+          },
+          {
+            "nasdaq_code": "WDAY",
+            "amount": 17941
+          },
+          {
+            "nasdaq_code": "AMGN",
+            "amount": 17705
+          },
+          {
+            "nasdaq_code": "QCOM",
+            "amount": 17705
+          },
+          {
+            "nasdaq_code": "MDB",
+            "amount": 17705
+          },
+          {
+            "nasdaq_code": "ANET",
+            "amount": 17705
+          },
+          {
+            "nasdaq_code": "AMAT",
+            "amount": 17469
+          },
+          {
+            "nasdaq_code": "FTNT",
+            "amount": 17469
+          },
+          {
+            "nasdaq_code": "MAR",
+            "amount": 17469
+          },
+          {
+            "nasdaq_code": "SNOW",
+            "amount": 17469
+          },
+          {
+            "nasdaq_code": "SNPS",
+            "amount": 17469
+          },
+          {
+            "nasdaq_code": "KLAC",
+            "amount": 17233
+          },
+          {
+            "nasdaq_code": "LRCX",
+            "amount": 16997
+          },
+          {
+            "nasdaq_code": "ABNB",
+            "amount": 16997
+          },
+          {
+            "nasdaq_code": "SBUX",
+            "amount": 16525
+          },
+          {
+            "nasdaq_code": "GILD",
+            "amount": 16525
+          },
+          {
+            "nasdaq_code": "PYPL",
+            "amount": 16525
+          },
+          {
+            "nasdaq_code": "INTC",
+            "amount": 16052
+          },
+          {
+            "nasdaq_code": "MRNA",
+            "amount": 16052
+          },
+          {
+            "nasdaq_code": "TXN",
+            "amount": 16052
+          },
+          {
+            "nasdaq_code": "ADI",
+            "amount": 16052
+          },
+          {
+            "nasdaq_code": "ARM",
+            "amount": 16052
+          },
+          {
+            "nasdaq_code": "ILMN",
+            "amount": 15580
+          },
+          {
+            "nasdaq_code": "MU",
+            "amount": 15344
+          },
+          {
+            "nasdaq_code": "BIIB",
+            "amount": 15344
+          },
+          {
+            "nasdaq_code": "COIN",
+            "amount": 15344
+          }
+        ]
+      }
+    }
+  },
+  {
+    "timestamp": "2026-04-15T20:47:45.438216Z",
+    "portfolio_size": 55,
+    "total_allocated": 1000000,
+    "result": {
+      "success": true,
+      "submission_id": "jx7c175wp588w7s2eh14njeffd84wzh9",
+      "total_invested": 1000000,
+      "total_value": 1716615.82,
+      "purchase_prices_apr15": {
+        "NVDA": 112.19999694824219,
+        "MSFT": 385.7300109863281,
+        "AAPL": 202.13999938964844,
+        "AMZN": 179.58999633789062,
+        "TSM": 157.3300018310547,
+        "GOOGL": 156.30999755859375,
+        "ASML": 683.1599731445312,
+        "META": 521.52001953125,
+        "AVGO": 178.9499969482422,
+        "APP": 245.47000122070312,
+        "NBIS": 21.329999923706055,
+        "COST": 976.9199829101562,
+        "CRWD": 392.79998779296875,
+        "AMD": 95.29000091552734,
+        "PANW": 173.5500030517578,
+        "VRTX": 500.489990234375,
+        "CRM": 254.92999267578125,
+        "PLTR": 98.4000015258789,
+        "MELI": 2118.320068359375,
+        "ENTG": 72.0999984741211,
+        "ADBE": 350.3800048828125,
+        "INTU": 594.0800170898438,
+        "NET": 109.13999938964844,
+        "NFLX": 97.62799835205078,
+        "MRVL": 53.31999969482422,
+        "ZS": 204.63999938964844,
+        "REGN": 557.9099731445312,
+        "SMCI": 33.47999954223633,
+        "TSLA": 254.11000061035156,
+        "DDOG": 92.55000305175781,
+        "WDAY": 233.32000732421875,
+        "AMGN": 295.29998779296875,
+        "QCOM": 138.60000610351562,
+        "MDB": 158.5800018310547,
+        "ANET": 73.19999694824219,
+        "AMAT": 145.4499969482422,
+        "FTNT": 99.19999694824219,
+        "MAR": 222.5800018310547,
+        "SNOW": 146.5399932861328,
+        "SNPS": 425.6499938964844,
+        "KLAC": 676.2100219726562,
+        "LRCX": 68.44000244140625,
+        "ABNB": 114.63999938964844,
+        "SBUX": 83.70999908447266,
+        "GILD": 105.68000030517578,
+        "PYPL": 62,
+        "INTC": 19.850000381469727,
+        "MRNA": 26.239999771118164,
+        "TXN": 151.17999267578125,
+        "ADI": 179.5399932861328,
+        "ARM": 103.80000305175781,
+        "ILMN": 74.58999633789062,
+        "MU": 71.04000091552734,
+        "BIIB": 116.9800033569336,
+        "COIN": 175.57000732421875
+      },
+      "eval_prices_today": {
+        "NVDA": 198.87,
+        "MSFT": 411.22,
+        "AAPL": 266.43,
+        "AMZN": 248.5,
+        "TSM": 375.1,
+        "GOOGL": 337.12,
+        "ASML": 1481.77,
+        "META": 671.58,
+        "AVGO": 396.72,
+        "APP": 464.63,
+        "NBIS": 166.77,
+        "COST": 984.75,
+        "CRWD": 411.16,
+        "AMD": 258.12,
+        "PANW": 164.11,
+        "VRTX": 441.7,
+        "CRM": 177.6,
+        "PLTR": 142.15,
+        "MELI": 1872.12,
+        "ENTG": 136.995,
+        "ADBE": 244.66,
+        "INTU": 389.72,
+        "NET": 190.13,
+        "NFLX": 107.71,
+        "MRVL": 134.6,
+        "ZS": 131.01,
+        "REGN": 753.93,
+        "SMCI": 27.29,
+        "TSLA": 391.95,
+        "DDOG": 121.06,
+        "WDAY": 124.12,
+        "AMGN": 348.22,
+        "QCOM": 133.05,
+        "MDB": 244.06,
+        "ANET": 154.33,
+        "AMAT": 394.26,
+        "FTNT": 79.64,
+        "MAR": 363.74,
+        "SNOW": 144.48,
+        "SNPS": 438.45,
+        "KLAC": 1748.11,
+        "LRCX": 265.16,
+        "ABNB": 137.51,
+        "SBUX": 98.34,
+        "GILD": 139.77,
+        "PYPL": 49.57,
+        "INTC": 64.94,
+        "MRNA": 54.26,
+        "TXN": 216.29,
+        "ADI": 347.94,
+        "ARM": 159.34,
+        "ILMN": 132.26,
+        "MU": 456.23,
+        "BIIB": 180.54,
+        "COIN": 195.9
+      }
+    }
+  },
+  {
+    "timestamp": "2026-04-15T20:55:00.053812Z",
+    "portfolio_size": 55,
+    "total_allocated": 1000000,
+    "result": {
+      "success": true,
+      "submission_id": "jx795t5cw55x1jadxf1632f0m984xn29",
+      "total_invested": 1000000,
+      "total_value": 1716615.82,
+      "purchase_prices_apr15": {
+        "NVDA": 112.19999694824219,
+        "MSFT": 385.7300109863281,
+        "AAPL": 202.13999938964844,
+        "AMZN": 179.58999633789062,
+        "TSM": 157.3300018310547,
+        "GOOGL": 156.30999755859375,
+        "ASML": 683.1599731445312,
+        "META": 521.52001953125,
+        "AVGO": 178.9499969482422,
+        "APP": 245.47000122070312,
+        "NBIS": 21.329999923706055,
+        "COST": 976.9199829101562,
+        "CRWD": 392.79998779296875,
+        "AMD": 95.29000091552734,
+        "PANW": 173.5500030517578,
+        "VRTX": 500.489990234375,
+        "CRM": 254.92999267578125,
+        "PLTR": 98.4000015258789,
+        "MELI": 2118.320068359375,
+        "ENTG": 72.0999984741211,
+        "ADBE": 350.3800048828125,
+        "INTU": 594.0800170898438,
+        "NET": 109.13999938964844,
+        "NFLX": 97.62799835205078,
+        "MRVL": 53.31999969482422,
+        "ZS": 204.63999938964844,
+        "REGN": 557.9099731445312,
+        "SMCI": 33.47999954223633,
+        "TSLA": 254.11000061035156,
+        "DDOG": 92.55000305175781,
+        "WDAY": 233.32000732421875,
+        "AMGN": 295.29998779296875,
+        "QCOM": 138.60000610351562,
+        "MDB": 158.5800018310547,
+        "ANET": 73.19999694824219,
+        "AMAT": 145.4499969482422,
+        "FTNT": 99.19999694824219,
+        "MAR": 222.5800018310547,
+        "SNOW": 146.5399932861328,
+        "SNPS": 425.6499938964844,
+        "KLAC": 676.2100219726562,
+        "LRCX": 68.44000244140625,
+        "ABNB": 114.63999938964844,
+        "SBUX": 83.70999908447266,
+        "GILD": 105.68000030517578,
+        "PYPL": 62,
+        "INTC": 19.850000381469727,
+        "MRNA": 26.239999771118164,
+        "TXN": 151.17999267578125,
+        "ADI": 179.5399932861328,
+        "ARM": 103.80000305175781,
+        "ILMN": 74.58999633789062,
+        "MU": 71.04000091552734,
+        "BIIB": 116.9800033569336,
+        "COIN": 175.57000732421875
+      },
+      "eval_prices_today": {
+        "NVDA": 198.87,
+        "MSFT": 411.22,
+        "AAPL": 266.43,
+        "AMZN": 248.5,
+        "TSM": 375.1,
+        "GOOGL": 337.12,
+        "ASML": 1481.77,
+        "META": 671.58,
+        "AVGO": 396.72,
+        "APP": 464.63,
+        "NBIS": 166.77,
+        "COST": 984.75,
+        "CRWD": 411.16,
+        "AMD": 258.12,
+        "PANW": 164.11,
+        "VRTX": 441.7,
+        "CRM": 177.6,
+        "PLTR": 142.15,
+        "MELI": 1872.12,
+        "ENTG": 136.995,
+        "ADBE": 244.66,
+        "INTU": 389.72,
+        "NET": 190.13,
+        "NFLX": 107.71,
+        "MRVL": 134.6,
+        "ZS": 131.01,
+        "REGN": 753.93,
+        "SMCI": 27.29,
+        "TSLA": 391.95,
+        "DDOG": 121.06,
+        "WDAY": 124.12,
+        "AMGN": 348.22,
+        "QCOM": 133.05,
+        "MDB": 244.06,
+        "ANET": 154.33,
+        "AMAT": 394.26,
+        "FTNT": 79.64,
+        "MAR": 363.74,
+        "SNOW": 144.48,
+        "SNPS": 438.45,
+        "KLAC": 1748.11,
+        "LRCX": 265.16,
+        "ABNB": 137.51,
+        "SBUX": 98.34,
+        "GILD": 139.77,
+        "PYPL": 49.57,
+        "INTC": 64.94,
+        "MRNA": 54.26,
+        "TXN": 216.29,
+        "ADI": 347.94,
+        "ARM": 159.34,
+        "ILMN": 132.26,
+        "MU": 456.23,
+        "BIIB": 180.54,
+        "COIN": 195.9
+      }
+    }
+  },
+  {
+    "timestamp": "2026-04-15T21:02:50.617589Z",
+    "portfolio_size": 55,
+    "total_allocated": 1000000,
+    "result": {
+      "success": true,
+      "submission_id": "jx7e7a3mhcv2mwqpg4a2c8gc5n84xtvj",
+      "total_invested": 1000000,
+      "total_value": 4081666.84,
+      "purchase_prices_apr15": {
+        "NBIS": 21.329999923706055,
+        "MU": 71.04000091552734,
+        "LRCX": 68.44000244140625,
+        "INTC": 19.850000381469727,
+        "AMAT": 145.4499969482422,
+        "AMD": 95.29000091552734,
+        "KLAC": 676.2100219726562,
+        "MRVL": 53.31999969482422,
+        "TSM": 157.3300018310547,
+        "AVGO": 178.9499969482422,
+        "ASML": 683.1599731445312,
+        "GOOGL": 156.30999755859375,
+        "ANET": 73.19999694824219,
+        "MRNA": 26.239999771118164,
+        "ADI": 179.5399932861328,
+        "ENTG": 72.0999984741211,
+        "APP": 245.47000122070312,
+        "AAPL": 202.13999938964844,
+        "AMZN": 179.58999633789062,
+        "META": 521.52001953125,
+        "PLTR": 98.4000015258789,
+        "NFLX": 97.62799835205078,
+        "REGN": 557.9099731445312,
+        "DDOG": 92.55000305175781,
+        "AMGN": 295.29998779296875,
+        "ABNB": 114.63999938964844,
+        "SBUX": 83.70999908447266,
+        "GILD": 105.68000030517578,
+        "TXN": 151.17999267578125,
+        "COIN": 175.57000732421875,
+        "ILMN": 74.58999633789062,
+        "NVDA": 112.19999694824219,
+        "NET": 109.13999938964844,
+        "MAR": 222.5800018310547,
+        "BIIB": 116.9800033569336,
+        "TSLA": 254.11000061035156,
+        "MDB": 158.5800018310547,
+        "MSFT": 385.7300109863281,
+        "COST": 976.9199829101562,
+        "CRWD": 392.79998779296875,
+        "PANW": 173.5500030517578,
+        "VRTX": 500.489990234375,
+        "CRM": 254.92999267578125,
+        "MELI": 2118.320068359375,
+        "ADBE": 350.3800048828125,
+        "INTU": 594.0800170898438,
+        "ZS": 204.63999938964844,
+        "SMCI": 33.47999954223633,
+        "WDAY": 233.32000732421875,
+        "QCOM": 138.60000610351562,
+        "FTNT": 99.19999694824219,
+        "SNOW": 146.5399932861328,
+        "SNPS": 425.6499938964844,
+        "PYPL": 62,
+        "ARM": 103.80000305175781
+      },
+      "eval_prices_today": {
+        "NBIS": 166.77,
+        "MU": 456.23,
+        "LRCX": 265.16,
+        "INTC": 64.94,
+        "AMAT": 394.26,
+        "AMD": 258.12,
+        "KLAC": 1748.11,
+        "MRVL": 134.6,
+        "TSM": 375.1,
+        "AVGO": 396.72,
+        "ASML": 1481.77,
+        "GOOGL": 337.12,
+        "ANET": 154.33,
+        "MRNA": 54.26,
+        "ADI": 347.94,
+        "ENTG": 136.995,
+        "APP": 464.63,
+        "AAPL": 266.43,
+        "AMZN": 248.5,
+        "META": 671.58,
+        "PLTR": 142.15,
+        "NFLX": 107.71,
+        "REGN": 753.93,
+        "DDOG": 121.06,
+        "AMGN": 348.22,
+        "ABNB": 137.51,
+        "SBUX": 98.34,
+        "GILD": 139.77,
+        "TXN": 216.29,
+        "COIN": 195.9,
+        "ILMN": 132.26,
+        "NVDA": 198.87,
+        "NET": 190.13,
+        "MAR": 363.74,
+        "BIIB": 180.54,
+        "TSLA": 391.95,
+        "MDB": 244.06,
+        "MSFT": 411.22,
+        "COST": 984.75,
+        "CRWD": 411.16,
+        "PANW": 164.11,
+        "VRTX": 441.7,
+        "CRM": 177.6,
+        "MELI": 1872.12,
+        "ADBE": 244.66,
+        "INTU": 389.72,
+        "ZS": 131.01,
+        "SMCI": 27.29,
+        "WDAY": 124.12,
+        "QCOM": 133.05,
+        "FTNT": 79.64,
+        "SNOW": 144.48,
+        "SNPS": 438.45,
+        "PYPL": 49.57,
+        "ARM": 159.34
+      }
+    }
+  }
+]
