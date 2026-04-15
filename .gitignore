@@ -1,0 +1,7 @@
+TRADE-FUNDAMENTAL-AAPL.md
+.claude/worktrees/
+.env
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
