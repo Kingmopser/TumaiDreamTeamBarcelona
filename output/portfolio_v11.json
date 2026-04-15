@@ -505,6 +505,49 @@
     "amount": 5000
   },
   {
+    "ticker": "META",
+    "name": "Meta Platforms, Inc.",
+    "sector": "Communication Services",
+    "market_cap": "~$1.7 T",
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "META",
+      "company_name": "Meta Platforms, Inc.",
+      "market_cap": "~$1.7 T",
+      "sector": "Communication Services"
+    },
+    "_raw_all": [
+      {
+        "company": "Meta Platforms Inc.",
+        "ticker": "META",
+        "subSector": "Computer Software",
+        "exchange": "NASDAQ",
+        "sector": "Technology"
+      },
+      {
+        "ticker": "META",
+        "company": "Meta Platforms Inc.",
+        "exchange": "NASDAQ",
+        "sector": "Communication Services"
+      },
+      {
+        "ticker": "META",
+        "company": "Meta Platforms",
+        "exchange": "NASDAQ",
+        "industry": "AI",
+        "ai_focus": "AI-powered advertising, generative AI, Ray-Ban smart glasses with AI"
+      },
+      {
+        "company": "Meta Platforms",
+        "ticker": "META",
+        "exchange": "NASDAQ",
+        "industry": "software"
+      }
+    ],
+    "score": 85,
+    "amount": 5000
+  },
+  {
     "ticker": "PLTR",
     "name": "Palantir Technologies",
     "sector": "AI",
@@ -698,6 +741,77 @@
     "amount": 5000
   },
   {
+    "ticker": "MSFT",
+    "name": "Microsoft",
+    "sector": "Technology",
+    "market_cap": "~$3.6\u20134.0 T",
+    "revenue_growth": null,
+    "_raw": {
+      "company_name": "Microsoft",
+      "ticker_symbol": "MSFT",
+      "industry": "Technology"
+    },
+    "_raw_all": [
+      {
+        "ticker": "MSFT",
+        "company_name": "Microsoft Corporation",
+        "market_cap": "~$3.6\u20134.0 T",
+        "sector": "Technology"
+      },
+      {
+        "company": "Microsoft Corporation",
+        "ticker": "MSFT",
+        "subSector": "Computer Software",
+        "exchange": "NASDAQ",
+        "sector": "Technology"
+      },
+      {
+        "company": "Microsoft",
+        "ticker": "MSFT",
+        "exchange": "NASDAQ",
+        "industry": "cloud"
+      },
+      {
+        "ticker": "MSFT",
+        "company": "Microsoft Corp.",
+        "exchange": "NASDAQ",
+        "industry": "AI",
+        "ai_focus": "Major OpenAI investor, Copilot AI assistants, Azure AI cloud services"
+      },
+      {
+        "company": "Microsoft Corp.",
+        "ticker": "MSFT",
+        "exchange": "NASDAQ",
+        "industry": "software"
+      }
+    ],
+    "score": 90,
+    "amount": 5000
+  },
+  {
+    "ticker": "CRWD",
+    "name": "CrowdStrike",
+    "sector": "cloud",
+    "market_cap": null,
+    "revenue_growth": "~20\u201325%",
+    "_raw": {
+      "company": "CrowdStrike",
+      "ticker": "CRWD",
+      "exchange": "NASDAQ",
+      "industry": "cloud"
+    },
+    "_raw_all": [
+      {
+        "company": "CrowdStrike",
+        "ticker": "CRWD",
+        "revenue_growth": "~20\u201325%",
+        "industry": "Cybersecurity"
+      }
+    ],
+    "score": 82,
+    "amount": 5000
+  },
+  {
     "ticker": "ARM",
     "name": "ARM Holdings",
     "sector": "Technology",
@@ -749,9 +863,27 @@
     "revenue_growth": null
   },
   {
+    "ticker": "NXPI",
+    "name": "NXP Semiconductors",
+    "sector": "Semiconductors",
+    "amount": 5000,
+    "score": 70,
+    "market_cap": null,
+    "revenue_growth": null
+  },
+  {
     "ticker": "CRDO",
     "name": "Credo Technology",
     "sector": "AI Connectivity",
+    "amount": 5000,
+    "score": 70,
+    "market_cap": null,
+    "revenue_growth": null
+  },
+  {
+    "ticker": "AMBA",
+    "name": "Ambarella",
+    "sector": "Edge AI Chips",
     "amount": 5000,
     "score": 70,
     "market_cap": null,
@@ -807,10 +939,24 @@
     "score": 70
   },
   {
+    "ticker": "APLD",
+    "name": "Applied Digital Corp",
+    "sector": "AI Data Centers",
+    "amount": 755000,
+    "score": 70
+  },
+  {
+    "ticker": "CORZ",
+    "name": "Core Scientific",
+    "sector": "AI HPC Hosting",
+    "amount": 5000,
+    "score": 70
+  },
+  {
     "ticker": "IREN",
     "name": "Iris Energy",
     "sector": "AI Compute",
-    "amount": 755000,
+    "amount": 5000,
     "score": 70
   },
   {
@@ -835,59 +981,10 @@
     "score": 70
   },
   {
-    "ticker": "HUT",
-    "name": "Hut 8 Corp",
-    "sector": "AI HPC Infrastructure",
+    "ticker": "SMR",
+    "name": "NuScale Power",
+    "sector": "Small Modular Reactors",
     "amount": 5000,
     "score": 70
-  },
-  {
-    "ticker": "APLD",
-    "name": "Applied Digital Corp",
-    "sector": "AI Data Centers",
-    "amount": 5000,
-    "score": 90
-  },
-  {
-    "ticker": "CIFR",
-    "name": "Cipher Mining",
-    "sector": "HPC/AI Infrastructure",
-    "amount": 5000,
-    "score": 70
-  },
-  {
-    "ticker": "RIOT",
-    "name": "Riot Platforms",
-    "sector": "Bitcoin/HPC",
-    "amount": 5000,
-    "score": 70
-  },
-  {
-    "ticker": "BITF",
-    "name": "Bitfarms Ltd",
-    "sector": "Bitcoin/HPC",
-    "amount": 5000,
-    "score": 70
-  },
-  {
-    "ticker": "HIVE",
-    "name": "HIVE Digital Technologies",
-    "sector": "HPC/Bitcoin",
-    "amount": 5000,
-    "score": 70
-  },
-  {
-    "ticker": "BTDR",
-    "name": "Bitdeer Technologies",
-    "sector": "HPC Cloud",
-    "amount": 5000,
-    "score": 70
-  },
-  {
-    "ticker": "NBTX",
-    "name": "Nanobiotix",
-    "sector": "AI Biotech",
-    "amount": 5000,
-    "score": 65
   }
 ]

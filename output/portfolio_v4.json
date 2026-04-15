@@ -20,7 +20,7 @@
       }
     ],
     "score": 83,
-    "amount": 5000
+    "amount": 252194
   },
   {
     "ticker": "MU",
@@ -63,7 +63,7 @@
       }
     ],
     "score": 65,
-    "amount": 5000
+    "amount": 161101
   },
   {
     "ticker": "LRCX",
@@ -79,7 +79,7 @@
       "sector": "Technology"
     },
     "score": 72,
-    "amount": 5000
+    "amount": 62179
   },
   {
     "ticker": "INTC",
@@ -116,7 +116,7 @@
       }
     ],
     "score": 68,
-    "amount": 5000
+    "amount": 43683
   },
   {
     "ticker": "AMAT",
@@ -132,7 +132,7 @@
       "sector": "Technology"
     },
     "score": 74,
-    "amount": 5000
+    "amount": 28547
   },
   {
     "ticker": "AMD",
@@ -162,7 +162,7 @@
       }
     ],
     "score": 80,
-    "amount": 5000
+    "amount": 28501
   },
   {
     "ticker": "KLAC",
@@ -187,7 +187,7 @@
       }
     ],
     "score": 73,
-    "amount": 5000
+    "amount": 25465
   },
   {
     "ticker": "MRVL",
@@ -203,7 +203,7 @@
       "sector": "Technology"
     },
     "score": 78,
-    "amount": 5000
+    "amount": 24014
   },
   {
     "ticker": "TSM",
@@ -218,7 +218,7 @@
       "market_cap": "~$1,960B"
     },
     "score": 88,
-    "amount": 5000
+    "amount": 20778
   },
   {
     "ticker": "AVGO",
@@ -267,7 +267,7 @@
       }
     ],
     "score": 85,
-    "amount": 5000
+    "amount": 17129
   },
   {
     "ticker": "ASML",
@@ -297,7 +297,7 @@
       }
     ],
     "score": 86,
-    "amount": 5000
+    "amount": 16127
   },
   {
     "ticker": "GOOGL",
@@ -327,7 +327,7 @@
       }
     ],
     "score": 87,
-    "amount": 5000
+    "amount": 15874
   },
   {
     "ticker": "ANET",
@@ -342,7 +342,37 @@
       "industry": "Technology / AI"
     },
     "score": 75,
-    "amount": 5000
+    "amount": 14888
+  },
+  {
+    "ticker": "MRNA",
+    "name": "Moderna",
+    "sector": "Healthcare",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "MRNA",
+      "company_name": "Moderna",
+      "market_cap": null,
+      "sector": null
+    },
+    "_raw_all": [
+      {
+        "symbol": "MRNA",
+        "company": "Moderna",
+        "exchange": "NASDAQ",
+        "sector": "Healthcare",
+        "sub_industry": "Biotechnology"
+      },
+      {
+        "company": "Moderna, Inc.",
+        "ticker": "MRNA",
+        "exchange": "NASDAQ",
+        "industry": "biotechnology"
+      }
+    ],
+    "score": 68,
+    "amount": 14079
   },
   {
     "ticker": "ADI",
@@ -366,7 +396,7 @@
       }
     ],
     "score": 68,
-    "amount": 5000
+    "amount": 11590
   },
   {
     "ticker": "ENTG",
@@ -381,7 +411,7 @@
       "industry": "Semiconductors / Hardware"
     },
     "score": 80,
-    "amount": 5000
+    "amount": 10895
   },
   {
     "ticker": "APP",
@@ -412,7 +442,7 @@
       }
     ],
     "score": 85,
-    "amount": 5000
+    "amount": 10764
   },
   {
     "ticker": "AAPL",
@@ -447,7 +477,7 @@
       }
     ],
     "score": 88,
-    "amount": 5000
+    "amount": 10000
   },
   {
     "ticker": "AMZN",
@@ -502,7 +532,50 @@
       }
     ],
     "score": 88,
-    "amount": 5000
+    "amount": 10000
+  },
+  {
+    "ticker": "META",
+    "name": "Meta Platforms, Inc.",
+    "sector": "Communication Services",
+    "market_cap": "~$1.7 T",
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "META",
+      "company_name": "Meta Platforms, Inc.",
+      "market_cap": "~$1.7 T",
+      "sector": "Communication Services"
+    },
+    "_raw_all": [
+      {
+        "company": "Meta Platforms Inc.",
+        "ticker": "META",
+        "subSector": "Computer Software",
+        "exchange": "NASDAQ",
+        "sector": "Technology"
+      },
+      {
+        "ticker": "META",
+        "company": "Meta Platforms Inc.",
+        "exchange": "NASDAQ",
+        "sector": "Communication Services"
+      },
+      {
+        "ticker": "META",
+        "company": "Meta Platforms",
+        "exchange": "NASDAQ",
+        "industry": "AI",
+        "ai_focus": "AI-powered advertising, generative AI, Ray-Ban smart glasses with AI"
+      },
+      {
+        "company": "Meta Platforms",
+        "ticker": "META",
+        "exchange": "NASDAQ",
+        "industry": "software"
+      }
+    ],
+    "score": 85,
+    "amount": 10000
   },
   {
     "ticker": "PLTR",
@@ -532,7 +605,37 @@
       }
     ],
     "score": 80,
-    "amount": 5000
+    "amount": 10000
+  },
+  {
+    "ticker": "NFLX",
+    "name": "Netflix, Inc.",
+    "sector": "Communication Services",
+    "market_cap": "~$450 B",
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "NFLX",
+      "company_name": "Netflix, Inc.",
+      "market_cap": "~$450 B",
+      "sector": "Communication Services"
+    },
+    "_raw_all": [
+      {
+        "exchange": "NASDAQ",
+        "sector": "Consumer Discretionary",
+        "ticker": "NFLX",
+        "company": "Netflix, Inc.",
+        "sub_sector": "Consumer Electronics / Streaming"
+      },
+      {
+        "ticker": "NFLX",
+        "company": "Netflix, Inc.",
+        "exchange": "NASDAQ",
+        "sector": "Communication Services"
+      }
+    ],
+    "score": 78,
+    "amount": 10000
   },
   {
     "ticker": "REGN",
@@ -556,7 +659,7 @@
       }
     ],
     "score": 78,
-    "amount": 5000
+    "amount": 10000
   },
   {
     "ticker": "DDOG",
@@ -580,7 +683,71 @@
       }
     ],
     "score": 76,
-    "amount": 5000
+    "amount": 10000
+  },
+  {
+    "ticker": "AMGN",
+    "name": "Amgen",
+    "sector": "Healthcare",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "symbol": "AMGN",
+      "company": "Amgen",
+      "exchange": "NASDAQ",
+      "sector": "Healthcare",
+      "sub_industry": "Biotechnology"
+    },
+    "_raw_all": [
+      {
+        "company": "Amgen Inc.",
+        "ticker": "AMGN",
+        "exchange": "NASDAQ",
+        "industry": "biotechnology"
+      }
+    ],
+    "score": 75,
+    "amount": 10000
+  },
+  {
+    "ticker": "ABNB",
+    "name": "Airbnb, Inc.",
+    "sector": "Consumer Discretionary",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "exchange": "NASDAQ",
+      "sector": "Consumer Discretionary",
+      "ticker": "ABNB",
+      "company": "Airbnb, Inc.",
+      "sub_sector": "Diversified Commercial Services"
+    },
+    "score": 72,
+    "amount": 10000
+  },
+  {
+    "ticker": "SBUX",
+    "name": "Starbucks",
+    "sector": "Consumer Discretionary",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "SBUX",
+      "company_name": "Starbucks",
+      "market_cap": null,
+      "sector": null
+    },
+    "_raw_all": [
+      {
+        "exchange": "NASDAQ",
+        "sector": "Consumer Discretionary",
+        "ticker": "SBUX",
+        "company": "Starbucks Corporation",
+        "sub_sector": "Restaurants"
+      }
+    ],
+    "score": 70,
+    "amount": 10000
   },
   {
     "ticker": "GILD",
@@ -604,7 +771,72 @@
       }
     ],
     "score": 70,
-    "amount": 5000
+    "amount": 10000
+  },
+  {
+    "ticker": "TXN",
+    "name": "Texas Instruments",
+    "sector": "Technology",
+    "market_cap": "~$196B",
+    "revenue_growth": null,
+    "_raw": {
+      "company": "Texas Instruments",
+      "ticker": "TXN",
+      "subSector": "Semiconductors",
+      "exchange": "NASDAQ",
+      "sector": "Technology"
+    },
+    "_raw_all": [
+      {
+        "ticker": "TXN",
+        "name": "Texas Instruments Incorporated",
+        "country": "United States",
+        "market_cap": "~$196B"
+      }
+    ],
+    "score": 68,
+    "amount": 10000
+  },
+  {
+    "ticker": "COIN",
+    "name": "Coinbase Global, Inc.",
+    "sector": "Financials",
+    "market_cap": "~$46B",
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "COIN",
+      "company": "Coinbase Global, Inc.",
+      "market_cap": "~$46B",
+      "exchange": "NASDAQ",
+      "sector": "Financials"
+    },
+    "_raw_all": [
+      {
+        "name": "Coinbase Global, Inc.",
+        "ticker": "COIN",
+        "exchange": "NASDAQ",
+        "industry": "fintech",
+        "category": "Trading & Markets"
+      }
+    ],
+    "score": 65,
+    "amount": 10000
+  },
+  {
+    "ticker": "ILMN",
+    "name": "Illumina",
+    "sector": "Healthcare",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "symbol": "ILMN",
+      "company": "Illumina",
+      "exchange": "NASDAQ",
+      "sector": "Healthcare",
+      "sub_industry": "Biotech/Pharma"
+    },
+    "score": 66,
+    "amount": 8674
   },
   {
     "ticker": "NVDA",
@@ -641,7 +873,7 @@
       }
     ],
     "score": 92,
-    "amount": 5000
+    "amount": 8662
   },
   {
     "ticker": "NET",
@@ -656,7 +888,47 @@
       "industry": "cloud"
     },
     "score": 79,
-    "amount": 5000
+    "amount": 8156
+  },
+  {
+    "ticker": "MAR",
+    "name": "Marriott International, Inc.",
+    "sector": "Consumer Discretionary",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "exchange": "NASDAQ",
+      "sector": "Consumer Discretionary",
+      "ticker": "MAR",
+      "company": "Marriott International, Inc.",
+      "sub_sector": "Hotels & Resorts"
+    },
+    "score": 74,
+    "amount": 6444
+  },
+  {
+    "ticker": "BIIB",
+    "name": "Biogen",
+    "sector": "Healthcare",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "symbol": "BIIB",
+      "company": "Biogen",
+      "exchange": "NASDAQ",
+      "sector": "Healthcare",
+      "sub_industry": "Biotechnology"
+    },
+    "_raw_all": [
+      {
+        "company": "Biogen Inc.",
+        "ticker": "BIIB",
+        "exchange": "NASDAQ",
+        "industry": "biotechnology"
+      }
+    ],
+    "score": 65,
+    "amount": 5110
   },
   {
     "ticker": "TSLA",
@@ -680,7 +952,7 @@
       }
     ],
     "score": 76,
-    "amount": 5000
+    "amount": 5097
   },
   {
     "ticker": "MDB",
@@ -695,6 +967,108 @@
       "industry": "cloud"
     },
     "score": 75,
+    "amount": 5049
+  },
+  {
+    "ticker": "MSFT",
+    "name": "Microsoft",
+    "sector": "Technology",
+    "market_cap": "~$3.6\u20134.0 T",
+    "revenue_growth": null,
+    "_raw": {
+      "company_name": "Microsoft",
+      "ticker_symbol": "MSFT",
+      "industry": "Technology"
+    },
+    "_raw_all": [
+      {
+        "ticker": "MSFT",
+        "company_name": "Microsoft Corporation",
+        "market_cap": "~$3.6\u20134.0 T",
+        "sector": "Technology"
+      },
+      {
+        "company": "Microsoft Corporation",
+        "ticker": "MSFT",
+        "subSector": "Computer Software",
+        "exchange": "NASDAQ",
+        "sector": "Technology"
+      },
+      {
+        "company": "Microsoft",
+        "ticker": "MSFT",
+        "exchange": "NASDAQ",
+        "industry": "cloud"
+      },
+      {
+        "ticker": "MSFT",
+        "company": "Microsoft Corp.",
+        "exchange": "NASDAQ",
+        "industry": "AI",
+        "ai_focus": "Major OpenAI investor, Copilot AI assistants, Azure AI cloud services"
+      },
+      {
+        "company": "Microsoft Corp.",
+        "ticker": "MSFT",
+        "exchange": "NASDAQ",
+        "industry": "software"
+      }
+    ],
+    "score": 90,
+    "amount": 5000
+  },
+  {
+    "ticker": "COST",
+    "name": "Costco Wholesale Corporation",
+    "sector": "Consumer Defensive",
+    "market_cap": "~$434 B",
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "COST",
+      "company_name": "Costco Wholesale Corporation",
+      "market_cap": "~$434 B",
+      "sector": "Consumer Defensive"
+    },
+    "_raw_all": [
+      {
+        "ticker": "COST",
+        "company": "Costco Wholesale Corporation",
+        "sector": "Consumer Staples",
+        "exchange": "NASDAQ",
+        "sub_industry": "Consumer Staples Retail"
+      }
+    ],
+    "score": 82,
+    "amount": 5000
+  },
+  {
+    "ticker": "CRWD",
+    "name": "CrowdStrike",
+    "sector": "cloud",
+    "market_cap": null,
+    "revenue_growth": "~20\u201325%",
+    "_raw": {
+      "company": "CrowdStrike",
+      "ticker": "CRWD",
+      "exchange": "NASDAQ",
+      "industry": "cloud"
+    },
+    "_raw_all": [
+      {
+        "company": "CrowdStrike",
+        "ticker": "CRWD",
+        "revenue_growth": "~20\u201325%",
+        "industry": "Cybersecurity"
+      }
+    ],
+    "score": 82,
+    "amount": 5000
+  },
+  {
+    "ticker": "SNPS",
+    "name": "SNPS",
+    "sector": null,
+    "score": 0,
     "amount": 5000
   },
   {
@@ -720,6 +1094,15 @@
     ],
     "score": 68,
     "amount": 5000
+  },
+  {
+    "ticker": "AXON",
+    "name": "Axon Enterprise",
+    "sector": "AI/Security",
+    "amount": 5000,
+    "score": 70,
+    "market_cap": null,
+    "revenue_growth": null
   },
   {
     "ticker": "MPWR",
@@ -749,6 +1132,15 @@
     "revenue_growth": null
   },
   {
+    "ticker": "NXPI",
+    "name": "NXP Semiconductors",
+    "sector": "Semiconductors",
+    "amount": 5000,
+    "score": 70,
+    "market_cap": null,
+    "revenue_growth": null
+  },
+  {
     "ticker": "CRDO",
     "name": "Credo Technology",
     "sector": "AI Connectivity",
@@ -758,136 +1150,21 @@
     "revenue_growth": null
   },
   {
-    "ticker": "IONQ",
-    "name": "IonQ",
-    "sector": "Quantum Computing",
+    "ticker": "HIMS",
+    "name": "Hims & Hers Health",
+    "sector": "Telehealth",
     "amount": 5000,
-    "score": 70
+    "score": 70,
+    "market_cap": null,
+    "revenue_growth": null
   },
   {
-    "ticker": "RGTI",
-    "name": "Rigetti Computing",
-    "sector": "Quantum Computing",
-    "amount": 5000,
-    "score": 70
-  },
-  {
-    "ticker": "ALAB",
-    "name": "Astera Labs",
-    "sector": "AI Connectivity",
-    "amount": 5000,
-    "score": 70
-  },
-  {
-    "ticker": "CAMT",
-    "name": "Camtek",
-    "sector": "Semi Equipment",
-    "amount": 5000,
-    "score": 70
-  },
-  {
-    "ticker": "SMTC",
-    "name": "Semtech",
+    "ticker": "AMBA",
+    "name": "Ambarella",
     "sector": "Edge AI Chips",
     "amount": 5000,
-    "score": 70
-  },
-  {
-    "ticker": "BBAI",
-    "name": "BigBear.ai",
-    "sector": "AI Analytics",
-    "amount": 5000,
-    "score": 70
-  },
-  {
-    "ticker": "QBTS",
-    "name": "D-Wave Quantum",
-    "sector": "Quantum Computing",
-    "amount": 5000,
-    "score": 70
-  },
-  {
-    "ticker": "IREN",
-    "name": "Iris Energy",
-    "sector": "AI Compute",
-    "amount": 755000,
-    "score": 70
-  },
-  {
-    "ticker": "WULF",
-    "name": "TeraWulf",
-    "sector": "AI HPC Infrastructure",
-    "amount": 5000,
-    "score": 70
-  },
-  {
-    "ticker": "VRT",
-    "name": "Vertiv Holdings",
-    "sector": "Data Center Power",
-    "amount": 5000,
-    "score": 70
-  },
-  {
-    "ticker": "OKLO",
-    "name": "Oklo Inc",
-    "sector": "Nuclear Power AI",
-    "amount": 5000,
-    "score": 70
-  },
-  {
-    "ticker": "HUT",
-    "name": "Hut 8 Corp",
-    "sector": "AI HPC Infrastructure",
-    "amount": 5000,
-    "score": 70
-  },
-  {
-    "ticker": "APLD",
-    "name": "Applied Digital Corp",
-    "sector": "AI Data Centers",
-    "amount": 5000,
-    "score": 90
-  },
-  {
-    "ticker": "CIFR",
-    "name": "Cipher Mining",
-    "sector": "HPC/AI Infrastructure",
-    "amount": 5000,
-    "score": 70
-  },
-  {
-    "ticker": "RIOT",
-    "name": "Riot Platforms",
-    "sector": "Bitcoin/HPC",
-    "amount": 5000,
-    "score": 70
-  },
-  {
-    "ticker": "BITF",
-    "name": "Bitfarms Ltd",
-    "sector": "Bitcoin/HPC",
-    "amount": 5000,
-    "score": 70
-  },
-  {
-    "ticker": "HIVE",
-    "name": "HIVE Digital Technologies",
-    "sector": "HPC/Bitcoin",
-    "amount": 5000,
-    "score": 70
-  },
-  {
-    "ticker": "BTDR",
-    "name": "Bitdeer Technologies",
-    "sector": "HPC Cloud",
-    "amount": 5000,
-    "score": 70
-  },
-  {
-    "ticker": "NBTX",
-    "name": "Nanobiotix",
-    "sector": "AI Biotech",
-    "amount": 5000,
-    "score": 65
+    "score": 70,
+    "market_cap": null,
+    "revenue_growth": null
   }
 ]
