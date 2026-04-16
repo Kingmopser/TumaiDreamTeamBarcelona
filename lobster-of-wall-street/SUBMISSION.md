@@ -343,7 +343,68 @@ First run downloads all data and caches it (~5-8 min). Subsequent runs use cache
 
 ---
 
-## 7. Key Design Decisions
+## 7. Aggressive vs. Diversified — Why We Chose Concentration
+
+We didn't blindly concentrate. The agent supports two allocation modes, and we submitted both to the leaderboard to validate the decision:
+
+### Aggressive Mode (our primary submission)
+
+$755,000 on the single highest-conviction thesis stock (AXTI). Remaining 49 stocks at $5,000 each.
+
+```
+python -m alpha.run --submit --trials 300
+```
+
+### Mild / Diversified Mode
+
+$800,000 spread across the top 10 thesis-aligned stocks with exponential decay weighting. Remaining 40 stocks at $5,000 each.
+
+```
+python -m alpha.run --mild --submit --trials 300
+```
+
+### Safe / Conservative Mode
+
+$20,000 equal-weight across all 50 stocks. No conviction concentration at all. Stocks selected purely by fundamental quality (revenue, P/B, P/S) and size — convexity is ignored entirely. This is the "sleep well at night" portfolio.
+
+```
+python -m alpha.run --safe --submit --trials 100
+```
+
+### Results Comparison
+
+| Mode | Strategy | Top allocation | Return | vs. S&P 500 |
+|------|----------|---------------|--------|-------------|
+| **Aggressive** | 1 conviction stock (AXTI: $755k) | 75.5% of capital | **+4,023%** | 138x benchmark |
+| **Mild** | 10 conviction stocks (exponential decay) | 14.3% max | **+479%** | 16x benchmark |
+| **Safe** | 50 stocks equal-weight ($20k each) | 2.0% max | **+112%** | 4x benchmark |
+| *S&P 500 passive* | *500 stocks, equal weight* | *0.2% max* | *+29%* | *1x benchmark* |
+
+### Why Concentration Wins
+
+The math behind this is straightforward. In a portfolio optimised for maximum return under the competition's constraints (50 stocks, $5k minimum, $1M total), the expected return is dominated by the top pick:
+
+```
+Portfolio Return ≈ (Top Pick Allocation × Top Pick Return) + (small contributions from rest)
+```
+
+In the aggressive mode: $755,000 × 52.8x = $39.9M from AXTI alone.
+In the mild mode: $58,318 × 52.8x = $3.1M from AXTI — and the other 9 conviction stocks averaged ~2-3x.
+
+The key insight: **when your scoring model has identified a single stock with dramatically higher conviction than the rest, concentration is the mathematically optimal strategy**. Diversification reduces risk but also caps upside. In a competition scored purely on return, the expected-value-maximising allocation is maximum concentration.
+
+The pattern is clear: **every level of concentration beat the S&P 500 benchmark**. Even the safest, fully diversified equal-weight portfolio returned +112% — nearly 4x the passive index. This validates the underlying stock selection model. The concentration question is purely about how much upside you're willing to capture.
+
+In real-world portfolio management, the mild or safe strategy would be more appropriate for managing downside risk. But in a competition scored purely on return, the aggressive mode is the mathematically optimal choice. We include all three to demonstrate we understood the risk-return trade-off and made a deliberate decision.
+
+Output files:
+- Aggressive: `output/portfolio_v6_alpha.json`
+- Mild: `output/portfolio_v6_mild.json`
+- Safe: `output/portfolio_v6_safe.json`
+
+---
+
+## 8. Other Key Design Decisions
 
 | Decision | Approach | Justification |
 |----------|----------|---------------|
@@ -358,7 +419,7 @@ First run downloads all data and caches it (~5-8 min). Subsequent runs use cache
 
 ---
 
-## 8. Academic References
+## 9. Academic References
 
 | Concept | Source | How We Use It |
 |---------|--------|---------------|
@@ -373,7 +434,7 @@ First run downloads all data and caches it (~5-8 min). Subsequent runs use cache
 
 ---
 
-## 9. Team
+## 10. Team
 
 **TUM.ai Dreamteam**
 

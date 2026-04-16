@@ -77,17 +77,19 @@ def validate(portfolio):
     print(f"\n  Validation OK: {len(portfolio)} stocks, ${total:,}")
 
 
-def save_portfolio(portfolio, output_dir):
+def save_portfolio(portfolio, output_dir, mode_tag="alpha"):
     output_dir.mkdir(exist_ok=True)
     total = sum(p["amount"] for p in portfolio)
     out = {
-        "strategy": "v6_alpha_agent",
+        "strategy": f"v6_{mode_tag}",
         "description": (
             "Tail-event capture system. Universe: ALL NASDAQ tickers downloaded "
             "from nasdaqtrader.com (no hand-picking). Screened via convexity "
             "scoring (volatility, gap frequency, drawdown, momentum acceleration). "
-            "Monte Carlo search over 500 weight combos. Fundamentals from yfinance. "
-            "Cala AI enrichment. Conviction-weighted allocation."
+            "Monte Carlo search over weight combos. Fundamentals from yfinance. "
+            "Cala AI enrichment. "
+            + ("Diversified conviction across top 10 thesis stocks." if mode_tag == "mild"
+               else "Maximum conviction on #1 thesis stock.")
         ),
         "data_cutoff": str(DATA_CUTOFF),
         "generated_at": pd.Timestamp.now("UTC").isoformat(),
@@ -95,7 +97,7 @@ def save_portfolio(portfolio, output_dir):
         "num_stocks": len(portfolio),
         "portfolio": portfolio,
     }
-    path = output_dir / "portfolio_v6_alpha.json"
+    path = output_dir / f"portfolio_v6_{mode_tag}.json"
     path.write_text(json.dumps(out, indent=2))
     print(f"\n  Saved: {path}")
 
@@ -131,6 +133,10 @@ def parse_args():
     p.add_argument("--dry-run",   action="store_true")
     p.add_argument("--skip-cala", action="store_true")
     p.add_argument("--full-cala", action="store_true")
+    p.add_argument("--mild",      action="store_true",
+                   help="Diversified mode: spread conviction across top 10 thesis stocks")
+    p.add_argument("--safe",      action="store_true",
+                   help="Conservative mode: equal-weight, quality-first, capital preservation")
     p.add_argument("--team-id",   type=str, default=None)
     p.add_argument("--trials",    type=int, default=500)
     p.add_argument("--output-dir", type=str, default="output")
@@ -268,12 +274,66 @@ def main():
         top_tickers = ranked["ticker"].head(100).tolist()
         cala_data = enrich_with_cala(top_tickers, api_key, full_mode=args.full_cala)
 
-    # ── Stage 8: Allocation (thesis-constrained conviction) ──
-    print("\n[Stage 8] Portfolio allocation (thesis-constrained conviction) ...")
-    if thesis_ind:
-        portfolio = search_best_allocation(ranked, n_stocks=50, thesis_industries=thesis_ind)
+    # ── Stage 8: Allocation ──
+    if args.safe:
+        from alpha.allocator import allocate
+        print("\n[Stage 8] SAFE allocation (equal-weight, quality-first) ...")
+        # Re-rank by quality × size (ignore convexity — reduce volatility exposure)
+        # This produces a portfolio of cheap, real-revenue companies without
+        # betting on extreme rebounds. Capital preservation over max return.
+        safe_score = ranked["quality"] * ranked["size_f"] * ranked["geo_risk"]
+        safe_ranked = ranked.copy()
+        safe_ranked["final_score"] = safe_score
+        safe_ranked = safe_ranked.sort_values("final_score", ascending=False).reset_index(drop=True)
+
+        # Equal-weight: $20,000 per stock across 50 stocks
+        portfolio = []
+        amt = 1_000_000 // 50  # $20,000 each
+        for i, (_, row) in enumerate(safe_ranked.head(50).iterrows()):
+            a = amt + (1_000_000 - amt * 50 if i == 0 else 0)  # rounding fix on first
+            portfolio.append({
+                "ticker":       row["ticker"],
+                "sector":       row.get("yf_sector", "Unknown"),
+                "amount":       int(a),
+                "score":        round(float(row["final_score"]), 4),
+                "convexity":    round(float(row["convexity"]), 4),
+                "quality":      round(float(row["quality"]), 4),
+                "price_apr15":  round(float(row["price"]), 4),
+                "drawdown_pct": round(float(row["cur_dd"]) * 100, 1),
+                "vol_60d_pct":  round(float(row["vol_60d"]) * 100, 1),
+                "layer":        "equal_weight",
+                "rationale":    "",
+            })
+        print(f"  Equal-weight: ${amt:,} x 50 stocks")
+        print(f"  Top 5 by quality×size:")
+        for p in portfolio[:5]:
+            print(f"    {p['ticker']:<7} ${p['amount']:>7,}  Q={p['quality']:.2f}  DD={p['drawdown_pct']:+.0f}%")
+
+    elif args.mild:
+        from alpha.allocator import allocate
+        print("\n[Stage 8] MILD allocation (diversified across top 10 thesis stocks) ...")
+        # Force n_conviction=10, moderate decay — spreads capital across top picks
+        if thesis_ind:
+            thesis_mask = ranked["yf_industry"].isin(thesis_ind)
+            thesis_top = ranked[thesis_mask].head(10)["ticker"].tolist()
+            remaining = ranked[~ranked["ticker"].isin(thesis_top)].head(40)["ticker"].tolist()
+            combined_tickers = thesis_top + remaining
+            combined = ranked[ranked["ticker"].isin(combined_tickers)].copy()
+            combined["_ord"] = combined["ticker"].apply(
+                lambda t: combined_tickers.index(t) if t in combined_tickers else 999)
+            combined = combined.sort_values("_ord").head(50)
+            portfolio = allocate(combined, n_stocks=50, conviction_decay=1.5, n_conviction=10)
+        else:
+            portfolio = allocate(ranked, n_stocks=50, conviction_decay=1.5, n_conviction=10)
+        print(f"  Top 5 allocations:")
+        for p in portfolio[:5]:
+            print(f"    {p['ticker']:<7} ${p['amount']:>9,}  ({p['layer']})")
     else:
-        portfolio = search_best_allocation(ranked, n_stocks=50)
+        print("\n[Stage 8] AGGRESSIVE allocation (max conviction on #1 thesis stock) ...")
+        if thesis_ind:
+            portfolio = search_best_allocation(ranked, n_stocks=50, thesis_industries=thesis_ind)
+        else:
+            portfolio = search_best_allocation(ranked, n_stocks=50)
 
     # ── Stage 9: Rationale ──
     print("\n[Stage 9] Generating rationales ...")
@@ -282,16 +342,19 @@ def main():
 
     validate(portfolio)
     print_summary(portfolio)
-    save_portfolio(portfolio, output_dir)
+
+    mode_tag = "safe" if args.safe else ("mild" if args.mild else "alpha")
+    save_portfolio(portfolio, output_dir, mode_tag)
 
     # ── Submit ──
     if args.submit or args.dry_run:
         if not team_id:
             print("ERROR: TEAM_ID required")
             sys.exit(1)
+        agent_name = "AlphaAgent_Safe" if args.safe else ("AlphaAgent_Mild" if args.mild else "AlphaAgent")
         client = LeaderboardClient(
             team_id=team_id,
-            agent_name="AlphaAgent",
+            agent_name=agent_name,
             agent_version="6.0",
         )
         result = client.submit(portfolio, dry_run=args.dry_run)
