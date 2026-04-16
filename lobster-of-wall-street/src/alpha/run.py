@@ -43,6 +43,7 @@ from alpha.features import compute_features
 from alpha.scoring import compute_convexity_scores, compute_final_scores, derive_sector_multipliers
 from alpha.search import run_search
 from alpha.cala import enrich_with_cala
+from alpha.thesis import discover_thesis, get_thesis_industries
 from alpha.allocator import search_best_allocation
 from alpha.explain import generate_rationale
 from leaderboard_client import LeaderboardClient
@@ -230,24 +231,38 @@ def main():
     cols = ["ticker", "yf_sector", "yf_industry", "final_score", "convexity",
             "quality", "sector_mult", "cur_dd", "price"]
     for _, r in ranked.head(20).iterrows():
-        sect = str(r.get("yf_industry", ""))[:28]
-        print(f"    {r['ticker']:<7} {sect:<30} "
+        sect = str(r.get("yf_industry", ""))[:24]
+        sz = r.get("size_f", 1.0)
+        print(f"    {r['ticker']:<7} {sect:<26} "
               f"F={r['final_score']:.3f} C={r['convexity']:.3f} "
-              f"Q={r['quality']:.2f} S={r['sector_mult']:.2f} "
+              f"Q={r['quality']:.2f} Sz={sz:.2f} "
               f"DD={r['cur_dd']*100:+.0f}% ${r['price']:.2f}")
 
-    # ── Stage 7: Cala enrichment ──
+    # ── Stage 7: Thesis Discovery via Cala AI ──
+    api_key = os.environ.get("CALA_API_KEY", "")
+    thesis = {}
+    thesis_ind = set()
+    if not args.skip_cala:
+        print("\n[Stage 7a] Thesis Discovery — Cala AI research ...")
+        thesis = discover_thesis(api_key)
+        thesis_ind = get_thesis_industries(thesis)
+        print(f"\n  Thesis industries: {sorted(thesis_ind)[:8]}")
+        print(f"  Summary: {thesis.get('summary', '')[:120]}...")
+
+    # ── Stage 7b: Cala enrichment for top candidates ──
     cala_data = {}
     if not args.skip_cala:
         mode = "FULL" if args.full_cala else "standard"
-        print(f"\n[Stage 7] Cala AI enrichment ({mode}) ...")
-        api_key = os.environ.get("CALA_API_KEY", "")
+        print(f"\n[Stage 7b] Cala stock enrichment ({mode}) ...")
         top_tickers = ranked["ticker"].head(100).tolist()
         cala_data = enrich_with_cala(top_tickers, api_key, full_mode=args.full_cala)
 
-    # ── Stage 8: Allocation ──
-    print("\n[Stage 8] Portfolio allocation ...")
-    portfolio = search_best_allocation(ranked, n_stocks=50)
+    # ── Stage 8: Allocation (thesis-constrained conviction) ──
+    print("\n[Stage 8] Portfolio allocation (thesis-constrained conviction) ...")
+    if thesis_ind:
+        portfolio = search_best_allocation(ranked, n_stocks=50, thesis_industries=thesis_ind)
+    else:
+        portfolio = search_best_allocation(ranked, n_stocks=50)
 
     # ── Stage 9: Rationale ──
     print("\n[Stage 9] Generating rationales ...")

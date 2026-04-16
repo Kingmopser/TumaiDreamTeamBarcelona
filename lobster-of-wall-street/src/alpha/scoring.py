@@ -139,6 +139,53 @@ def compute_quality_from_info(features: pd.DataFrame) -> pd.Series:
     return pd.Series(scores, index=features.index, name="quality")
 
 
+def compute_size_factor(features: pd.DataFrame) -> pd.Series:
+    """
+    Fama-French size factor: smaller stocks earn higher expected returns.
+
+    Academic basis:
+    - Banz (1981): smallest decile outperforms by 5-7% annually
+    - Fama & French (1993): SMB (Small Minus Big) is a persistent factor
+    - After market dislocations, nano/micro-caps rebound most violently
+      due to neglect, illiquidity premium, and mean reversion
+
+    Historical market cap = price_apr2025 × shares_outstanding.
+    Smaller → higher size multiplier.
+    """
+    factors = []
+    for _, row in features.iterrows():
+        price = row.get("price", 0) or 0
+        shares = row.get("shares_outstanding", 0) or 0
+        mc = price * shares
+
+        if mc <= 0:
+            factors.append(1.0)
+            continue
+
+        mc_m = mc / 1e6  # in millions
+
+        # Size multiplier: aggressive tilt toward nano/micro-caps
+        # Nano (<$100M): 1.50  — maximum alpha potential
+        # Micro ($100M-$300M): 1.25
+        # Small ($300M-$1B): 1.05
+        # Mid ($1B-$5B): 0.90
+        # Large (>$5B): 0.75
+        if mc_m < 100:
+            mult = 1.50
+        elif mc_m < 300:
+            mult = 1.25
+        elif mc_m < 1000:
+            mult = 1.05
+        elif mc_m < 5000:
+            mult = 0.90
+        else:
+            mult = 0.75
+
+        factors.append(mult)
+
+    return pd.Series(factors, index=features.index, name="size_mult")
+
+
 def compute_convexity_scores(
     df: pd.DataFrame,
     w_vol: float = 0.25,
@@ -173,8 +220,19 @@ def compute_convexity_scores(
 
 def compute_final_scores(df: pd.DataFrame, sector_mult: dict = None) -> pd.DataFrame:
     """
-    Final composite: convexity × sector × quality_factor^1.3
-    Quality raised to 1.3 power → strong value-factor tilt (Fama-French).
+    Final composite score — four Fama-French-inspired factors:
+
+      final = convexity × sector_mult × quality_factor × size_factor
+
+    This captures:
+    - Convexity: tail-event potential (volatility, drawdown, gaps)
+    - Sector: AI infrastructure thesis (deliberate sector bet)
+    - Quality: deep-value + real revenue (Greenblatt magic formula)
+    - Size: micro/nano-cap premium (Fama-French SMB factor)
+
+    The size factor is the KEY differentiator: among equally volatile,
+    equally undervalued stocks, the SMALLEST ones have the highest
+    expected return due to neglect premium and information asymmetry.
     """
     out = df.copy()
 
@@ -184,6 +242,7 @@ def compute_final_scores(df: pd.DataFrame, sector_mult: dict = None) -> pd.DataF
     out["sector_mult"] = out["ticker"].map(sector_mult).fillna(0.90)
     out["quality"] = compute_quality_from_info(out)
     out["quality_f"] = (0.35 + 0.65 * out["quality"]) ** 1.3
-    out["final_score"] = out["convexity"] * out["sector_mult"] * out["quality_f"]
+    out["size_f"] = compute_size_factor(out)
+    out["final_score"] = out["convexity"] * out["sector_mult"] * out["quality_f"] * out["size_f"]
     out = out.sort_values("final_score", ascending=False).reset_index(drop=True)
     return out
