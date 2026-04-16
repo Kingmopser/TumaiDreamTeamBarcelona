@@ -124,7 +124,6 @@ Delete `cache/` to force a fresh data download on next run.
 | `FORMULAS-CHEATSHEET.md` | All math and formulas explained |
 | `ALPHA-AGENT-V6.md` | Technical architecture documentation |
 | `PITCH-STORY.md` | Science fair walkthrough narrative |
-| `VIDEO-SCRIPT.md` | 3-minute demo video script |
 
 ---
 
