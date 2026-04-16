@@ -20,7 +20,6 @@ An AI-driven stock selection agent that invests $1,000,000 across 50+ NASDAQ sto
 │   ├── SUBMISSION.md          ← Full write-up for judges
 │   ├── FORMULAS-CHEATSHEET.md ← All math explained simply
 │   ├── PITCH-STORY.md         ← Science fair walkthrough script
-│   └── VIDEO-SCRIPT.md        ← 3-minute demo recording script
 │
 ├── src/                       ← UI & early Cala exploration pipeline
 │   ├── main.py                ← Orchestrator for Cala-based approach
@@ -40,8 +39,6 @@ An AI-driven stock selection agent that invests $1,000,000 across 50+ NASDAQ sto
 │   ├── trade-thesis/          ← Investment thesis builder
 │   └── ... (15 skills total)  ← See .claude/skills/README.md
 │
-├── ALPHA-MODE.md              ← System design prompt for the agent
-├── cala-api-test.ipynb        ← Jupyter notebook for Cala API exploration
 └── .gitignore
 ```
 
@@ -134,9 +131,7 @@ See `lobster-of-wall-street/SUBMISSION.md` for the full detailed write-up.
 | `lobster-of-wall-street/SUBMISSION.md` | Complete write-up for judges — everything about the strategy |
 | `lobster-of-wall-street/FORMULAS-CHEATSHEET.md` | All math and formulas explained simply |
 | `lobster-of-wall-street/PITCH-STORY.md` | Science fair walkthrough narrative |
-| `lobster-of-wall-street/VIDEO-SCRIPT.md` | 3-minute demo video script |
 | `lobster-of-wall-street/ALPHA-AGENT-V6.md` | Technical system documentation |
-| `ALPHA-MODE.md` | System design prompt that guided the architecture |
 
 ---
 
