@@ -1,6 +1,4 @@
-# Formulas Cheatsheet — For Demo Q&A
-
-Everything the judges might ask about, explained simply with the math behind it.
+# Formulas Cheatsheet
 
 ---
 
@@ -42,7 +40,7 @@ Convexity = 0.25 × volatility_rank
 | 12M return | +29% | +10% | 2.9x | 10% |
 | Volume expansion | 0.9x | 1.1x | ~none | 10% |
 
-**If a judge asks "why 0.25 for volatility?"** → "Because volatility showed the largest separation between high-return stocks and average stocks in our empirical analysis — 3.4x difference."
+**Why 0.25 for volatility?"** → "Because volatility showed the largest separation between high-return stocks and average stocks in our empirical analysis — 3.4x difference."
 
 ---
 
@@ -66,7 +64,7 @@ Sector = 0.40 × volatility_rank_of_sector + 0.60 × thesis_multiplier
 | 2 | Electronic Components, Communication Equipment | ×1.05-1.08 | Supporting components |
 | 3 | Computer Hardware, Scientific Instruments | ×1.02-1.03 | Adjacent products |
 
-**If a judge asks "why semiconductors?"** → "Our agent queried Cala for 'NASDAQ companies with revenue growth above 30%' and found semiconductors dominated the results. We also queried for AI supply chain bottlenecks and Cala identified semiconductor substrates as capacity-constrained. This matches the public data: NVIDIA reported 122% revenue growth in February 2025, and data center capex hit all-time highs."
+**Why semiconductors?"** → "Our agent queried Cala for 'NASDAQ companies with revenue growth above 30%' and found semiconductors dominated the results. We also queried for AI supply chain bottlenecks and Cala identified semiconductor substrates as capacity-constrained. This matches the public data: NVIDIA reported 122% revenue growth in February 2025, and data center capex hit all-time highs."
 
 ---
 
@@ -110,7 +108,7 @@ Quality_Factor = (0.35 + 0.65 × Quality) ^ 1.3
 
 The 1.3 exponent makes differences in quality matter MORE. A quality score of 1.0 gives factor 1.0. A quality score of 0.5 gives factor 0.79. A quality score of 0.1 gives factor 0.46. So low-quality stocks get heavily penalised.
 
-**If a judge asks "why the interaction term?"** → "It's based on Greenblatt's magic formula and Piotroski's F-Score — the academic finding that combining value with quality outperforms either alone. The multiplicative form ensures a stock must be strong on ALL dimensions simultaneously, not just one."
+**Why the interaction term?"** → "It's based on Greenblatt's magic formula and Piotroski's F-Score — the academic finding that combining value with quality outperforms either alone. The multiplicative form ensures a stock must be strong on ALL dimensions simultaneously, not just one."
 
 ---
 
@@ -129,7 +127,7 @@ Market Cap (April 2025) = stock price on April 15, 2025 × shares outstanding
 
 AXTI: $1.17 × 55.6M shares = $65M → nano-cap → Size Factor ≈ 1.47
 
-**If a judge asks "why favor small stocks?"** → "The Fama-French size premium. Banz 1981 showed the smallest decile outperforms by 5-7% annually. After market crashes specifically, micro-caps rebound hardest because they have less institutional coverage, more information asymmetry, and bigger mispricing."
+**Why favor small stocks?"** → "The Fama-French size premium. Banz 1981 showed the smallest decile outperforms by 5-7% annually. After market crashes specifically, micro-caps rebound hardest because they have less institutional coverage, more information asymmetry, and bigger mispricing."
 
 ---
 
@@ -143,7 +141,7 @@ Geo Risk = 0.70  if headquartered in China
 
 Comes directly from the NASDAQ API's country-of-headquarters field. Not a judgment call — purely data-driven.
 
-**If a judge asks "why penalise China?"** → "On April 2, 2025, the US imposed 145% tariffs on Chinese goods. Chinese-headquartered companies face direct tariff exposure, potential HFCAA delisting risk, and export controls. Every institutional investor was reassessing China exposure. This is a standard country-risk premium."
+**Why penalise China?"** → "On April 2, 2025, the US imposed 145% tariffs on Chinese goods. Chinese-headquartered companies face direct tariff exposure, potential HFCAA delisting risk, and export controls. Every institutional investor was reassessing China exposure. This is a standard country-risk premium."
 
 ---
 
@@ -212,11 +210,11 @@ After 300 trials with different random weights, we count how many times each sto
 
 AXTI appeared in 100% of trials (all 300). It's robust regardless of how you weight the convexity signals.
 
-**If a judge asks "why Monte Carlo?"** → "To avoid overfitting. If a stock only ranks high with one specific set of weights, that's fragile. We test hundreds of weight combinations and only trust stocks that consistently rank well across all of them."
+**Why Monte Carlo?"** → "To avoid overfitting. If a stock only ranks high with one specific set of weights, that's fragile. We test hundreds of weight combinations and only trust stocks that consistently rank well across all of them."
 
 ---
 
-## Quick Reference — If They Ask...
+## Quick Reference
 
 | Question | Answer |
 |----------|--------|
