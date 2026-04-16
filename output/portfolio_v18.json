@@ -713,30 +713,30 @@
     "score": 70
   },
   {
-    "ticker": "KTOS",
-    "name": "Kratos Defense",
-    "sector": "Defense AI/Drones",
+    "ticker": "HIMS",
+    "name": "Hims & Hers Health",
+    "sector": "Telehealth/GLP-1",
     "amount": 5000,
     "score": 70
   },
   {
-    "ticker": "RCAT",
-    "name": "Red Cat Holdings",
-    "sector": "Military Drones",
+    "ticker": "SMCI",
+    "name": "Super Micro Computer",
+    "sector": "AI Servers",
     "amount": 5000,
     "score": 70
   },
   {
-    "ticker": "VST",
-    "name": "Vistra Energy",
-    "sector": "Power for AI Data Centers",
+    "ticker": "TEM",
+    "name": "Tempus AI",
+    "sector": "AI Diagnostics",
     "amount": 5000,
     "score": 70
   },
   {
-    "ticker": "PRCT",
-    "name": "Procept BioRobotics",
-    "sector": "Surgical AI Robotics",
+    "ticker": "TTD",
+    "name": "The Trade Desk",
+    "sector": "Programmatic AI Ads",
     "amount": 5000,
     "score": 70
   }

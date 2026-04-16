@@ -706,6 +706,20 @@
     "score": 70
   },
   {
+    "ticker": "MSTR",
+    "name": "MicroStrategy",
+    "sector": "Bitcoin Treasury",
+    "amount": 5000,
+    "score": 70
+  },
+  {
+    "ticker": "COIN",
+    "name": "Coinbase Global",
+    "sector": "Crypto Exchange",
+    "amount": 5000,
+    "score": 70
+  },
+  {
     "ticker": "HOOD",
     "name": "Robinhood Markets",
     "sector": "Crypto/Trading",
@@ -713,30 +727,16 @@
     "score": 70
   },
   {
-    "ticker": "KTOS",
-    "name": "Kratos Defense",
-    "sector": "Defense AI/Drones",
+    "ticker": "DUOL",
+    "name": "Duolingo",
+    "sector": "AI Education",
     "amount": 5000,
     "score": 70
   },
   {
-    "ticker": "RCAT",
-    "name": "Red Cat Holdings",
-    "sector": "Military Drones",
-    "amount": 5000,
-    "score": 70
-  },
-  {
-    "ticker": "VST",
-    "name": "Vistra Energy",
-    "sector": "Power for AI Data Centers",
-    "amount": 5000,
-    "score": 70
-  },
-  {
-    "ticker": "PRCT",
-    "name": "Procept BioRobotics",
-    "sector": "Surgical AI Robotics",
+    "ticker": "UPST",
+    "name": "Upstart Holdings",
+    "sector": "AI Lending",
     "amount": 5000,
     "score": 70
   }
