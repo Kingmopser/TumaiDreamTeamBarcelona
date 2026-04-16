@@ -1,0 +1,278 @@
+{
+  "query_formats": {
+    "companies.exchange=NASDAQ": {
+      "status": "OK",
+      "result_count": 11,
+      "entity_count": 12,
+      "sample": [
+        {
+          "ticker": "AAPL",
+          "company": "Apple Inc.",
+          "market_cap": null,
+          "exchange": "NASDAQ"
+        },
+        {
+          "ticker": "MSFT",
+          "company": "Microsoft Corporation",
+          "market_cap": null,
+          "exchange": "NASDAQ"
+        }
+      ]
+    },
+    "stocks.exchange=NASDAQ": {
+      "status": "OK",
+      "result_count": 9,
+      "entity_count": 10,
+      "sample": [
+        {
+          "exchange": "NASDAQ",
+          "company": "Apple",
+          "ticker": "AAPL",
+          "sector": "Technology"
+        },
+        {
+          "exchange": "NASDAQ",
+          "company": "Microsoft",
+          "ticker": "MSFT",
+          "sector": "Technology"
+        }
+      ]
+    },
+    "public_companies.exchange=NASDAQ": {
+      "status": "OK",
+      "result_count": 21,
+      "entity_count": 21,
+      "sample": [
+        {
+          "ticker": "NVDA",
+          "company_name": "NVIDIA Corporation",
+          "market_cap": "~$4.4\u20134.5 T",
+          "sector": "Technology"
+        },
+        {
+          "ticker": "AAPL",
+          "company_name": "Apple Inc.",
+          "market_cap": "~$3.6\u20134.0 T",
+          "sector": "Technology"
+        }
+      ]
+    },
+    "companies.listed_exchange=NASDAQ": {
+      "status": "OK",
+      "result_count": 13,
+      "entity_count": 14,
+      "sample": [
+        {
+          "company": "Apple Inc.",
+          "ticker": "AAPL",
+          "sector": "Technology",
+          "market_cap": null,
+          "listed_exchange": "NASDAQ"
+        },
+        {
+          "company": "Microsoft Corp.",
+          "ticker": "MSFT",
+          "sector": "Technology",
+          "market_cap": null,
+          "listed_exchange": "NASDAQ"
+        }
+      ]
+    },
+    "companies.stock_exchange=NASDAQ": {
+      "status": "OK",
+      "result_count": 98,
+      "entity_count": 56,
+      "sample": [
+        {
+          "company_name": "Apple",
+          "ticker_symbol": "AAPL",
+          "industry": "Technology"
+        },
+        {
+          "company_name": "Microsoft",
+          "ticker_symbol": "MSFT",
+          "industry": "Technology"
+        }
+      ]
+    },
+    "companies.exchange=NASDAQ.sector=Technology": {
+      "status": "OK",
+      "result_count": 39,
+      "entity_count": 40,
+      "sample": [
+        {
+          "company": "Apple Inc.",
+          "ticker": "AAPL",
+          "subSector": "Consumer Electronics / Software",
+          "exchange": "NASDAQ",
+          "sector": "Technology"
+        },
+        {
+          "company": "Microsoft Corporation",
+          "ticker": "MSFT",
+          "subSector": "Computer Software",
+          "exchange": "NASDAQ",
+          "sector": "Technology"
+        }
+      ]
+    },
+    "companies.exchange=NASDAQ.industry=semiconductors": {
+      "status": "OK",
+      "result_count": 12,
+      "entity_count": 15,
+      "sample": [
+        {
+          "ticker": "TSM",
+          "name": "Taiwan Semiconductor Manufacturing Company (TSMC)",
+          "country": "Taiwan",
+          "market_cap": "~$1,960B"
+        },
+        {
+          "ticker": "AVGO",
+          "name": "Broadcom Inc.",
+          "country": "United States",
+          "market_cap": "~$1,860B"
+        }
+      ]
+    },
+    "companies.exchange=NASDAQ.revenue_growth>20": {
+      "status": "OK",
+      "result_count": 17,
+      "entity_count": 17,
+      "sample": [
+        {
+          "company": "Nvidia",
+          "ticker": "NVDA",
+          "revenue_growth": "~30%+",
+          "industry": "Technology / AI"
+        },
+        {
+          "company": "Palantir Technologies",
+          "ticker": "PLTR",
+          "revenue_growth": "~39%",
+          "industry": "Technology / AI"
+        }
+      ]
+    },
+    "nasdaq.companies": {
+      "status": "OK",
+      "result_count": 16,
+      "entity_count": 16,
+      "sample": [
+        {
+          "company": "Apple Inc.",
+          "ticker": "AAPL",
+          "market_cap": "~$3.8 Trillion",
+          "rank": 1
+        },
+        {
+          "company": "Microsoft Corporation",
+          "ticker": "MSFT",
+          "market_cap": "~$3.0 Trillion",
+          "rank": 2
+        }
+      ]
+    }
+  },
+  "known_companies": {
+    "Nvidia": {
+      "id": "f6624e8a-d128-4538-87f6-bde9b1933b7b",
+      "entity_type": "Company",
+      "introspection": {
+        "properties": [
+          "esg_policy",
+          "founding_date",
+          "headquarters_address",
+          "aliases",
+          "description",
+          "registered_address",
+          "id",
+          "name"
+        ],
+        "relationships": {
+          "outgoing": [
+            "IS_SUBSIDIARY_OF",
+            "IS_REGISTERED_IN"
+          ],
+          "incoming": []
+        },
+        "numerical_observations": {}
+      }
+    },
+    "Apple": {
+      "id": "00cc50fd-5bda-4b2e-b6b0-7b179598790c",
+      "entity_type": "Company",
+      "introspection": {
+        "properties": [
+          "esg_policy",
+          "headquarters_address",
+          "aliases",
+          "lei",
+          "employee_count",
+          "id",
+          "name",
+          "description",
+          "founding_date",
+          "registered_address",
+          "legal_name"
+        ],
+        "relationships": {
+          "outgoing": [
+            "HAS_HEADQUARTERS_IN",
+            "TRADED_ON",
+            "LISTED_ON",
+            "IS_REGISTERED_IN"
+          ],
+          "incoming": [
+            "IS_BENEFICIARY_OWNER_OF"
+          ]
+        },
+        "numerical_observations": {}
+      }
+    },
+    "Microsoft": {
+      "id": "971dbf7e-8afa-4034-bf45-2c14e84cffd5",
+      "entity_type": "Company",
+      "introspection": {
+        "properties": [
+          "lei",
+          "registered_address",
+          "headquarters_address",
+          "description",
+          "employee_count",
+          "founding_date",
+          "legal_name",
+          "name",
+          "aliases",
+          "esg_policy",
+          "id"
+        ],
+        "relationships": {
+          "outgoing": [
+            "IS_REGISTERED_IN",
+            "HAS_HEADQUARTERS_IN",
+            "IS_SUBSIDIARY_OF"
+          ],
+          "incoming": [
+            "CREATED_BY",
+            "WORKS_AT",
+            "OPERATED_BY"
+          ]
+        },
+        "numerical_observations": {}
+      }
+    }
+  },
+  "search_results": {
+    "What NASDAQ technology companies have the highest revenue growth in 2024-2025?": {
+      "answer_length": 0,
+      "context_count": 0,
+      "entity_count": 0,
+      "entities": [],
+      "sample_answer": ""
+    },
+    "Which NASDAQ-listed AI semiconductor companies are growing fastest?": {
+      "error": "HTTPSConnectionPool(host='api.cala.ai', port=443): Read timed out. (read timeout=30)"
+    }
+  }
+}

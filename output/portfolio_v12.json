@@ -1,0 +1,990 @@
+[
+  {
+    "ticker": "NBIS",
+    "name": "Nebius Group",
+    "sector": "cloud",
+    "market_cap": null,
+    "revenue_growth": "~373\u2013521%",
+    "_raw": {
+      "company": "Nebius Group",
+      "ticker": "NBIS",
+      "exchange": "NASDAQ",
+      "industry": "cloud"
+    },
+    "_raw_all": [
+      {
+        "company": "Nebius Group",
+        "ticker": "NBIS",
+        "revenue_growth": "~373\u2013521%",
+        "industry": "Technology / AI"
+      }
+    ],
+    "score": 83,
+    "amount": 5000
+  },
+  {
+    "ticker": "MU",
+    "name": "Micron Technology, Inc.",
+    "sector": "Technology",
+    "market_cap": "~$518 B",
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "MU",
+      "company_name": "Micron Technology, Inc.",
+      "market_cap": "~$518 B",
+      "sector": "Technology"
+    },
+    "_raw_all": [
+      {
+        "company": "Micron Technology Inc.",
+        "ticker": "MU",
+        "subSector": "Semiconductors",
+        "exchange": "NASDAQ",
+        "sector": "Technology"
+      },
+      {
+        "ticker": "MU",
+        "name": "Micron Technology, Inc.",
+        "country": "United States",
+        "market_cap": "~$518B"
+      },
+      {
+        "ticker": "MU",
+        "company": "Micron Technology",
+        "exchange": "NASDAQ",
+        "industry": "AI",
+        "ai_focus": "Memory and storage chips critical for AI workloads"
+      },
+      {
+        "company": "Micron Technology",
+        "ticker": "MU",
+        "revenue_growth": null,
+        "industry": "Semiconductors / Hardware"
+      }
+    ],
+    "score": 65,
+    "amount": 5000
+  },
+  {
+    "ticker": "LRCX",
+    "name": "Lam Research",
+    "sector": "Technology",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "company": "Lam Research",
+      "ticker": "LRCX",
+      "subSector": "Semiconductors",
+      "exchange": "NASDAQ",
+      "sector": "Technology"
+    },
+    "score": 72,
+    "amount": 5000
+  },
+  {
+    "ticker": "INTC",
+    "name": "Intel",
+    "sector": "Technology",
+    "market_cap": "~$322B",
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "INTC",
+      "company_name": "Intel",
+      "market_cap": null,
+      "sector": null
+    },
+    "_raw_all": [
+      {
+        "company": "Intel Corporation",
+        "ticker": "INTC",
+        "subSector": "Semiconductors",
+        "exchange": "NASDAQ",
+        "sector": "Technology"
+      },
+      {
+        "ticker": "INTC",
+        "name": "Intel Corporation",
+        "country": "United States",
+        "market_cap": "~$322B"
+      },
+      {
+        "ticker": "INTC",
+        "company": "Intel Corp.",
+        "exchange": "NASDAQ",
+        "industry": "AI",
+        "ai_focus": "CPUs for data centers, custom AI chip manufacturing"
+      }
+    ],
+    "score": 68,
+    "amount": 5000
+  },
+  {
+    "ticker": "AMAT",
+    "name": "Applied Materials",
+    "sector": "Technology",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "company": "Applied Materials",
+      "ticker": "AMAT",
+      "subSector": "Semiconductors",
+      "exchange": "NASDAQ",
+      "sector": "Technology"
+    },
+    "score": 74,
+    "amount": 5000
+  },
+  {
+    "ticker": "AMD",
+    "name": "Advanced Micro Devices, Inc.",
+    "sector": "Technology",
+    "market_cap": "~$415 B",
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "AMD",
+      "company_name": "Advanced Micro Devices, Inc.",
+      "market_cap": "~$415 B",
+      "sector": "Technology"
+    },
+    "_raw_all": [
+      {
+        "company": "Advanced Micro Devices",
+        "ticker": "AMD",
+        "subSector": "Semiconductors",
+        "exchange": "NASDAQ",
+        "sector": "Technology"
+      },
+      {
+        "ticker": "AMD",
+        "name": "Advanced Micro Devices, Inc.",
+        "country": "United States",
+        "market_cap": "~$415B"
+      }
+    ],
+    "score": 80,
+    "amount": 5000
+  },
+  {
+    "ticker": "KLAC",
+    "name": "KLA Corporation",
+    "sector": "Technology",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "company": "KLA Corporation",
+      "ticker": "KLAC",
+      "subSector": "Semiconductors",
+      "exchange": "NASDAQ",
+      "sector": "Technology"
+    },
+    "_raw_all": [
+      {
+        "ticker": "KLAC",
+        "company": "KLA Corp.",
+        "exchange": "NASDAQ",
+        "industry": "AI",
+        "ai_focus": "AI-enhanced semiconductor inspection and process control"
+      }
+    ],
+    "score": 73,
+    "amount": 5000
+  },
+  {
+    "ticker": "MRVL",
+    "name": "Marvell Technology",
+    "sector": "Technology",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "company": "Marvell Technology",
+      "ticker": "MRVL",
+      "subSector": "Semiconductors",
+      "exchange": "NASDAQ",
+      "sector": "Technology"
+    },
+    "score": 78,
+    "amount": 5000
+  },
+  {
+    "ticker": "TSM",
+    "name": "Taiwan Semiconductor Manufacturing Company (TSMC)",
+    "sector": null,
+    "market_cap": "~$1,960B",
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "TSM",
+      "name": "Taiwan Semiconductor Manufacturing Company (TSMC)",
+      "country": "Taiwan",
+      "market_cap": "~$1,960B"
+    },
+    "score": 88,
+    "amount": 5000
+  },
+  {
+    "ticker": "AVGO",
+    "name": "Broadcom Inc.",
+    "sector": "Technology",
+    "market_cap": "~$1.9 T",
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "AVGO",
+      "company_name": "Broadcom Inc.",
+      "market_cap": "~$1.9 T",
+      "sector": "Technology"
+    },
+    "_raw_all": [
+      {
+        "company": "Broadcom Inc.",
+        "ticker": "AVGO",
+        "subSector": "Semiconductors",
+        "exchange": "NASDAQ",
+        "sector": "Technology"
+      },
+      {
+        "ticker": "AVGO",
+        "name": "Broadcom Inc.",
+        "country": "United States",
+        "market_cap": "~$1,860B"
+      },
+      {
+        "company": "Broadcom",
+        "ticker": "AVGO",
+        "exchange": "NASDAQ",
+        "industry": "cloud"
+      },
+      {
+        "ticker": "AVGO",
+        "company": "Broadcom Inc.",
+        "exchange": "NASDAQ",
+        "industry": "AI",
+        "ai_focus": "Custom AI chips, data center networking (Ethernet switches for AI)"
+      },
+      {
+        "company": "Broadcom Inc.",
+        "ticker": "AVGO",
+        "exchange": "NASDAQ",
+        "industry": "software"
+      }
+    ],
+    "score": 85,
+    "amount": 5000
+  },
+  {
+    "ticker": "ASML",
+    "name": "ASML Holding N.V.",
+    "sector": "Technology",
+    "market_cap": "~$566 B",
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "ASML",
+      "company_name": "ASML Holding N.V.",
+      "market_cap": "~$566 B",
+      "sector": "Technology"
+    },
+    "_raw_all": [
+      {
+        "company": "ASML Holding N.V.",
+        "ticker": "ASML",
+        "subSector": "Industrial Machinery / Semiconductors",
+        "exchange": "NASDAQ",
+        "sector": "Technology"
+      },
+      {
+        "ticker": "ASML",
+        "name": "ASML Holding N.V.",
+        "country": null,
+        "market_cap": null
+      }
+    ],
+    "score": 86,
+    "amount": 5000
+  },
+  {
+    "ticker": "GOOGL",
+    "name": "Alphabet Inc.",
+    "sector": "Communication Services",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "GOOGL",
+      "company": "Alphabet Inc.",
+      "exchange": "NASDAQ",
+      "sector": "Communication Services"
+    },
+    "_raw_all": [
+      {
+        "ticker": "GOOGL",
+        "company": "Alphabet Inc.",
+        "exchange": "NASDAQ",
+        "industry": "AI",
+        "ai_focus": "Gemini AI model, Google Cloud AI, DeepMind"
+      },
+      {
+        "company": "Alphabet Inc. (Class A)",
+        "ticker": "GOOGL",
+        "exchange": "NASDAQ",
+        "industry": "software"
+      }
+    ],
+    "score": 87,
+    "amount": 5000
+  },
+  {
+    "ticker": "ANET",
+    "name": "Arista Networks",
+    "sector": "Technology / AI",
+    "market_cap": null,
+    "revenue_growth": "~23\u201328%",
+    "_raw": {
+      "company": "Arista Networks",
+      "ticker": "ANET",
+      "revenue_growth": "~23\u201328%",
+      "industry": "Technology / AI"
+    },
+    "score": 75,
+    "amount": 5000
+  },
+  {
+    "ticker": "ADI",
+    "name": "Analog Devices",
+    "sector": "Technology",
+    "market_cap": "~$169B",
+    "revenue_growth": null,
+    "_raw": {
+      "company": "Analog Devices",
+      "ticker": "ADI",
+      "subSector": "Semiconductors",
+      "exchange": "NASDAQ",
+      "sector": "Technology"
+    },
+    "_raw_all": [
+      {
+        "ticker": "ADI",
+        "name": "Analog Devices, Inc.",
+        "country": "United States",
+        "market_cap": "~$169B"
+      }
+    ],
+    "score": 68,
+    "amount": 5000
+  },
+  {
+    "ticker": "ENTG",
+    "name": "Entegris",
+    "sector": "Semiconductors / Hardware",
+    "market_cap": null,
+    "revenue_growth": "~30%",
+    "_raw": {
+      "company": "Entegris",
+      "ticker": "ENTG",
+      "revenue_growth": "~30%",
+      "industry": "Semiconductors / Hardware"
+    },
+    "score": 80,
+    "amount": 5000
+  },
+  {
+    "ticker": "APP",
+    "name": "AppLovin Corp.",
+    "sector": "Technology",
+    "market_cap": null,
+    "revenue_growth": "~70%",
+    "_raw": {
+      "company": "AppLovin Corp.",
+      "ticker": "APP",
+      "subSector": "Computer Software",
+      "exchange": "NASDAQ",
+      "sector": "Technology"
+    },
+    "_raw_all": [
+      {
+        "ticker": "APP",
+        "company": "AppLovin Corp.",
+        "exchange": "NASDAQ",
+        "industry": "AI",
+        "ai_focus": "AI-powered advertising and marketing platform"
+      },
+      {
+        "company": "AppLovin",
+        "ticker": "APP",
+        "revenue_growth": "~70%",
+        "industry": "Technology / AI"
+      }
+    ],
+    "score": 85,
+    "amount": 5000
+  },
+  {
+    "ticker": "AAPL",
+    "name": "Apple",
+    "sector": "Technology",
+    "market_cap": "~$3.6\u20134.0 T",
+    "revenue_growth": null,
+    "_raw": {
+      "company_name": "Apple",
+      "ticker_symbol": "AAPL",
+      "industry": "Technology"
+    },
+    "_raw_all": [
+      {
+        "ticker": "AAPL",
+        "company_name": "Apple Inc.",
+        "market_cap": "~$3.6\u20134.0 T",
+        "sector": "Technology"
+      },
+      {
+        "company": "Apple Inc.",
+        "ticker": "AAPL",
+        "subSector": "Consumer Electronics / Software",
+        "exchange": "NASDAQ",
+        "sector": "Technology"
+      },
+      {
+        "company": "Apple Inc.",
+        "ticker": "AAPL",
+        "exchange": "NASDAQ",
+        "industry": "software"
+      }
+    ],
+    "score": 88,
+    "amount": 5000
+  },
+  {
+    "ticker": "AMZN",
+    "name": "Amazon",
+    "sector": "Consumer & Retail",
+    "market_cap": "~$2.7 T",
+    "revenue_growth": null,
+    "_raw": {
+      "company_name": "Amazon",
+      "ticker_symbol": "AMZN",
+      "industry": "Consumer & Retail"
+    },
+    "_raw_all": [
+      {
+        "ticker": "AMZN",
+        "company_name": "Amazon.com, Inc.",
+        "market_cap": "~$2.7 T",
+        "sector": "Consumer Cyclical"
+      },
+      {
+        "exchange": "NASDAQ",
+        "sector": "Consumer Discretionary",
+        "ticker": "AMZN",
+        "company": "Amazon.com, Inc.",
+        "sub_sector": "Broadline Retail / E-Commerce"
+      },
+      {
+        "company": "Amazon.com",
+        "ticker": "AMZN",
+        "exchange": "NASDAQ",
+        "industry": "cloud"
+      },
+      {
+        "ticker": "AMZN",
+        "company": "Amazon.com",
+        "exchange": "NASDAQ",
+        "industry": "AI",
+        "ai_focus": "Amazon Web Services (AWS) AI/ML services, Anthropic investor"
+      },
+      {
+        "company": "Amazon.com Inc.",
+        "ticker": "AMZN",
+        "exchange": "NASDAQ",
+        "industry": "software"
+      },
+      {
+        "company": "Amazon.com Inc.",
+        "ticker": "AMZN",
+        "exchange": "NASDAQ",
+        "industry": "e-commerce",
+        "market_cap": "~$2,134 B"
+      }
+    ],
+    "score": 88,
+    "amount": 5000
+  },
+  {
+    "ticker": "META",
+    "name": "Meta Platforms, Inc.",
+    "sector": "Communication Services",
+    "market_cap": "~$1.7 T",
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "META",
+      "company_name": "Meta Platforms, Inc.",
+      "market_cap": "~$1.7 T",
+      "sector": "Communication Services"
+    },
+    "_raw_all": [
+      {
+        "company": "Meta Platforms Inc.",
+        "ticker": "META",
+        "subSector": "Computer Software",
+        "exchange": "NASDAQ",
+        "sector": "Technology"
+      },
+      {
+        "ticker": "META",
+        "company": "Meta Platforms Inc.",
+        "exchange": "NASDAQ",
+        "sector": "Communication Services"
+      },
+      {
+        "ticker": "META",
+        "company": "Meta Platforms",
+        "exchange": "NASDAQ",
+        "industry": "AI",
+        "ai_focus": "AI-powered advertising, generative AI, Ray-Ban smart glasses with AI"
+      },
+      {
+        "company": "Meta Platforms",
+        "ticker": "META",
+        "exchange": "NASDAQ",
+        "industry": "software"
+      }
+    ],
+    "score": 85,
+    "amount": 5000
+  },
+  {
+    "ticker": "PLTR",
+    "name": "Palantir Technologies",
+    "sector": "AI",
+    "market_cap": null,
+    "revenue_growth": "~39%",
+    "_raw": {
+      "ticker": "PLTR",
+      "company": "Palantir Technologies",
+      "exchange": "NASDAQ",
+      "industry": "AI",
+      "ai_focus": "AI-powered data analytics for government and commercial clients"
+    },
+    "_raw_all": [
+      {
+        "company": "Palantir Technologies",
+        "ticker": "PLTR",
+        "exchange": "NASDAQ",
+        "industry": "software"
+      },
+      {
+        "company": "Palantir Technologies",
+        "ticker": "PLTR",
+        "revenue_growth": "~39%",
+        "industry": "Technology / AI"
+      }
+    ],
+    "score": 80,
+    "amount": 5000
+  },
+  {
+    "ticker": "REGN",
+    "name": "Regeneron Pharmaceuticals",
+    "sector": "Healthcare",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "symbol": "REGN",
+      "company": "Regeneron Pharmaceuticals",
+      "exchange": "NASDAQ",
+      "sector": "Healthcare",
+      "sub_industry": "Biotechnology"
+    },
+    "_raw_all": [
+      {
+        "company": "Regeneron Pharmaceuticals, Inc.",
+        "ticker": "REGN",
+        "exchange": "NASDAQ",
+        "industry": "biotechnology"
+      }
+    ],
+    "score": 78,
+    "amount": 5000
+  },
+  {
+    "ticker": "DDOG",
+    "name": "Datadog Inc.",
+    "sector": "Technology",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "company": "Datadog Inc.",
+      "ticker": "DDOG",
+      "subSector": "Computer Software",
+      "exchange": "NASDAQ",
+      "sector": "Technology"
+    },
+    "_raw_all": [
+      {
+        "company": "Datadog",
+        "ticker": "DDOG",
+        "exchange": "NASDAQ",
+        "industry": "cloud"
+      }
+    ],
+    "score": 76,
+    "amount": 5000
+  },
+  {
+    "ticker": "GILD",
+    "name": "Gilead Sciences",
+    "sector": "Healthcare",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "GILD",
+      "company_name": "Gilead Sciences",
+      "market_cap": null,
+      "sector": null
+    },
+    "_raw_all": [
+      {
+        "symbol": "GILD",
+        "company": "Gilead Sciences",
+        "exchange": "NASDAQ",
+        "sector": "Healthcare",
+        "sub_industry": "Biotechnology"
+      }
+    ],
+    "score": 70,
+    "amount": 5000
+  },
+  {
+    "ticker": "NVDA",
+    "name": "NVIDIA Corporation",
+    "sector": "Technology",
+    "market_cap": "~$4.4\u20134.5 T",
+    "revenue_growth": "~30%+",
+    "_raw": {
+      "ticker": "NVDA",
+      "company_name": "NVIDIA Corporation",
+      "market_cap": "~$4.4\u20134.5 T",
+      "sector": "Technology"
+    },
+    "_raw_all": [
+      {
+        "company": "NVIDIA Corporation",
+        "ticker": "NVDA",
+        "subSector": "Semiconductors",
+        "exchange": "NASDAQ",
+        "sector": "Technology"
+      },
+      {
+        "ticker": "NVDA",
+        "company": "NVIDIA Corp.",
+        "exchange": "NASDAQ",
+        "industry": "AI",
+        "ai_focus": "Dominant GPU maker for AI training & inference (~85\u201395% market share in AI chips)"
+      },
+      {
+        "company": "Nvidia",
+        "ticker": "NVDA",
+        "revenue_growth": "~30%+",
+        "industry": "Technology / AI"
+      }
+    ],
+    "score": 92,
+    "amount": 5000
+  },
+  {
+    "ticker": "NET",
+    "name": "Cloudflare",
+    "sector": "cloud",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "company": "Cloudflare",
+      "ticker": "NET",
+      "exchange": "NASDAQ",
+      "industry": "cloud"
+    },
+    "score": 79,
+    "amount": 5000
+  },
+  {
+    "ticker": "TSLA",
+    "name": "Tesla, Inc.",
+    "sector": "Consumer Cyclical",
+    "market_cap": "~$1.4 T",
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "TSLA",
+      "company_name": "Tesla, Inc.",
+      "market_cap": "~$1.4 T",
+      "sector": "Consumer Cyclical"
+    },
+    "_raw_all": [
+      {
+        "exchange": "NASDAQ",
+        "sector": "Consumer Discretionary",
+        "ticker": "TSLA",
+        "company": "Tesla, Inc.",
+        "sub_sector": "Automobiles & Parts"
+      }
+    ],
+    "score": 76,
+    "amount": 5000
+  },
+  {
+    "ticker": "MDB",
+    "name": "MongoDB",
+    "sector": "cloud",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "company": "MongoDB",
+      "ticker": "MDB",
+      "exchange": "NASDAQ",
+      "industry": "cloud"
+    },
+    "score": 75,
+    "amount": 5000
+  },
+  {
+    "ticker": "MSFT",
+    "name": "Microsoft",
+    "sector": "Technology",
+    "market_cap": "~$3.6\u20134.0 T",
+    "revenue_growth": null,
+    "_raw": {
+      "company_name": "Microsoft",
+      "ticker_symbol": "MSFT",
+      "industry": "Technology"
+    },
+    "_raw_all": [
+      {
+        "ticker": "MSFT",
+        "company_name": "Microsoft Corporation",
+        "market_cap": "~$3.6\u20134.0 T",
+        "sector": "Technology"
+      },
+      {
+        "company": "Microsoft Corporation",
+        "ticker": "MSFT",
+        "subSector": "Computer Software",
+        "exchange": "NASDAQ",
+        "sector": "Technology"
+      },
+      {
+        "company": "Microsoft",
+        "ticker": "MSFT",
+        "exchange": "NASDAQ",
+        "industry": "cloud"
+      },
+      {
+        "ticker": "MSFT",
+        "company": "Microsoft Corp.",
+        "exchange": "NASDAQ",
+        "industry": "AI",
+        "ai_focus": "Major OpenAI investor, Copilot AI assistants, Azure AI cloud services"
+      },
+      {
+        "company": "Microsoft Corp.",
+        "ticker": "MSFT",
+        "exchange": "NASDAQ",
+        "industry": "software"
+      }
+    ],
+    "score": 90,
+    "amount": 5000
+  },
+  {
+    "ticker": "CRWD",
+    "name": "CrowdStrike",
+    "sector": "cloud",
+    "market_cap": null,
+    "revenue_growth": "~20\u201325%",
+    "_raw": {
+      "company": "CrowdStrike",
+      "ticker": "CRWD",
+      "exchange": "NASDAQ",
+      "industry": "cloud"
+    },
+    "_raw_all": [
+      {
+        "company": "CrowdStrike",
+        "ticker": "CRWD",
+        "revenue_growth": "~20\u201325%",
+        "industry": "Cybersecurity"
+      }
+    ],
+    "score": 82,
+    "amount": 5000
+  },
+  {
+    "ticker": "ARM",
+    "name": "ARM Holdings",
+    "sector": "Technology",
+    "market_cap": "~$167B",
+    "revenue_growth": null,
+    "_raw": {
+      "company": "ARM Holdings",
+      "ticker": "ARM",
+      "subSector": "Semiconductors",
+      "exchange": "NASDAQ",
+      "sector": "Technology"
+    },
+    "_raw_all": [
+      {
+        "ticker": "ARM",
+        "name": "Arm Holdings plc",
+        "country": "United Kingdom",
+        "market_cap": "~$167B"
+      }
+    ],
+    "score": 68,
+    "amount": 5000
+  },
+  {
+    "ticker": "MPWR",
+    "name": "Monolithic Power Systems",
+    "sector": "Semiconductors",
+    "amount": 5000,
+    "score": 70,
+    "market_cap": null,
+    "revenue_growth": null
+  },
+  {
+    "ticker": "ONTO",
+    "name": "Onto Innovation",
+    "sector": "Semi Equipment",
+    "amount": 5000,
+    "score": 70,
+    "market_cap": null,
+    "revenue_growth": null
+  },
+  {
+    "ticker": "ACLS",
+    "name": "Axcelis Technologies",
+    "sector": "Semi Equipment",
+    "amount": 5000,
+    "score": 70,
+    "market_cap": null,
+    "revenue_growth": null
+  },
+  {
+    "ticker": "NXPI",
+    "name": "NXP Semiconductors",
+    "sector": "Semiconductors",
+    "amount": 5000,
+    "score": 70,
+    "market_cap": null,
+    "revenue_growth": null
+  },
+  {
+    "ticker": "CRDO",
+    "name": "Credo Technology",
+    "sector": "AI Connectivity",
+    "amount": 5000,
+    "score": 70,
+    "market_cap": null,
+    "revenue_growth": null
+  },
+  {
+    "ticker": "AMBA",
+    "name": "Ambarella",
+    "sector": "Edge AI Chips",
+    "amount": 5000,
+    "score": 70,
+    "market_cap": null,
+    "revenue_growth": null
+  },
+  {
+    "ticker": "IONQ",
+    "name": "IonQ",
+    "sector": "Quantum Computing",
+    "amount": 5000,
+    "score": 70
+  },
+  {
+    "ticker": "RGTI",
+    "name": "Rigetti Computing",
+    "sector": "Quantum Computing",
+    "amount": 5000,
+    "score": 70
+  },
+  {
+    "ticker": "ALAB",
+    "name": "Astera Labs",
+    "sector": "AI Connectivity",
+    "amount": 5000,
+    "score": 70
+  },
+  {
+    "ticker": "CAMT",
+    "name": "Camtek",
+    "sector": "Semi Equipment",
+    "amount": 5000,
+    "score": 70
+  },
+  {
+    "ticker": "SMTC",
+    "name": "Semtech",
+    "sector": "Edge AI Chips",
+    "amount": 5000,
+    "score": 70
+  },
+  {
+    "ticker": "BBAI",
+    "name": "BigBear.ai",
+    "sector": "AI Analytics",
+    "amount": 5000,
+    "score": 70
+  },
+  {
+    "ticker": "QBTS",
+    "name": "D-Wave Quantum",
+    "sector": "Quantum Computing",
+    "amount": 5000,
+    "score": 70
+  },
+  {
+    "ticker": "IREN",
+    "name": "Iris Energy",
+    "sector": "AI Compute",
+    "amount": 755000,
+    "score": 70
+  },
+  {
+    "ticker": "WULF",
+    "name": "TeraWulf",
+    "sector": "AI HPC Infrastructure",
+    "amount": 5000,
+    "score": 70
+  },
+  {
+    "ticker": "VRT",
+    "name": "Vertiv Holdings",
+    "sector": "Data Center Power",
+    "amount": 5000,
+    "score": 70
+  },
+  {
+    "ticker": "OKLO",
+    "name": "Oklo Inc",
+    "sector": "Nuclear Power AI",
+    "amount": 5000,
+    "score": 70
+  },
+  {
+    "ticker": "MARA",
+    "name": "Marathon Digital Holdings",
+    "sector": "Bitcoin/HPC Compute",
+    "amount": 5000,
+    "score": 70
+  },
+  {
+    "ticker": "HUT",
+    "name": "Hut 8 Corp",
+    "sector": "AI HPC Infrastructure",
+    "amount": 5000,
+    "score": 70
+  },
+  {
+    "ticker": "CLSK",
+    "name": "CleanSpark",
+    "sector": "Bitcoin Mining/HPC",
+    "amount": 5000,
+    "score": 70
+  }
+]

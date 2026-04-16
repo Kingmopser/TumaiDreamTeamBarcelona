@@ -1,0 +1,6941 @@
+[
+  {
+    "ticker": "NVDA",
+    "name": "NVIDIA Corporation",
+    "sector": "Technology",
+    "market_cap": "~$4.4\u20134.5 T",
+    "revenue_growth": "~30%+",
+    "_raw": {
+      "ticker": "NVDA",
+      "company_name": "NVIDIA Corporation",
+      "market_cap": "~$4.4\u20134.5 T",
+      "sector": "Technology"
+    },
+    "_raw_all": [
+      {
+        "company": "NVIDIA Corporation",
+        "ticker": "NVDA",
+        "subSector": "Semiconductors",
+        "exchange": "NASDAQ",
+        "sector": "Technology"
+      },
+      {
+        "ticker": "NVDA",
+        "company": "NVIDIA Corp.",
+        "exchange": "NASDAQ",
+        "industry": "AI",
+        "ai_focus": "Dominant GPU maker for AI training & inference (~85\u201395% market share in AI chips)"
+      },
+      {
+        "company": "Nvidia",
+        "ticker": "NVDA",
+        "revenue_growth": "~30%+",
+        "industry": "Technology / AI"
+      }
+    ],
+    "score": 92
+  },
+  {
+    "ticker": "MSFT",
+    "name": "Microsoft",
+    "sector": "Technology",
+    "market_cap": "~$3.6\u20134.0 T",
+    "revenue_growth": null,
+    "_raw": {
+      "company_name": "Microsoft",
+      "ticker_symbol": "MSFT",
+      "industry": "Technology"
+    },
+    "_raw_all": [
+      {
+        "ticker": "MSFT",
+        "company_name": "Microsoft Corporation",
+        "market_cap": "~$3.6\u20134.0 T",
+        "sector": "Technology"
+      },
+      {
+        "company": "Microsoft Corporation",
+        "ticker": "MSFT",
+        "subSector": "Computer Software",
+        "exchange": "NASDAQ",
+        "sector": "Technology"
+      },
+      {
+        "company": "Microsoft",
+        "ticker": "MSFT",
+        "exchange": "NASDAQ",
+        "industry": "cloud"
+      },
+      {
+        "ticker": "MSFT",
+        "company": "Microsoft Corp.",
+        "exchange": "NASDAQ",
+        "industry": "AI",
+        "ai_focus": "Major OpenAI investor, Copilot AI assistants, Azure AI cloud services"
+      },
+      {
+        "company": "Microsoft Corp.",
+        "ticker": "MSFT",
+        "exchange": "NASDAQ",
+        "industry": "software"
+      }
+    ],
+    "score": 90
+  },
+  {
+    "ticker": "AAPL",
+    "name": "Apple",
+    "sector": "Technology",
+    "market_cap": "~$3.6\u20134.0 T",
+    "revenue_growth": null,
+    "_raw": {
+      "company_name": "Apple",
+      "ticker_symbol": "AAPL",
+      "industry": "Technology"
+    },
+    "_raw_all": [
+      {
+        "ticker": "AAPL",
+        "company_name": "Apple Inc.",
+        "market_cap": "~$3.6\u20134.0 T",
+        "sector": "Technology"
+      },
+      {
+        "company": "Apple Inc.",
+        "ticker": "AAPL",
+        "subSector": "Consumer Electronics / Software",
+        "exchange": "NASDAQ",
+        "sector": "Technology"
+      },
+      {
+        "company": "Apple Inc.",
+        "ticker": "AAPL",
+        "exchange": "NASDAQ",
+        "industry": "software"
+      }
+    ],
+    "score": 88
+  },
+  {
+    "ticker": "AMZN",
+    "name": "Amazon",
+    "sector": "Consumer & Retail",
+    "market_cap": "~$2.7 T",
+    "revenue_growth": null,
+    "_raw": {
+      "company_name": "Amazon",
+      "ticker_symbol": "AMZN",
+      "industry": "Consumer & Retail"
+    },
+    "_raw_all": [
+      {
+        "ticker": "AMZN",
+        "company_name": "Amazon.com, Inc.",
+        "market_cap": "~$2.7 T",
+        "sector": "Consumer Cyclical"
+      },
+      {
+        "exchange": "NASDAQ",
+        "sector": "Consumer Discretionary",
+        "ticker": "AMZN",
+        "company": "Amazon.com, Inc.",
+        "sub_sector": "Broadline Retail / E-Commerce"
+      },
+      {
+        "company": "Amazon.com",
+        "ticker": "AMZN",
+        "exchange": "NASDAQ",
+        "industry": "cloud"
+      },
+      {
+        "ticker": "AMZN",
+        "company": "Amazon.com",
+        "exchange": "NASDAQ",
+        "industry": "AI",
+        "ai_focus": "Amazon Web Services (AWS) AI/ML services, Anthropic investor"
+      },
+      {
+        "company": "Amazon.com Inc.",
+        "ticker": "AMZN",
+        "exchange": "NASDAQ",
+        "industry": "software"
+      },
+      {
+        "company": "Amazon.com Inc.",
+        "ticker": "AMZN",
+        "exchange": "NASDAQ",
+        "industry": "e-commerce",
+        "market_cap": "~$2,134 B"
+      }
+    ],
+    "score": 88
+  },
+  {
+    "ticker": "TSM",
+    "name": "Taiwan Semiconductor Manufacturing Company (TSMC)",
+    "sector": null,
+    "market_cap": "~$1,960B",
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "TSM",
+      "name": "Taiwan Semiconductor Manufacturing Company (TSMC)",
+      "country": "Taiwan",
+      "market_cap": "~$1,960B"
+    },
+    "score": 88
+  },
+  {
+    "ticker": "GOOGL",
+    "name": "Alphabet Inc.",
+    "sector": "Communication Services",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "GOOGL",
+      "company": "Alphabet Inc.",
+      "exchange": "NASDAQ",
+      "sector": "Communication Services"
+    },
+    "_raw_all": [
+      {
+        "ticker": "GOOGL",
+        "company": "Alphabet Inc.",
+        "exchange": "NASDAQ",
+        "industry": "AI",
+        "ai_focus": "Gemini AI model, Google Cloud AI, DeepMind"
+      },
+      {
+        "company": "Alphabet Inc. (Class A)",
+        "ticker": "GOOGL",
+        "exchange": "NASDAQ",
+        "industry": "software"
+      }
+    ],
+    "score": 87
+  },
+  {
+    "ticker": "ASML",
+    "name": "ASML Holding N.V.",
+    "sector": "Technology",
+    "market_cap": "~$566 B",
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "ASML",
+      "company_name": "ASML Holding N.V.",
+      "market_cap": "~$566 B",
+      "sector": "Technology"
+    },
+    "_raw_all": [
+      {
+        "company": "ASML Holding N.V.",
+        "ticker": "ASML",
+        "subSector": "Industrial Machinery / Semiconductors",
+        "exchange": "NASDAQ",
+        "sector": "Technology"
+      },
+      {
+        "ticker": "ASML",
+        "name": "ASML Holding N.V.",
+        "country": null,
+        "market_cap": null
+      }
+    ],
+    "score": 86
+  },
+  {
+    "ticker": "META",
+    "name": "Meta Platforms, Inc.",
+    "sector": "Communication Services",
+    "market_cap": "~$1.7 T",
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "META",
+      "company_name": "Meta Platforms, Inc.",
+      "market_cap": "~$1.7 T",
+      "sector": "Communication Services"
+    },
+    "_raw_all": [
+      {
+        "company": "Meta Platforms Inc.",
+        "ticker": "META",
+        "subSector": "Computer Software",
+        "exchange": "NASDAQ",
+        "sector": "Technology"
+      },
+      {
+        "ticker": "META",
+        "company": "Meta Platforms Inc.",
+        "exchange": "NASDAQ",
+        "sector": "Communication Services"
+      },
+      {
+        "ticker": "META",
+        "company": "Meta Platforms",
+        "exchange": "NASDAQ",
+        "industry": "AI",
+        "ai_focus": "AI-powered advertising, generative AI, Ray-Ban smart glasses with AI"
+      },
+      {
+        "company": "Meta Platforms",
+        "ticker": "META",
+        "exchange": "NASDAQ",
+        "industry": "software"
+      }
+    ],
+    "score": 85
+  },
+  {
+    "ticker": "AVGO",
+    "name": "Broadcom Inc.",
+    "sector": "Technology",
+    "market_cap": "~$1.9 T",
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "AVGO",
+      "company_name": "Broadcom Inc.",
+      "market_cap": "~$1.9 T",
+      "sector": "Technology"
+    },
+    "_raw_all": [
+      {
+        "company": "Broadcom Inc.",
+        "ticker": "AVGO",
+        "subSector": "Semiconductors",
+        "exchange": "NASDAQ",
+        "sector": "Technology"
+      },
+      {
+        "ticker": "AVGO",
+        "name": "Broadcom Inc.",
+        "country": "United States",
+        "market_cap": "~$1,860B"
+      },
+      {
+        "company": "Broadcom",
+        "ticker": "AVGO",
+        "exchange": "NASDAQ",
+        "industry": "cloud"
+      },
+      {
+        "ticker": "AVGO",
+        "company": "Broadcom Inc.",
+        "exchange": "NASDAQ",
+        "industry": "AI",
+        "ai_focus": "Custom AI chips, data center networking (Ethernet switches for AI)"
+      },
+      {
+        "company": "Broadcom Inc.",
+        "ticker": "AVGO",
+        "exchange": "NASDAQ",
+        "industry": "software"
+      }
+    ],
+    "score": 85
+  },
+  {
+    "ticker": "APP",
+    "name": "AppLovin Corp.",
+    "sector": "Technology",
+    "market_cap": null,
+    "revenue_growth": "~70%",
+    "_raw": {
+      "company": "AppLovin Corp.",
+      "ticker": "APP",
+      "subSector": "Computer Software",
+      "exchange": "NASDAQ",
+      "sector": "Technology"
+    },
+    "_raw_all": [
+      {
+        "ticker": "APP",
+        "company": "AppLovin Corp.",
+        "exchange": "NASDAQ",
+        "industry": "AI",
+        "ai_focus": "AI-powered advertising and marketing platform"
+      },
+      {
+        "company": "AppLovin",
+        "ticker": "APP",
+        "revenue_growth": "~70%",
+        "industry": "Technology / AI"
+      }
+    ],
+    "score": 85
+  },
+  {
+    "ticker": "NBIS",
+    "name": "Nebius Group",
+    "sector": "cloud",
+    "market_cap": null,
+    "revenue_growth": "~373\u2013521%",
+    "_raw": {
+      "company": "Nebius Group",
+      "ticker": "NBIS",
+      "exchange": "NASDAQ",
+      "industry": "cloud"
+    },
+    "_raw_all": [
+      {
+        "company": "Nebius Group",
+        "ticker": "NBIS",
+        "revenue_growth": "~373\u2013521%",
+        "industry": "Technology / AI"
+      }
+    ],
+    "score": 83
+  },
+  {
+    "ticker": "COST",
+    "name": "Costco Wholesale Corporation",
+    "sector": "Consumer Defensive",
+    "market_cap": "~$434 B",
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "COST",
+      "company_name": "Costco Wholesale Corporation",
+      "market_cap": "~$434 B",
+      "sector": "Consumer Defensive"
+    },
+    "_raw_all": [
+      {
+        "ticker": "COST",
+        "company": "Costco Wholesale Corporation",
+        "sector": "Consumer Staples",
+        "exchange": "NASDAQ",
+        "sub_industry": "Consumer Staples Retail"
+      }
+    ],
+    "score": 82
+  },
+  {
+    "ticker": "CRWD",
+    "name": "CrowdStrike",
+    "sector": "cloud",
+    "market_cap": null,
+    "revenue_growth": "~20\u201325%",
+    "_raw": {
+      "company": "CrowdStrike",
+      "ticker": "CRWD",
+      "exchange": "NASDAQ",
+      "industry": "cloud"
+    },
+    "_raw_all": [
+      {
+        "company": "CrowdStrike",
+        "ticker": "CRWD",
+        "revenue_growth": "~20\u201325%",
+        "industry": "Cybersecurity"
+      }
+    ],
+    "score": 82
+  },
+  {
+    "ticker": "AMD",
+    "name": "Advanced Micro Devices, Inc.",
+    "sector": "Technology",
+    "market_cap": "~$415 B",
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "AMD",
+      "company_name": "Advanced Micro Devices, Inc.",
+      "market_cap": "~$415 B",
+      "sector": "Technology"
+    },
+    "_raw_all": [
+      {
+        "company": "Advanced Micro Devices",
+        "ticker": "AMD",
+        "subSector": "Semiconductors",
+        "exchange": "NASDAQ",
+        "sector": "Technology"
+      },
+      {
+        "ticker": "AMD",
+        "name": "Advanced Micro Devices, Inc.",
+        "country": "United States",
+        "market_cap": "~$415B"
+      }
+    ],
+    "score": 80
+  },
+  {
+    "ticker": "PANW",
+    "name": "Palo Alto Networks",
+    "sector": "Technology",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "company": "Palo Alto Networks",
+      "ticker": "PANW",
+      "subSector": "Cybersecurity",
+      "exchange": "NASDAQ",
+      "sector": "Technology"
+    },
+    "_raw_all": [
+      {
+        "company": "Palo Alto Networks",
+        "ticker": "PANW",
+        "exchange": "NASDAQ",
+        "industry": "cloud"
+      },
+      {
+        "ticker": "PANW",
+        "company": "Palo Alto Networks",
+        "exchange": "NASDAQ",
+        "industry": "AI",
+        "ai_focus": "AI-driven cybersecurity solutions"
+      }
+    ],
+    "score": 80
+  },
+  {
+    "ticker": "VRTX",
+    "name": "Vertex Pharmaceuticals",
+    "sector": "Healthcare",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "symbol": "VRTX",
+      "company": "Vertex Pharmaceuticals",
+      "exchange": "NASDAQ",
+      "sector": "Healthcare",
+      "sub_industry": "Biotechnology"
+    },
+    "_raw_all": [
+      {
+        "company": "Vertex Pharmaceuticals Incorporated",
+        "ticker": "VRTX",
+        "exchange": "NASDAQ",
+        "industry": "biotechnology"
+      }
+    ],
+    "score": 80
+  },
+  {
+    "ticker": "CRM",
+    "name": "Salesforce",
+    "sector": "cloud",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "company": "Salesforce",
+      "ticker": "CRM",
+      "exchange": "NASDAQ",
+      "industry": "cloud"
+    },
+    "score": 80
+  },
+  {
+    "ticker": "PLTR",
+    "name": "Palantir Technologies",
+    "sector": "AI",
+    "market_cap": null,
+    "revenue_growth": "~39%",
+    "_raw": {
+      "ticker": "PLTR",
+      "company": "Palantir Technologies",
+      "exchange": "NASDAQ",
+      "industry": "AI",
+      "ai_focus": "AI-powered data analytics for government and commercial clients"
+    },
+    "_raw_all": [
+      {
+        "company": "Palantir Technologies",
+        "ticker": "PLTR",
+        "exchange": "NASDAQ",
+        "industry": "software"
+      },
+      {
+        "company": "Palantir Technologies",
+        "ticker": "PLTR",
+        "revenue_growth": "~39%",
+        "industry": "Technology / AI"
+      }
+    ],
+    "score": 80
+  },
+  {
+    "ticker": "MELI",
+    "name": "MercadoLibre Inc.",
+    "sector": "e-commerce",
+    "market_cap": "~$101 B",
+    "revenue_growth": null,
+    "_raw": {
+      "company": "MercadoLibre Inc.",
+      "ticker": "MELI",
+      "exchange": "NASDAQ",
+      "industry": "e-commerce",
+      "market_cap": "~$101 B"
+    },
+    "score": 80
+  },
+  {
+    "ticker": "ENTG",
+    "name": "Entegris",
+    "sector": "Semiconductors / Hardware",
+    "market_cap": null,
+    "revenue_growth": "~30%",
+    "_raw": {
+      "company": "Entegris",
+      "ticker": "ENTG",
+      "revenue_growth": "~30%",
+      "industry": "Semiconductors / Hardware"
+    },
+    "score": 80
+  },
+  {
+    "ticker": "NET",
+    "name": "Cloudflare",
+    "sector": "cloud",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "company": "Cloudflare",
+      "ticker": "NET",
+      "exchange": "NASDAQ",
+      "industry": "cloud"
+    },
+    "score": 79
+  },
+  {
+    "ticker": "NFLX",
+    "name": "Netflix, Inc.",
+    "sector": "Communication Services",
+    "market_cap": "~$450 B",
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "NFLX",
+      "company_name": "Netflix, Inc.",
+      "market_cap": "~$450 B",
+      "sector": "Communication Services"
+    },
+    "_raw_all": [
+      {
+        "exchange": "NASDAQ",
+        "sector": "Consumer Discretionary",
+        "ticker": "NFLX",
+        "company": "Netflix, Inc.",
+        "sub_sector": "Consumer Electronics / Streaming"
+      },
+      {
+        "ticker": "NFLX",
+        "company": "Netflix, Inc.",
+        "exchange": "NASDAQ",
+        "sector": "Communication Services"
+      }
+    ],
+    "score": 78
+  },
+  {
+    "ticker": "MRVL",
+    "name": "Marvell Technology",
+    "sector": "Technology",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "company": "Marvell Technology",
+      "ticker": "MRVL",
+      "subSector": "Semiconductors",
+      "exchange": "NASDAQ",
+      "sector": "Technology"
+    },
+    "score": 78
+  },
+  {
+    "ticker": "ZS",
+    "name": "Zscaler Inc.",
+    "sector": "Technology",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "company": "Zscaler Inc.",
+      "ticker": "ZS",
+      "subSector": "Cybersecurity",
+      "exchange": "NASDAQ",
+      "sector": "Technology"
+    },
+    "_raw_all": [
+      {
+        "company": "Zscaler",
+        "ticker": "ZS",
+        "exchange": "NASDAQ",
+        "industry": "cloud"
+      }
+    ],
+    "score": 78
+  },
+  {
+    "ticker": "REGN",
+    "name": "Regeneron Pharmaceuticals",
+    "sector": "Healthcare",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "symbol": "REGN",
+      "company": "Regeneron Pharmaceuticals",
+      "exchange": "NASDAQ",
+      "sector": "Healthcare",
+      "sub_industry": "Biotechnology"
+    },
+    "_raw_all": [
+      {
+        "company": "Regeneron Pharmaceuticals, Inc.",
+        "ticker": "REGN",
+        "exchange": "NASDAQ",
+        "industry": "biotechnology"
+      }
+    ],
+    "score": 78
+  },
+  {
+    "ticker": "TSLA",
+    "name": "Tesla, Inc.",
+    "sector": "Consumer Cyclical",
+    "market_cap": "~$1.4 T",
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "TSLA",
+      "company_name": "Tesla, Inc.",
+      "market_cap": "~$1.4 T",
+      "sector": "Consumer Cyclical"
+    },
+    "_raw_all": [
+      {
+        "exchange": "NASDAQ",
+        "sector": "Consumer Discretionary",
+        "ticker": "TSLA",
+        "company": "Tesla, Inc.",
+        "sub_sector": "Automobiles & Parts"
+      }
+    ],
+    "score": 76
+  },
+  {
+    "ticker": "DDOG",
+    "name": "Datadog Inc.",
+    "sector": "Technology",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "company": "Datadog Inc.",
+      "ticker": "DDOG",
+      "subSector": "Computer Software",
+      "exchange": "NASDAQ",
+      "sector": "Technology"
+    },
+    "_raw_all": [
+      {
+        "company": "Datadog",
+        "ticker": "DDOG",
+        "exchange": "NASDAQ",
+        "industry": "cloud"
+      }
+    ],
+    "score": 76
+  },
+  {
+    "ticker": "AMGN",
+    "name": "Amgen",
+    "sector": "Healthcare",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "symbol": "AMGN",
+      "company": "Amgen",
+      "exchange": "NASDAQ",
+      "sector": "Healthcare",
+      "sub_industry": "Biotechnology"
+    },
+    "_raw_all": [
+      {
+        "company": "Amgen Inc.",
+        "ticker": "AMGN",
+        "exchange": "NASDAQ",
+        "industry": "biotechnology"
+      }
+    ],
+    "score": 75
+  },
+  {
+    "ticker": "QCOM",
+    "name": "QUALCOMM Incorporated",
+    "sector": null,
+    "market_cap": "~$142B",
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "QCOM",
+      "name": "QUALCOMM Incorporated",
+      "country": "United States",
+      "market_cap": "~$142B"
+    },
+    "score": 75
+  },
+  {
+    "ticker": "MDB",
+    "name": "MongoDB",
+    "sector": "cloud",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "company": "MongoDB",
+      "ticker": "MDB",
+      "exchange": "NASDAQ",
+      "industry": "cloud"
+    },
+    "score": 75
+  },
+  {
+    "ticker": "ANET",
+    "name": "Arista Networks",
+    "sector": "Technology / AI",
+    "market_cap": null,
+    "revenue_growth": "~23\u201328%",
+    "_raw": {
+      "company": "Arista Networks",
+      "ticker": "ANET",
+      "revenue_growth": "~23\u201328%",
+      "industry": "Technology / AI"
+    },
+    "score": 75
+  },
+  {
+    "ticker": "PDFS",
+    "name": "PDF Solutions",
+    "sector": "Semiconductors / Hardware",
+    "market_cap": null,
+    "revenue_growth": "~22%",
+    "_raw": {
+      "company": "PDF Solutions",
+      "ticker": "PDFS",
+      "revenue_growth": "~22%",
+      "industry": "Semiconductors / Hardware"
+    },
+    "score": 75
+  },
+  {
+    "ticker": "AMAT",
+    "name": "Applied Materials",
+    "sector": "Technology",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "company": "Applied Materials",
+      "ticker": "AMAT",
+      "subSector": "Semiconductors",
+      "exchange": "NASDAQ",
+      "sector": "Technology"
+    },
+    "score": 74
+  },
+  {
+    "ticker": "FTNT",
+    "name": "Fortinet Inc.",
+    "sector": "Technology",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "company": "Fortinet Inc.",
+      "ticker": "FTNT",
+      "subSector": "Computer Peripheral Equipment / Cybersecurity",
+      "exchange": "NASDAQ",
+      "sector": "Technology"
+    },
+    "score": 74
+  },
+  {
+    "ticker": "MAR",
+    "name": "Marriott International, Inc.",
+    "sector": "Consumer Discretionary",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "exchange": "NASDAQ",
+      "sector": "Consumer Discretionary",
+      "ticker": "MAR",
+      "company": "Marriott International, Inc.",
+      "sub_sector": "Hotels & Resorts"
+    },
+    "score": 74
+  },
+  {
+    "ticker": "SNOW",
+    "name": "Snowflake",
+    "sector": "cloud",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "company": "Snowflake",
+      "ticker": "SNOW",
+      "exchange": "NASDAQ",
+      "industry": "cloud"
+    },
+    "score": 74
+  },
+  {
+    "ticker": "KLAC",
+    "name": "KLA Corporation",
+    "sector": "Technology",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "company": "KLA Corporation",
+      "ticker": "KLAC",
+      "subSector": "Semiconductors",
+      "exchange": "NASDAQ",
+      "sector": "Technology"
+    },
+    "_raw_all": [
+      {
+        "ticker": "KLAC",
+        "company": "KLA Corp.",
+        "exchange": "NASDAQ",
+        "industry": "AI",
+        "ai_focus": "AI-enhanced semiconductor inspection and process control"
+      }
+    ],
+    "score": 73
+  },
+  {
+    "ticker": "SEMR",
+    "name": "Semrush",
+    "sector": "cloud",
+    "market_cap": null,
+    "revenue_growth": "~20%",
+    "_raw": {
+      "company": "Semrush",
+      "ticker": "SEMR",
+      "exchange": "NASDAQ",
+      "industry": "cloud"
+    },
+    "_raw_all": [
+      {
+        "company": "Semrush",
+        "ticker": "SEMR",
+        "revenue_growth": "~20%",
+        "industry": "SaaS / Software"
+      }
+    ],
+    "score": 73
+  },
+  {
+    "ticker": "LRCX",
+    "name": "Lam Research",
+    "sector": "Technology",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "company": "Lam Research",
+      "ticker": "LRCX",
+      "subSector": "Semiconductors",
+      "exchange": "NASDAQ",
+      "sector": "Technology"
+    },
+    "score": 72
+  },
+  {
+    "ticker": "ABNB",
+    "name": "Airbnb, Inc.",
+    "sector": "Consumer Discretionary",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "exchange": "NASDAQ",
+      "sector": "Consumer Discretionary",
+      "ticker": "ABNB",
+      "company": "Airbnb, Inc.",
+      "sub_sector": "Diversified Commercial Services"
+    },
+    "score": 72
+  },
+  {
+    "ticker": "SBUX",
+    "name": "Starbucks",
+    "sector": "Consumer Discretionary",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "SBUX",
+      "company_name": "Starbucks",
+      "market_cap": null,
+      "sector": null
+    },
+    "_raw_all": [
+      {
+        "exchange": "NASDAQ",
+        "sector": "Consumer Discretionary",
+        "ticker": "SBUX",
+        "company": "Starbucks Corporation",
+        "sub_sector": "Restaurants"
+      }
+    ],
+    "score": 70
+  },
+  {
+    "ticker": "GILD",
+    "name": "Gilead Sciences",
+    "sector": "Healthcare",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "GILD",
+      "company_name": "Gilead Sciences",
+      "market_cap": null,
+      "sector": null
+    },
+    "_raw_all": [
+      {
+        "symbol": "GILD",
+        "company": "Gilead Sciences",
+        "exchange": "NASDAQ",
+        "sector": "Healthcare",
+        "sub_industry": "Biotechnology"
+      }
+    ],
+    "score": 70
+  },
+  {
+    "ticker": "PYPL",
+    "name": "PayPal",
+    "sector": "Financials",
+    "market_cap": "Large Cap",
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "PYPL",
+      "company_name": "PayPal",
+      "market_cap": null,
+      "sector": null
+    },
+    "_raw_all": [
+      {
+        "ticker": "PYPL",
+        "company": "PayPal Holdings",
+        "market_cap": "Large Cap",
+        "exchange": "NASDAQ",
+        "sector": "Financials"
+      },
+      {
+        "name": "PayPal Holdings, Inc.",
+        "ticker": "PYPL",
+        "exchange": "NASDAQ",
+        "industry": "fintech",
+        "category": "Payments & Digital Wallets"
+      }
+    ],
+    "score": 70
+  },
+  {
+    "ticker": "INTC",
+    "name": "Intel",
+    "sector": "Technology",
+    "market_cap": "~$322B",
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "INTC",
+      "company_name": "Intel",
+      "market_cap": null,
+      "sector": null
+    },
+    "_raw_all": [
+      {
+        "company": "Intel Corporation",
+        "ticker": "INTC",
+        "subSector": "Semiconductors",
+        "exchange": "NASDAQ",
+        "sector": "Technology"
+      },
+      {
+        "ticker": "INTC",
+        "name": "Intel Corporation",
+        "country": "United States",
+        "market_cap": "~$322B"
+      },
+      {
+        "ticker": "INTC",
+        "company": "Intel Corp.",
+        "exchange": "NASDAQ",
+        "industry": "AI",
+        "ai_focus": "CPUs for data centers, custom AI chip manufacturing"
+      }
+    ],
+    "score": 68
+  },
+  {
+    "ticker": "MRNA",
+    "name": "Moderna",
+    "sector": "Healthcare",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "MRNA",
+      "company_name": "Moderna",
+      "market_cap": null,
+      "sector": null
+    },
+    "_raw_all": [
+      {
+        "symbol": "MRNA",
+        "company": "Moderna",
+        "exchange": "NASDAQ",
+        "sector": "Healthcare",
+        "sub_industry": "Biotechnology"
+      },
+      {
+        "company": "Moderna, Inc.",
+        "ticker": "MRNA",
+        "exchange": "NASDAQ",
+        "industry": "biotechnology"
+      }
+    ],
+    "score": 68
+  },
+  {
+    "ticker": "TXN",
+    "name": "Texas Instruments",
+    "sector": "Technology",
+    "market_cap": "~$196B",
+    "revenue_growth": null,
+    "_raw": {
+      "company": "Texas Instruments",
+      "ticker": "TXN",
+      "subSector": "Semiconductors",
+      "exchange": "NASDAQ",
+      "sector": "Technology"
+    },
+    "_raw_all": [
+      {
+        "ticker": "TXN",
+        "name": "Texas Instruments Incorporated",
+        "country": "United States",
+        "market_cap": "~$196B"
+      }
+    ],
+    "score": 68
+  },
+  {
+    "ticker": "ADI",
+    "name": "Analog Devices",
+    "sector": "Technology",
+    "market_cap": "~$169B",
+    "revenue_growth": null,
+    "_raw": {
+      "company": "Analog Devices",
+      "ticker": "ADI",
+      "subSector": "Semiconductors",
+      "exchange": "NASDAQ",
+      "sector": "Technology"
+    },
+    "_raw_all": [
+      {
+        "ticker": "ADI",
+        "name": "Analog Devices, Inc.",
+        "country": "United States",
+        "market_cap": "~$169B"
+      }
+    ],
+    "score": 68
+  },
+  {
+    "ticker": "ARM",
+    "name": "ARM Holdings",
+    "sector": "Technology",
+    "market_cap": "~$167B",
+    "revenue_growth": null,
+    "_raw": {
+      "company": "ARM Holdings",
+      "ticker": "ARM",
+      "subSector": "Semiconductors",
+      "exchange": "NASDAQ",
+      "sector": "Technology"
+    },
+    "_raw_all": [
+      {
+        "ticker": "ARM",
+        "name": "Arm Holdings plc",
+        "country": "United Kingdom",
+        "market_cap": "~$167B"
+      }
+    ],
+    "score": 68
+  },
+  {
+    "ticker": "ILMN",
+    "name": "Illumina",
+    "sector": "Healthcare",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "symbol": "ILMN",
+      "company": "Illumina",
+      "exchange": "NASDAQ",
+      "sector": "Healthcare",
+      "sub_industry": "Biotech/Pharma"
+    },
+    "score": 66
+  },
+  {
+    "ticker": "MU",
+    "name": "Micron Technology, Inc.",
+    "sector": "Technology",
+    "market_cap": "~$518 B",
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "MU",
+      "company_name": "Micron Technology, Inc.",
+      "market_cap": "~$518 B",
+      "sector": "Technology"
+    },
+    "_raw_all": [
+      {
+        "company": "Micron Technology Inc.",
+        "ticker": "MU",
+        "subSector": "Semiconductors",
+        "exchange": "NASDAQ",
+        "sector": "Technology"
+      },
+      {
+        "ticker": "MU",
+        "name": "Micron Technology, Inc.",
+        "country": "United States",
+        "market_cap": "~$518B"
+      },
+      {
+        "ticker": "MU",
+        "company": "Micron Technology",
+        "exchange": "NASDAQ",
+        "industry": "AI",
+        "ai_focus": "Memory and storage chips critical for AI workloads"
+      },
+      {
+        "company": "Micron Technology",
+        "ticker": "MU",
+        "revenue_growth": null,
+        "industry": "Semiconductors / Hardware"
+      }
+    ],
+    "score": 65
+  },
+  {
+    "ticker": "BIIB",
+    "name": "Biogen",
+    "sector": "Healthcare",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "symbol": "BIIB",
+      "company": "Biogen",
+      "exchange": "NASDAQ",
+      "sector": "Healthcare",
+      "sub_industry": "Biotechnology"
+    },
+    "_raw_all": [
+      {
+        "company": "Biogen Inc.",
+        "ticker": "BIIB",
+        "exchange": "NASDAQ",
+        "industry": "biotechnology"
+      }
+    ],
+    "score": 65
+  },
+  {
+    "ticker": "COIN",
+    "name": "Coinbase Global, Inc.",
+    "sector": "Financials",
+    "market_cap": "~$46B",
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "COIN",
+      "company": "Coinbase Global, Inc.",
+      "market_cap": "~$46B",
+      "exchange": "NASDAQ",
+      "sector": "Financials"
+    },
+    "_raw_all": [
+      {
+        "name": "Coinbase Global, Inc.",
+        "ticker": "COIN",
+        "exchange": "NASDAQ",
+        "industry": "fintech",
+        "category": "Trading & Markets"
+      }
+    ],
+    "score": 65
+  },
+  {
+    "ticker": "RGTI",
+    "name": "Rigetti Computing",
+    "sector": "Telecom / Satellite",
+    "market_cap": null,
+    "revenue_growth": "~169% estimated in 2026",
+    "_raw": {
+      "company": "Rigetti Computing",
+      "ticker": "RGTI",
+      "revenue_growth": "~169% estimated in 2026",
+      "industry": "Telecom / Satellite"
+    },
+    "score": 65
+  },
+  {
+    "ticker": "LASE",
+    "name": "Laser Photonics",
+    "sector": null,
+    "market_cap": null,
+    "revenue_growth": "317%",
+    "_raw": {
+      "company": "Laser Photonics",
+      "ticker": "LASE",
+      "revenue_growth": "317%",
+      "exchange": "NASDAQ",
+      "industry": null,
+      "status": null
+    },
+    "score": 65
+  },
+  {
+    "ticker": "MIND",
+    "name": "MIND Technology",
+    "sector": null,
+    "market_cap": null,
+    "revenue_growth": "+51% (Q3 2024 YoY)",
+    "_raw": {
+      "ticker": "MIND",
+      "company": "MIND Technology",
+      "revenue_growth": "+51% (Q3 2024 YoY)",
+      "exchange": "NASDAQ",
+      "industry": null,
+      "status": null
+    },
+    "score": 65
+  },
+  {
+    "ticker": "EBAY",
+    "name": "eBay Inc.",
+    "sector": "e-commerce",
+    "market_cap": "~$37 B",
+    "revenue_growth": null,
+    "_raw": {
+      "company": "eBay Inc.",
+      "ticker": "EBAY",
+      "exchange": "NASDAQ",
+      "industry": "e-commerce",
+      "market_cap": "~$37 B"
+    },
+    "score": 62
+  },
+  {
+    "ticker": "GOOG / GOOGL",
+    "name": "Alphabet Inc.",
+    "sector": "Communication Services",
+    "market_cap": "~$2+ T",
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "GOOG / GOOGL",
+      "company_name": "Alphabet Inc.",
+      "market_cap": "~$2+ T",
+      "sector": "Communication Services"
+    },
+    "score": 60
+  },
+  {
+    "ticker": "INTU",
+    "name": "Intuit",
+    "sector": "Technology",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "INTU",
+      "company_name": "Intuit",
+      "market_cap": null,
+      "sector": null
+    },
+    "_raw_all": [
+      {
+        "company": "Intuit Inc.",
+        "ticker": "INTU",
+        "subSector": "Computer Software",
+        "exchange": "NASDAQ",
+        "sector": "Technology"
+      },
+      {
+        "name": "Intuit Inc.",
+        "ticker": "INTU",
+        "exchange": "NASDAQ",
+        "industry": "fintech",
+        "category": "Software & Platforms"
+      },
+      {
+        "company": "Intuit Inc.",
+        "ticker": "INTU",
+        "exchange": "NASDAQ",
+        "industry": "software"
+      }
+    ],
+    "score": 60
+  },
+  {
+    "ticker": "ADBE",
+    "name": "Adobe Inc.",
+    "sector": "Technology",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "company": "Adobe Inc.",
+      "ticker": "ADBE",
+      "subSector": "Computer Software",
+      "exchange": "NASDAQ",
+      "sector": "Technology"
+    },
+    "_raw_all": [
+      {
+        "company": "Adobe",
+        "ticker": "ADBE",
+        "exchange": "NASDAQ",
+        "industry": "cloud"
+      },
+      {
+        "company": "Adobe Inc.",
+        "ticker": "ADBE",
+        "exchange": "NASDAQ",
+        "industry": "software"
+      }
+    ],
+    "score": 60
+  },
+  {
+    "ticker": "SNPS",
+    "name": "Synopsys Inc.",
+    "sector": "Technology",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "company": "Synopsys Inc.",
+      "ticker": "SNPS",
+      "subSector": "Computer Software",
+      "exchange": "NASDAQ",
+      "sector": "Technology"
+    },
+    "score": 60
+  },
+  {
+    "ticker": "ADSK",
+    "name": "Autodesk Inc.",
+    "sector": "Technology",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "company": "Autodesk Inc.",
+      "ticker": "ADSK",
+      "subSector": "Computer Software",
+      "exchange": "NASDAQ",
+      "sector": "Technology"
+    },
+    "_raw_all": [
+      {
+        "company": "Autodesk",
+        "ticker": "ADSK",
+        "exchange": "NASDAQ",
+        "industry": "software"
+      }
+    ],
+    "score": 60
+  },
+  {
+    "ticker": "MCHP",
+    "name": "Microchip Technology",
+    "sector": "Technology",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "company": "Microchip Technology",
+      "ticker": "MCHP",
+      "subSector": "Semiconductors",
+      "exchange": "NASDAQ",
+      "sector": "Technology"
+    },
+    "_raw_all": [
+      {
+        "ticker": "MCHP",
+        "name": "Microchip Technology Inc.",
+        "country": "United States",
+        "market_cap": null
+      }
+    ],
+    "score": 60
+  },
+  {
+    "ticker": "WDAY",
+    "name": "Workday Inc.",
+    "sector": "Technology",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "company": "Workday Inc.",
+      "ticker": "WDAY",
+      "subSector": "Computer Software",
+      "exchange": "NASDAQ",
+      "sector": "Technology"
+    },
+    "_raw_all": [
+      {
+        "company": "Workday",
+        "ticker": "WDAY",
+        "exchange": "NASDAQ",
+        "industry": "cloud"
+      },
+      {
+        "company": "Workday",
+        "ticker": "WDAY",
+        "revenue_growth": null,
+        "industry": "SaaS / Software"
+      }
+    ],
+    "score": 60
+  },
+  {
+    "ticker": "TEAM",
+    "name": "Atlassian",
+    "sector": "Technology",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "company": "Atlassian",
+      "ticker": "TEAM",
+      "subSector": "Computer Software",
+      "exchange": "NASDAQ",
+      "sector": "Technology"
+    },
+    "_raw_all": [
+      {
+        "company": "Atlassian",
+        "ticker": "TEAM",
+        "exchange": "NASDAQ",
+        "industry": "cloud"
+      },
+      {
+        "company": "Atlassian",
+        "ticker": "TEAM",
+        "exchange": "NASDAQ",
+        "industry": "software"
+      }
+    ],
+    "score": 60
+  },
+  {
+    "ticker": "MSTR",
+    "name": "MicroStrategy Inc.",
+    "sector": "Technology",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "company": "MicroStrategy Inc.",
+      "ticker": "MSTR",
+      "subSector": "Computer Software",
+      "exchange": "NASDAQ",
+      "sector": "Technology"
+    },
+    "_raw_all": [
+      {
+        "company": "MicroStrategy",
+        "ticker": "MSTR",
+        "exchange": "NASDAQ",
+        "industry": "software"
+      }
+    ],
+    "score": 60
+  },
+  {
+    "ticker": "MPWR",
+    "name": "Monolithic Power Systems",
+    "sector": "Technology",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "company": "Monolithic Power Systems",
+      "ticker": "MPWR",
+      "subSector": "Semiconductors",
+      "exchange": "NASDAQ",
+      "sector": "Technology"
+    },
+    "score": 60
+  },
+  {
+    "ticker": "STX",
+    "name": "Seagate Technology",
+    "sector": "Technology",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "company": "Seagate Technology",
+      "ticker": "STX",
+      "subSector": "Data Storage",
+      "exchange": "NASDAQ",
+      "sector": "Technology"
+    },
+    "score": 60
+  },
+  {
+    "ticker": "WDC",
+    "name": "Western Digital",
+    "sector": "Technology",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "company": "Western Digital",
+      "ticker": "WDC",
+      "subSector": "Data Storage",
+      "exchange": "NASDAQ",
+      "sector": "Technology"
+    },
+    "score": 60
+  },
+  {
+    "ticker": "SWKS",
+    "name": "Skyworks Solutions",
+    "sector": "Technology",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "company": "Skyworks Solutions",
+      "ticker": "SWKS",
+      "subSector": "Semiconductors",
+      "exchange": "NASDAQ",
+      "sector": "Technology"
+    },
+    "_raw_all": [
+      {
+        "ticker": "SWKS",
+        "name": "Skyworks Solutions, Inc.",
+        "country": "United States",
+        "market_cap": null
+      }
+    ],
+    "score": 60
+  },
+  {
+    "ticker": "ANSS",
+    "name": "ANSYS Inc.",
+    "sector": "Technology",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "company": "ANSYS Inc.",
+      "ticker": "ANSS",
+      "subSector": "Simulation Software",
+      "exchange": "NASDAQ",
+      "sector": "Technology"
+    },
+    "_raw_all": [
+      {
+        "company": "ANSYS Inc.",
+        "ticker": "ANSS",
+        "exchange": "NASDAQ",
+        "industry": "software"
+      }
+    ],
+    "score": 60
+  },
+  {
+    "ticker": "EA",
+    "name": "Electronic Arts",
+    "sector": "Technology",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "company": "Electronic Arts",
+      "ticker": "EA",
+      "subSector": "Gaming Software",
+      "exchange": "NASDAQ",
+      "sector": "Technology"
+    },
+    "_raw_all": [
+      {
+        "exchange": "NASDAQ",
+        "sector": "Consumer Discretionary",
+        "ticker": "EA",
+        "company": "Electronic Arts Inc.",
+        "sub_sector": "Interactive Entertainment"
+      },
+      {
+        "ticker": "EA",
+        "company": "Electronic Arts Inc.",
+        "exchange": "NASDAQ",
+        "sector": "Communication Services"
+      },
+      {
+        "company": "Electronic Arts",
+        "ticker": "EA",
+        "exchange": "NASDAQ",
+        "industry": "software"
+      }
+    ],
+    "score": 60
+  },
+  {
+    "ticker": "TTWO",
+    "name": "Take-Two Interactive",
+    "sector": "Technology",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "company": "Take-Two Interactive",
+      "ticker": "TTWO",
+      "subSector": "Gaming Software",
+      "exchange": "NASDAQ",
+      "sector": "Technology"
+    },
+    "_raw_all": [
+      {
+        "exchange": "NASDAQ",
+        "sector": "Consumer Discretionary",
+        "ticker": "TTWO",
+        "company": "Take-Two Interactive Software",
+        "sub_sector": "Amusement & Recreation"
+      },
+      {
+        "ticker": "TTWO",
+        "company": "Take-Two Interactive Software",
+        "exchange": "NASDAQ",
+        "sector": "Communication Services"
+      }
+    ],
+    "score": 60
+  },
+  {
+    "ticker": "CTSH",
+    "name": "Cognizant Technology Solutions",
+    "sector": "Technology",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "company": "Cognizant Technology Solutions",
+      "ticker": "CTSH",
+      "subSector": "IT Services",
+      "exchange": "NASDAQ",
+      "sector": "Technology"
+    },
+    "_raw_all": [
+      {
+        "company": "Cognizant Technology Solutions",
+        "ticker": "CTSH",
+        "exchange": "NASDAQ",
+        "industry": "software"
+      }
+    ],
+    "score": 60
+  },
+  {
+    "ticker": "VRSN",
+    "name": "VeriSign",
+    "sector": "Technology",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "company": "VeriSign",
+      "ticker": "VRSN",
+      "subSector": "Internet Infrastructure",
+      "exchange": "NASDAQ",
+      "sector": "Technology"
+    },
+    "_raw_all": [
+      {
+        "company": "VeriSign",
+        "ticker": "VRSN",
+        "exchange": "NASDAQ",
+        "industry": "software"
+      }
+    ],
+    "score": 60
+  },
+  {
+    "ticker": "PAYX",
+    "name": "Paychex",
+    "sector": "Technology",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "company": "Paychex",
+      "ticker": "PAYX",
+      "subSector": "HR Technology",
+      "exchange": "NASDAQ",
+      "sector": "Technology"
+    },
+    "_raw_all": [
+      {
+        "ticker": "PAYX",
+        "company_name": "Paychex",
+        "exchange": "NASDAQ",
+        "sector": "Industrials"
+      },
+      {
+        "company": "Paychex",
+        "ticker": "PAYX",
+        "exchange": "NASDAQ",
+        "industry": "software"
+      }
+    ],
+    "score": 60
+  },
+  {
+    "ticker": "ABBV",
+    "name": "AbbVie Inc.",
+    "sector": "biotechnology",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "company": "AbbVie Inc.",
+      "ticker": "ABBV",
+      "exchange": "NASDAQ",
+      "industry": "biotechnology"
+    },
+    "score": 60
+  },
+  {
+    "ticker": "BNTX",
+    "name": "BioNTech SE",
+    "sector": "biotechnology",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "company": "BioNTech SE",
+      "ticker": "BNTX",
+      "exchange": "NASDAQ",
+      "industry": "biotechnology"
+    },
+    "score": 60
+  },
+  {
+    "ticker": "CRSP",
+    "name": "CRISPR Therapeutics AG",
+    "sector": "biotechnology",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "company": "CRISPR Therapeutics AG",
+      "ticker": "CRSP",
+      "exchange": "NASDAQ",
+      "industry": "biotechnology"
+    },
+    "score": 60
+  },
+  {
+    "ticker": "IONS",
+    "name": "Ionis Pharmaceuticals, Inc.",
+    "sector": "biotechnology",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "company": "Ionis Pharmaceuticals, Inc.",
+      "ticker": "IONS",
+      "exchange": "NASDAQ",
+      "industry": "biotechnology"
+    },
+    "score": 60
+  },
+  {
+    "ticker": "VKTX",
+    "name": "Viking Therapeutics, Inc.",
+    "sector": "biotechnology",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "company": "Viking Therapeutics, Inc.",
+      "ticker": "VKTX",
+      "exchange": "NASDAQ",
+      "industry": "biotechnology"
+    },
+    "score": 60
+  },
+  {
+    "ticker": "MDGL",
+    "name": "Madrigal Pharmaceuticals, Inc.",
+    "sector": "biotechnology",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "company": "Madrigal Pharmaceuticals, Inc.",
+      "ticker": "MDGL",
+      "exchange": "NASDAQ",
+      "industry": "biotechnology"
+    },
+    "score": 60
+  },
+  {
+    "ticker": "NUVL",
+    "name": "Nuvalent Inc.",
+    "sector": "biotechnology",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "company": "Nuvalent Inc.",
+      "ticker": "NUVL",
+      "exchange": "NASDAQ",
+      "industry": "biotechnology"
+    },
+    "score": 60
+  },
+  {
+    "ticker": "FOLD",
+    "name": "Amicus Therapeutics, Inc.",
+    "sector": "biotechnology",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "company": "Amicus Therapeutics, Inc.",
+      "ticker": "FOLD",
+      "exchange": "NASDAQ",
+      "industry": "biotechnology"
+    },
+    "score": 60
+  },
+  {
+    "ticker": "PTGX",
+    "name": "Protagonist Therapeutics, Inc.",
+    "sector": "biotechnology",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "company": "Protagonist Therapeutics, Inc.",
+      "ticker": "PTGX",
+      "exchange": "NASDAQ",
+      "industry": "biotechnology"
+    },
+    "score": 60
+  },
+  {
+    "ticker": "RYTM",
+    "name": "Rhythm Pharmaceuticals, Inc.",
+    "sector": "biotechnology",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "company": "Rhythm Pharmaceuticals, Inc.",
+      "ticker": "RYTM",
+      "exchange": "NASDAQ",
+      "industry": "biotechnology"
+    },
+    "score": 60
+  },
+  {
+    "ticker": "MIRM",
+    "name": "Mirum Pharmaceuticals, Inc.",
+    "sector": "biotechnology",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "company": "Mirum Pharmaceuticals, Inc.",
+      "ticker": "MIRM",
+      "exchange": "NASDAQ",
+      "industry": "biotechnology"
+    },
+    "score": 60
+  },
+  {
+    "ticker": "ACRS",
+    "name": "Aclaris Therapeutics, Inc.",
+    "sector": "biotechnology",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "company": "Aclaris Therapeutics, Inc.",
+      "ticker": "ACRS",
+      "exchange": "NASDAQ",
+      "industry": "biotechnology"
+    },
+    "score": 60
+  },
+  {
+    "ticker": "ADPT",
+    "name": "Adaptive Biotechnologies",
+    "sector": "biotechnology",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "company": "Adaptive Biotechnologies",
+      "ticker": "ADPT",
+      "exchange": "NASDAQ",
+      "industry": "biotechnology"
+    },
+    "score": 60
+  },
+  {
+    "ticker": "SANA",
+    "name": "Sana Biotechnology",
+    "sector": "biotechnology",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "company": "Sana Biotechnology",
+      "ticker": "SANA",
+      "exchange": "NASDAQ",
+      "industry": "biotechnology"
+    },
+    "score": 60
+  },
+  {
+    "ticker": "AMPH",
+    "name": "Amphastar Pharmaceuticals",
+    "sector": "biotechnology",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "company": "Amphastar Pharmaceuticals",
+      "ticker": "AMPH",
+      "exchange": "NASDAQ",
+      "industry": "biotechnology"
+    },
+    "score": 60
+  },
+  {
+    "ticker": "CGEM",
+    "name": "Cullinan Oncology",
+    "sector": "biotechnology",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "company": "Cullinan Oncology",
+      "ticker": "CGEM",
+      "exchange": "NASDAQ",
+      "industry": "biotechnology"
+    },
+    "score": 60
+  },
+  {
+    "ticker": "NTLA",
+    "name": "Intellia Therapeutics",
+    "sector": "biotechnology",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "company": "Intellia Therapeutics",
+      "ticker": "NTLA",
+      "exchange": "NASDAQ",
+      "industry": "biotechnology"
+    },
+    "score": 60
+  },
+  {
+    "ticker": "CRMD",
+    "name": "CorMedix Inc.",
+    "sector": "biotechnology",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "company": "CorMedix Inc.",
+      "ticker": "CRMD",
+      "exchange": "NASDAQ",
+      "industry": "biotechnology"
+    },
+    "score": 60
+  },
+  {
+    "ticker": "ALT",
+    "name": "Altimmune, Inc.",
+    "sector": "biotechnology",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "company": "Altimmune, Inc.",
+      "ticker": "ALT",
+      "exchange": "NASDAQ",
+      "industry": "biotechnology"
+    },
+    "score": 60
+  },
+  {
+    "ticker": "AFRM",
+    "name": "Affirm Holdings, Inc.",
+    "sector": "fintech",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "name": "Affirm Holdings, Inc.",
+      "ticker": "AFRM",
+      "exchange": "NASDAQ",
+      "industry": "fintech",
+      "category": "Lending & Personal Finance"
+    },
+    "score": 60
+  },
+  {
+    "ticker": "SOUN",
+    "name": "SoundHound AI",
+    "sector": "AI",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "SOUN",
+      "company": "SoundHound AI",
+      "exchange": "NASDAQ",
+      "industry": "AI",
+      "ai_focus": "Voice AI and conversational intelligence for restaurants, automotive, etc."
+    },
+    "score": 60
+  },
+  {
+    "ticker": "BIDU",
+    "name": "Baidu Inc.",
+    "sector": "AI",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "BIDU",
+      "company": "Baidu Inc.",
+      "exchange": "NASDAQ",
+      "industry": "AI",
+      "ai_focus": "Chinese AI leader, generative AI chatbot (Ernie Bot)"
+    },
+    "score": 60
+  },
+  {
+    "ticker": "SMID",
+    "name": "Smith-Midland",
+    "sector": "Other Sectors",
+    "market_cap": null,
+    "revenue_growth": "~32%",
+    "_raw": {
+      "company": "Smith-Midland",
+      "ticker": "SMID",
+      "revenue_growth": "~32%",
+      "industry": "Other Sectors"
+    },
+    "_raw_all": [
+      {
+        "ticker": "SMID",
+        "company": "Smith-Midland Corp.",
+        "revenue_growth": "+32% (FY 2024)",
+        "exchange": "NASDAQ",
+        "industry": null,
+        "status": null
+      }
+    ],
+    "score": 60
+  },
+  {
+    "ticker": "NDAQ",
+    "name": "Nasdaq, Inc.",
+    "sector": "Financials",
+    "market_cap": "~$50B",
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "NDAQ",
+      "company": "Nasdaq, Inc.",
+      "market_cap": "~$50B",
+      "exchange": "NASDAQ",
+      "sector": "Financials"
+    },
+    "score": 58
+  },
+  {
+    "ticker": "AFL",
+    "name": "Aflac Incorporated",
+    "sector": "Financials",
+    "market_cap": "~$58.8B",
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "AFL",
+      "company": "Aflac Incorporated",
+      "market_cap": "~$58.8B",
+      "exchange": "NASDAQ",
+      "sector": "Financials"
+    },
+    "score": 58
+  },
+  {
+    "ticker": "MET",
+    "name": "MetLife, Inc.",
+    "sector": "Financials",
+    "market_cap": "~$50.6B",
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "MET",
+      "company": "MetLife, Inc.",
+      "market_cap": "~$50.6B",
+      "exchange": "NASDAQ",
+      "sector": "Financials"
+    },
+    "score": 58
+  },
+  {
+    "ticker": "GOOGL / GOOG",
+    "name": "Alphabet (Google)",
+    "sector": "cloud",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "company": "Alphabet (Google)",
+      "ticker": "GOOGL / GOOG",
+      "exchange": "NASDAQ",
+      "industry": "cloud"
+    },
+    "score": 58
+  },
+  {
+    "ticker": "ORCL",
+    "name": "Oracle",
+    "sector": "cloud",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "company": "Oracle",
+      "ticker": "ORCL",
+      "exchange": "NASDAQ",
+      "industry": "cloud"
+    },
+    "score": 58
+  },
+  {
+    "ticker": "NOW",
+    "name": "ServiceNow",
+    "sector": "cloud",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "company": "ServiceNow",
+      "ticker": "NOW",
+      "exchange": "NASDAQ",
+      "industry": "cloud"
+    },
+    "_raw_all": [
+      {
+        "company": "ServiceNow Inc.",
+        "ticker": "NOW",
+        "exchange": "NASDAQ",
+        "industry": "software"
+      }
+    ],
+    "score": 58
+  },
+  {
+    "ticker": "SHOP",
+    "name": "Shopify",
+    "sector": "cloud",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "company": "Shopify",
+      "ticker": "SHOP",
+      "exchange": "NASDAQ",
+      "industry": "cloud"
+    },
+    "_raw_all": [
+      {
+        "company": "Shopify Inc.",
+        "ticker": "SHOP",
+        "exchange": "NASDAQ",
+        "industry": "e-commerce",
+        "market_cap": null
+      }
+    ],
+    "score": 58
+  },
+  {
+    "ticker": "HUBS",
+    "name": "HubSpot",
+    "sector": "cloud",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "company": "HubSpot",
+      "ticker": "HUBS",
+      "exchange": "NASDAQ",
+      "industry": "cloud"
+    },
+    "score": 58
+  },
+  {
+    "ticker": "OKTA",
+    "name": "Okta",
+    "sector": "cloud",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "company": "Okta",
+      "ticker": "OKTA",
+      "exchange": "NASDAQ",
+      "industry": "cloud"
+    },
+    "score": 58
+  },
+  {
+    "ticker": "TWLO",
+    "name": "Twilio",
+    "sector": "cloud",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "company": "Twilio",
+      "ticker": "TWLO",
+      "exchange": "NASDAQ",
+      "industry": "cloud"
+    },
+    "score": 58
+  },
+  {
+    "ticker": "DT",
+    "name": "Dynatrace",
+    "sector": "cloud",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "company": "Dynatrace",
+      "ticker": "DT",
+      "exchange": "NASDAQ",
+      "industry": "cloud"
+    },
+    "score": 58
+  },
+  {
+    "ticker": "IOT",
+    "name": "Samsara",
+    "sector": "cloud",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "company": "Samsara",
+      "ticker": "IOT",
+      "exchange": "NASDAQ",
+      "industry": "cloud"
+    },
+    "score": 58
+  },
+  {
+    "ticker": "TOST",
+    "name": "Toast",
+    "sector": "cloud",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "company": "Toast",
+      "ticker": "TOST",
+      "exchange": "NASDAQ",
+      "industry": "cloud"
+    },
+    "_raw_all": [
+      {
+        "name": "Toast, Inc.",
+        "ticker": "TOST",
+        "exchange": "NASDAQ",
+        "industry": "fintech",
+        "category": "Software & Platforms"
+      }
+    ],
+    "score": 58
+  },
+  {
+    "ticker": "RBRK",
+    "name": "Rubrik",
+    "sector": "cloud",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "company": "Rubrik",
+      "ticker": "RBRK",
+      "exchange": "NASDAQ",
+      "industry": "cloud"
+    },
+    "score": 58
+  },
+  {
+    "ticker": "CFLT",
+    "name": "Confluent",
+    "sector": "cloud",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "company": "Confluent",
+      "ticker": "CFLT",
+      "exchange": "NASDAQ",
+      "industry": "cloud"
+    },
+    "score": 58
+  },
+  {
+    "ticker": "NTNX",
+    "name": "Nutanix",
+    "sector": "cloud",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "company": "Nutanix",
+      "ticker": "NTNX",
+      "exchange": "NASDAQ",
+      "industry": "cloud"
+    },
+    "score": 58
+  },
+  {
+    "ticker": "DOCU",
+    "name": "DocuSign",
+    "sector": "cloud",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "company": "DocuSign",
+      "ticker": "DOCU",
+      "exchange": "NASDAQ",
+      "industry": "cloud"
+    },
+    "score": 58
+  },
+  {
+    "ticker": "S",
+    "name": "SentinelOne",
+    "sector": "cloud",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "company": "SentinelOne",
+      "ticker": "S",
+      "exchange": "NASDAQ",
+      "industry": "cloud"
+    },
+    "score": 58
+  },
+  {
+    "ticker": "ESTC",
+    "name": "Elastic",
+    "sector": "cloud",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "company": "Elastic",
+      "ticker": "ESTC",
+      "exchange": "NASDAQ",
+      "industry": "cloud"
+    },
+    "score": 58
+  },
+  {
+    "ticker": "PATH",
+    "name": "UiPath",
+    "sector": "cloud",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "company": "UiPath",
+      "ticker": "PATH",
+      "exchange": "NASDAQ",
+      "industry": "cloud"
+    },
+    "score": 58
+  },
+  {
+    "ticker": "KVYO",
+    "name": "Klaviyo",
+    "sector": "cloud",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "company": "Klaviyo",
+      "ticker": "KVYO",
+      "exchange": "NASDAQ",
+      "industry": "cloud"
+    },
+    "score": 58
+  },
+  {
+    "ticker": "DOCN",
+    "name": "DigitalOcean",
+    "sector": "cloud",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "company": "DigitalOcean",
+      "ticker": "DOCN",
+      "exchange": "NASDAQ",
+      "industry": "cloud"
+    },
+    "score": 58
+  },
+  {
+    "ticker": "FROG",
+    "name": "JFrog",
+    "sector": "cloud",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "company": "JFrog",
+      "ticker": "FROG",
+      "exchange": "NASDAQ",
+      "industry": "cloud"
+    },
+    "score": 58
+  },
+  {
+    "ticker": "GTLB",
+    "name": "GitLab",
+    "sector": "cloud",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "company": "GitLab",
+      "ticker": "GTLB",
+      "exchange": "NASDAQ",
+      "industry": "cloud"
+    },
+    "score": 58
+  },
+  {
+    "ticker": "MNDY",
+    "name": "monday.com",
+    "sector": "cloud",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "company": "monday.com",
+      "ticker": "MNDY",
+      "exchange": "NASDAQ",
+      "industry": "cloud"
+    },
+    "score": 58
+  },
+  {
+    "ticker": "WIX",
+    "name": "Wix.com",
+    "sector": "cloud",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "company": "Wix.com",
+      "ticker": "WIX",
+      "exchange": "NASDAQ",
+      "industry": "cloud"
+    },
+    "score": 58
+  },
+  {
+    "ticker": "RNG",
+    "name": "RingCentral",
+    "sector": "cloud",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "company": "RingCentral",
+      "ticker": "RNG",
+      "exchange": "NASDAQ",
+      "industry": "cloud"
+    },
+    "score": 58
+  },
+  {
+    "ticker": "QLYS",
+    "name": "Qualys",
+    "sector": "cloud",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "company": "Qualys",
+      "ticker": "QLYS",
+      "exchange": "NASDAQ",
+      "industry": "cloud"
+    },
+    "score": 58
+  },
+  {
+    "ticker": "PCOR",
+    "name": "Procore Technologies",
+    "sector": "cloud",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "company": "Procore Technologies",
+      "ticker": "PCOR",
+      "exchange": "NASDAQ",
+      "industry": "cloud"
+    },
+    "score": 58
+  },
+  {
+    "ticker": "SAIL",
+    "name": "SailPoint",
+    "sector": "cloud",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "company": "SailPoint",
+      "ticker": "SAIL",
+      "exchange": "NASDAQ",
+      "industry": "cloud"
+    },
+    "score": 58
+  },
+  {
+    "ticker": "TTAN",
+    "name": "ServiceTitan",
+    "sector": "cloud",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "company": "ServiceTitan",
+      "ticker": "TTAN",
+      "exchange": "NASDAQ",
+      "industry": "cloud"
+    },
+    "score": 58
+  },
+  {
+    "ticker": "PAYC",
+    "name": "Paycom Software",
+    "sector": "cloud",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "company": "Paycom Software",
+      "ticker": "PAYC",
+      "exchange": "NASDAQ",
+      "industry": "cloud"
+    },
+    "score": 58
+  },
+  {
+    "ticker": "PCTY",
+    "name": "Paylocity",
+    "sector": "cloud",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "company": "Paylocity",
+      "ticker": "PCTY",
+      "exchange": "NASDAQ",
+      "industry": "cloud"
+    },
+    "score": 58
+  },
+  {
+    "ticker": "APPF",
+    "name": "AppFolio",
+    "sector": "cloud",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "company": "AppFolio",
+      "ticker": "APPF",
+      "exchange": "NASDAQ",
+      "industry": "cloud"
+    },
+    "_raw_all": [
+      {
+        "name": "AppFolio Inc.",
+        "ticker": "APPF",
+        "exchange": "NASDAQ",
+        "industry": "fintech",
+        "category": "Software & Platforms"
+      }
+    ],
+    "score": 58
+  },
+  {
+    "ticker": "CWAN",
+    "name": "Clearwater Analytics",
+    "sector": "cloud",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "company": "Clearwater Analytics",
+      "ticker": "CWAN",
+      "exchange": "NASDAQ",
+      "industry": "cloud"
+    },
+    "score": 58
+  },
+  {
+    "ticker": "BILL",
+    "name": "BILL Holdings",
+    "sector": "cloud",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "company": "BILL Holdings",
+      "ticker": "BILL",
+      "exchange": "NASDAQ",
+      "industry": "cloud"
+    },
+    "_raw_all": [
+      {
+        "name": "Bill Holdings, Inc.",
+        "ticker": "BILL",
+        "exchange": "NASDAQ",
+        "industry": "fintech",
+        "category": "Lending & Personal Finance"
+      }
+    ],
+    "score": 58
+  },
+  {
+    "ticker": "FSLY",
+    "name": "Fastly",
+    "sector": "cloud",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "company": "Fastly",
+      "ticker": "FSLY",
+      "exchange": "NASDAQ",
+      "industry": "cloud"
+    },
+    "score": 58
+  },
+  {
+    "ticker": "BRZE",
+    "name": "Braze",
+    "sector": "cloud",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "company": "Braze",
+      "ticker": "BRZE",
+      "exchange": "NASDAQ",
+      "industry": "cloud"
+    },
+    "score": 58
+  },
+  {
+    "ticker": "FIVN",
+    "name": "Five9",
+    "sector": "cloud",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "company": "Five9",
+      "ticker": "FIVN",
+      "exchange": "NASDAQ",
+      "industry": "cloud"
+    },
+    "score": 58
+  },
+  {
+    "ticker": "FRSH",
+    "name": "Freshworks",
+    "sector": "cloud",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "company": "Freshworks",
+      "ticker": "FRSH",
+      "exchange": "NASDAQ",
+      "industry": "cloud"
+    },
+    "score": 58
+  },
+  {
+    "ticker": "TENB",
+    "name": "Tenable Holdings",
+    "sector": "cloud",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "company": "Tenable Holdings",
+      "ticker": "TENB",
+      "exchange": "NASDAQ",
+      "industry": "cloud"
+    },
+    "score": 58
+  },
+  {
+    "ticker": "QTWO",
+    "name": "Q2 Holdings",
+    "sector": "cloud",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "company": "Q2 Holdings",
+      "ticker": "QTWO",
+      "exchange": "NASDAQ",
+      "industry": "cloud"
+    },
+    "_raw_all": [
+      {
+        "name": "Q2 Holdings, Inc.",
+        "ticker": "QTWO",
+        "exchange": "NASDAQ",
+        "industry": "fintech",
+        "category": "Software & Platforms"
+      }
+    ],
+    "score": 58
+  },
+  {
+    "ticker": "WK",
+    "name": "Workiva",
+    "sector": "cloud",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "company": "Workiva",
+      "ticker": "WK",
+      "exchange": "NASDAQ",
+      "industry": "cloud"
+    },
+    "score": 58
+  },
+  {
+    "ticker": "INTA",
+    "name": "Intapp",
+    "sector": "cloud",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "company": "Intapp",
+      "ticker": "INTA",
+      "exchange": "NASDAQ",
+      "industry": "cloud"
+    },
+    "score": 58
+  },
+  {
+    "ticker": "BL",
+    "name": "BlackLine",
+    "sector": "cloud",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "company": "BlackLine",
+      "ticker": "BL",
+      "exchange": "NASDAQ",
+      "industry": "cloud"
+    },
+    "score": 58
+  },
+  {
+    "ticker": "NCNO",
+    "name": "nCino",
+    "sector": "cloud",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "company": "nCino",
+      "ticker": "NCNO",
+      "exchange": "NASDAQ",
+      "industry": "cloud"
+    },
+    "score": 58
+  },
+  {
+    "ticker": "ASAN",
+    "name": "Asana",
+    "sector": "cloud",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "company": "Asana",
+      "ticker": "ASAN",
+      "exchange": "NASDAQ",
+      "industry": "cloud"
+    },
+    "score": 58
+  },
+  {
+    "ticker": "ALKT",
+    "name": "Alkami Technology",
+    "sector": "cloud",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "company": "Alkami Technology",
+      "ticker": "ALKT",
+      "exchange": "NASDAQ",
+      "industry": "cloud"
+    },
+    "score": 58
+  },
+  {
+    "ticker": "SPSC",
+    "name": "SPS Commerce",
+    "sector": "cloud",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "company": "SPS Commerce",
+      "ticker": "SPSC",
+      "exchange": "NASDAQ",
+      "industry": "cloud"
+    },
+    "score": 58
+  },
+  {
+    "ticker": "CXM",
+    "name": "Sprinklr",
+    "sector": "cloud",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "company": "Sprinklr",
+      "ticker": "CXM",
+      "exchange": "NASDAQ",
+      "industry": "cloud"
+    },
+    "score": 58
+  },
+  {
+    "ticker": "AI",
+    "name": "C3.ai",
+    "sector": "cloud",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "company": "C3.ai",
+      "ticker": "AI",
+      "exchange": "NASDAQ",
+      "industry": "cloud"
+    },
+    "score": 58
+  },
+  {
+    "ticker": "AVPT",
+    "name": "AvePoint",
+    "sector": "cloud",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "company": "AvePoint",
+      "ticker": "AVPT",
+      "exchange": "NASDAQ",
+      "industry": "cloud"
+    },
+    "score": 58
+  },
+  {
+    "ticker": "OS",
+    "name": "OneStream",
+    "sector": "cloud",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "company": "OneStream",
+      "ticker": "OS",
+      "exchange": "NASDAQ",
+      "industry": "cloud"
+    },
+    "score": 58
+  },
+  {
+    "ticker": "CLBT",
+    "name": "Cellebrite",
+    "sector": "cloud",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "company": "Cellebrite",
+      "ticker": "CLBT",
+      "exchange": "NASDAQ",
+      "industry": "cloud"
+    },
+    "score": 58
+  },
+  {
+    "ticker": "AGYS",
+    "name": "Agilysys",
+    "sector": "cloud",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "company": "Agilysys",
+      "ticker": "AGYS",
+      "exchange": "NASDAQ",
+      "industry": "cloud"
+    },
+    "score": 58
+  },
+  {
+    "ticker": "HOOD",
+    "name": "Robinhood Markets, Inc.",
+    "sector": "fintech",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "name": "Robinhood Markets, Inc.",
+      "ticker": "HOOD",
+      "exchange": "NASDAQ",
+      "industry": "fintech",
+      "category": "Trading & Markets"
+    },
+    "score": 58
+  },
+  {
+    "ticker": "CHKP",
+    "name": "Check Point Software",
+    "sector": "software",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "company": "Check Point Software",
+      "ticker": "CHKP",
+      "exchange": "NASDAQ",
+      "industry": "software"
+    },
+    "score": 58
+  },
+  {
+    "ticker": "FITB",
+    "name": "Fifth Third Bancorp",
+    "sector": "Financials",
+    "market_cap": "~$45B",
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "FITB",
+      "company": "Fifth Third Bancorp",
+      "market_cap": "~$45B",
+      "exchange": "NASDAQ",
+      "sector": "Financials"
+    },
+    "score": 56
+  },
+  {
+    "ticker": "PRU",
+    "name": "Prudential Financial",
+    "sector": "Financials",
+    "market_cap": "~$34.5B",
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "PRU",
+      "company": "Prudential Financial",
+      "market_cap": "~$34.5B",
+      "exchange": "NASDAQ",
+      "sector": "Financials"
+    },
+    "score": 56
+  },
+  {
+    "ticker": "UNM",
+    "name": "Unum Group",
+    "sector": "Financials",
+    "market_cap": "~$12.7B",
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "UNM",
+      "company": "Unum Group",
+      "market_cap": "~$12.7B",
+      "exchange": "NASDAQ",
+      "sector": "Financials"
+    },
+    "score": 56
+  },
+  {
+    "ticker": "GL",
+    "name": "Globe Life Inc.",
+    "sector": "Financials",
+    "market_cap": "~$11.7B",
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "GL",
+      "company": "Globe Life Inc.",
+      "market_cap": "~$11.7B",
+      "exchange": "NASDAQ",
+      "sector": "Financials"
+    },
+    "score": 56
+  },
+  {
+    "ticker": "TMUS",
+    "name": "T-Mobile",
+    "sector": "Communication Services",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "TMUS",
+      "company_name": "T-Mobile",
+      "market_cap": null,
+      "sector": null
+    },
+    "_raw_all": [
+      {
+        "ticker": "TMUS",
+        "company": "T-Mobile US, Inc.",
+        "exchange": "NASDAQ",
+        "sector": "Communication Services"
+      }
+    ],
+    "score": 55
+  },
+  {
+    "ticker": "ALNY",
+    "name": "Alnylam Pharmaceuticals",
+    "sector": "Healthcare",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "symbol": "ALNY",
+      "company": "Alnylam Pharmaceuticals",
+      "exchange": "NASDAQ",
+      "sector": "Healthcare",
+      "sub_industry": "Biotechnology"
+    },
+    "_raw_all": [
+      {
+        "company": "Alnylam Pharmaceuticals, Inc.",
+        "ticker": "ALNY",
+        "exchange": "NASDAQ",
+        "industry": "biotechnology"
+      }
+    ],
+    "score": 55
+  },
+  {
+    "ticker": "DXCM",
+    "name": "DexCom",
+    "sector": "Healthcare",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "symbol": "DXCM",
+      "company": "DexCom",
+      "exchange": "NASDAQ",
+      "sector": "Healthcare",
+      "sub_industry": "Medical/Dental Instruments"
+    },
+    "score": 55
+  },
+  {
+    "ticker": "GEHC",
+    "name": "GE HealthCare",
+    "sector": "Healthcare",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "symbol": "GEHC",
+      "company": "GE HealthCare",
+      "exchange": "NASDAQ",
+      "sector": "Healthcare",
+      "sub_industry": "Medical Electronics"
+    },
+    "score": 55
+  },
+  {
+    "ticker": "IDXX",
+    "name": "IDEXX Laboratories",
+    "sector": "Healthcare",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "symbol": "IDXX",
+      "company": "IDEXX Laboratories",
+      "exchange": "NASDAQ",
+      "sector": "Healthcare",
+      "sub_industry": "Biotechnology"
+    },
+    "score": 55
+  },
+  {
+    "ticker": "INSM",
+    "name": "Insmed Incorporated",
+    "sector": "Healthcare",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "symbol": "INSM",
+      "company": "Insmed Incorporated",
+      "exchange": "NASDAQ",
+      "sector": "Healthcare",
+      "sub_industry": "Biotechnology"
+    },
+    "_raw_all": [
+      {
+        "company": "Insmed Incorporated",
+        "ticker": "INSM",
+        "exchange": "NASDAQ",
+        "industry": "biotechnology"
+      }
+    ],
+    "score": 55
+  },
+  {
+    "ticker": "ISRG",
+    "name": "Intuitive Surgical",
+    "sector": "Healthcare",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "symbol": "ISRG",
+      "company": "Intuitive Surgical",
+      "exchange": "NASDAQ",
+      "sector": "Healthcare",
+      "sub_industry": "Industrial Specialties (Surgical Robotics)"
+    },
+    "score": 55
+  },
+  {
+    "ticker": "ARGX",
+    "name": "argenx SE",
+    "sector": "Healthcare",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "symbol": "ARGX",
+      "company": "argenx SE",
+      "exchange": "NASDAQ",
+      "sector": "Healthcare",
+      "sub_industry": "Biotech/Pharma"
+    },
+    "_raw_all": [
+      {
+        "company": "argenx SE",
+        "ticker": "ARGX",
+        "exchange": "NASDAQ",
+        "industry": "biotechnology"
+      }
+    ],
+    "score": 55
+  },
+  {
+    "ticker": "BMRN",
+    "name": "BioMarin Pharmaceutical",
+    "sector": "Healthcare",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "symbol": "BMRN",
+      "company": "BioMarin Pharmaceutical",
+      "exchange": "NASDAQ",
+      "sector": "Healthcare",
+      "sub_industry": "Biotech/Pharma"
+    },
+    "_raw_all": [
+      {
+        "company": "BioMarin Pharmaceutical Inc.",
+        "ticker": "BMRN",
+        "exchange": "NASDAQ",
+        "industry": "biotechnology"
+      }
+    ],
+    "score": 55
+  },
+  {
+    "ticker": "EXAS",
+    "name": "Exact Sciences",
+    "sector": "Healthcare",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "symbol": "EXAS",
+      "company": "Exact Sciences",
+      "exchange": "NASDAQ",
+      "sector": "Healthcare",
+      "sub_industry": "Biotech/Pharma"
+    },
+    "score": 55
+  },
+  {
+    "ticker": "NBIX",
+    "name": "Neurocrine Biosciences",
+    "sector": "Healthcare",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "symbol": "NBIX",
+      "company": "Neurocrine Biosciences",
+      "exchange": "NASDAQ",
+      "sector": "Healthcare",
+      "sub_industry": "Biotech/Pharma"
+    },
+    "score": 55
+  },
+  {
+    "ticker": "KYTX",
+    "name": "Kyverna Therapeutics",
+    "sector": "Healthcare",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "symbol": "KYTX",
+      "company": "Kyverna Therapeutics",
+      "exchange": "NASDAQ",
+      "sector": "Healthcare",
+      "sub_industry": "Biotech/Pharma"
+    },
+    "score": 55
+  },
+  {
+    "ticker": "CGON",
+    "name": "CG Oncology",
+    "sector": "Healthcare",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "symbol": "CGON",
+      "company": "CG Oncology",
+      "exchange": "NASDAQ",
+      "sector": "Healthcare",
+      "sub_industry": "Biotech/Pharma"
+    },
+    "score": 55
+  },
+  {
+    "ticker": "BCAX",
+    "name": "Bicara Therapeutics",
+    "sector": "Healthcare",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "symbol": "BCAX",
+      "company": "Bicara Therapeutics",
+      "exchange": "NASDAQ",
+      "sector": "Healthcare",
+      "sub_industry": "Biotech/Pharma"
+    },
+    "score": 55
+  },
+  {
+    "ticker": "MASI",
+    "name": "Masimo",
+    "sector": "Healthcare",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "symbol": "MASI",
+      "company": "Masimo",
+      "exchange": "NASDAQ",
+      "sector": "Healthcare",
+      "sub_industry": "Medical Devices"
+    },
+    "score": 55
+  },
+  {
+    "ticker": "ALGN",
+    "name": "Align Technology",
+    "sector": "Healthcare",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "symbol": "ALGN",
+      "company": "Align Technology",
+      "exchange": "NASDAQ",
+      "sector": "Healthcare",
+      "sub_industry": "Medical Devices"
+    },
+    "score": 55
+  },
+  {
+    "ticker": "RMD",
+    "name": "ResMed",
+    "sector": "Healthcare",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "symbol": "RMD",
+      "company": "ResMed",
+      "exchange": "NASDAQ",
+      "sector": "Healthcare",
+      "sub_industry": "Medical Devices"
+    },
+    "score": 55
+  },
+  {
+    "ticker": "HOLX",
+    "name": "Hologic",
+    "sector": "Healthcare",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "symbol": "HOLX",
+      "company": "Hologic",
+      "exchange": "NASDAQ",
+      "sector": "Healthcare",
+      "sub_industry": "Medical Devices"
+    },
+    "score": 55
+  },
+  {
+    "ticker": "VEEV",
+    "name": "Veeva Systems",
+    "sector": "Healthcare",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "symbol": "VEEV",
+      "company": "Veeva Systems",
+      "exchange": "NASDAQ",
+      "sector": "Healthcare",
+      "sub_industry": "Healthcare Services & Technology"
+    },
+    "_raw_all": [
+      {
+        "company": "Veeva Systems",
+        "ticker": "VEEV",
+        "exchange": "NASDAQ",
+        "industry": "cloud"
+      }
+    ],
+    "score": 55
+  },
+  {
+    "ticker": "DOCS",
+    "name": "Doximity",
+    "sector": "Healthcare",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "symbol": "DOCS",
+      "company": "Doximity",
+      "exchange": "NASDAQ",
+      "sector": "Healthcare",
+      "sub_industry": "Healthcare Services & Technology"
+    },
+    "score": 55
+  },
+  {
+    "ticker": "GOOG",
+    "name": "Alphabet Inc.",
+    "sector": "Communication Services",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "GOOG",
+      "company": "Alphabet Inc.",
+      "exchange": "NASDAQ",
+      "sector": "Communication Services"
+    },
+    "_raw_all": [
+      {
+        "company": "Alphabet Inc. (Class C)",
+        "ticker": "GOOG",
+        "exchange": "NASDAQ",
+        "industry": "software"
+      }
+    ],
+    "score": 55
+  },
+  {
+    "ticker": "RDDT",
+    "name": "Reddit, Inc.",
+    "sector": "Communication Services",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "RDDT",
+      "company": "Reddit, Inc.",
+      "exchange": "NASDAQ",
+      "sector": "Communication Services"
+    },
+    "score": 55
+  },
+  {
+    "ticker": "ZH",
+    "name": "Zhihu Inc.",
+    "sector": "Communication Services",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "ZH",
+      "company": "Zhihu Inc.",
+      "exchange": "NASDAQ",
+      "sector": "Communication Services"
+    },
+    "score": 55
+  },
+  {
+    "ticker": "ANGI",
+    "name": "Angi Inc.",
+    "sector": "Communication Services",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "ANGI",
+      "company": "Angi Inc.",
+      "exchange": "NASDAQ",
+      "sector": "Communication Services"
+    },
+    "score": 55
+  },
+  {
+    "ticker": "TBLA",
+    "name": "Taboola.com Ltd.",
+    "sector": "Communication Services",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "TBLA",
+      "company": "Taboola.com Ltd.",
+      "exchange": "NASDAQ",
+      "sector": "Communication Services"
+    },
+    "score": 55
+  },
+  {
+    "ticker": "GENI",
+    "name": "Genius Sports Limited",
+    "sector": "Communication Services",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "GENI",
+      "company": "Genius Sports Limited",
+      "exchange": "NASDAQ",
+      "sector": "Communication Services"
+    },
+    "score": 55
+  },
+  {
+    "ticker": "WBD",
+    "name": "Warner Bros. Discovery, Inc.",
+    "sector": "Communication Services",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "WBD",
+      "company": "Warner Bros. Discovery, Inc.",
+      "exchange": "NASDAQ",
+      "sector": "Communication Services"
+    },
+    "score": 55
+  },
+  {
+    "ticker": "STRZ",
+    "name": "Starz Entertainment Corp.",
+    "sector": "Communication Services",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "STRZ",
+      "company": "Starz Entertainment Corp.",
+      "exchange": "NASDAQ",
+      "sector": "Communication Services"
+    },
+    "score": 55
+  },
+  {
+    "ticker": "GDEV",
+    "name": "GDEV Inc.",
+    "sector": "Communication Services",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "GDEV",
+      "company": "GDEV Inc.",
+      "exchange": "NASDAQ",
+      "sector": "Communication Services"
+    },
+    "score": 55
+  },
+  {
+    "ticker": "CURI",
+    "name": "CuriosityStream Inc.",
+    "sector": "Communication Services",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "CURI",
+      "company": "CuriosityStream Inc.",
+      "exchange": "NASDAQ",
+      "sector": "Communication Services"
+    },
+    "score": 55
+  },
+  {
+    "ticker": "CMCSA",
+    "name": "Comcast Corporation",
+    "sector": "Communication Services",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "CMCSA",
+      "company": "Comcast Corporation",
+      "exchange": "NASDAQ",
+      "sector": "Communication Services"
+    },
+    "score": 55
+  },
+  {
+    "ticker": "CHTR",
+    "name": "Charter Communications, Inc.",
+    "sector": "Communication Services",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "CHTR",
+      "company": "Charter Communications, Inc.",
+      "exchange": "NASDAQ",
+      "sector": "Communication Services"
+    },
+    "score": 55
+  },
+  {
+    "ticker": "SATS",
+    "name": "EchoStar Corporation",
+    "sector": "Communication Services",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "SATS",
+      "company": "EchoStar Corporation",
+      "exchange": "NASDAQ",
+      "sector": "Communication Services"
+    },
+    "score": 55
+  },
+  {
+    "ticker": "CCOI",
+    "name": "Cogent Communications Holdings",
+    "sector": "Communication Services",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "CCOI",
+      "company": "Cogent Communications Holdings",
+      "exchange": "NASDAQ",
+      "sector": "Communication Services"
+    },
+    "score": 55
+  },
+  {
+    "ticker": "SIFY",
+    "name": "Sify Technologies Limited",
+    "sector": "Communication Services",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "SIFY",
+      "company": "Sify Technologies Limited",
+      "exchange": "NASDAQ",
+      "sector": "Communication Services"
+    },
+    "score": 55
+  },
+  {
+    "ticker": "GAIA",
+    "name": "Gaia Inc.",
+    "sector": "Communication Services",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "GAIA",
+      "company": "Gaia Inc.",
+      "exchange": "NASDAQ",
+      "sector": "Communication Services"
+    },
+    "score": 55
+  },
+  {
+    "ticker": "NMAX",
+    "name": "Newsmax, Inc.",
+    "sector": "Communication Services",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "NMAX",
+      "company": "Newsmax, Inc.",
+      "exchange": "NASDAQ",
+      "sector": "Communication Services"
+    },
+    "score": 55
+  },
+  {
+    "ticker": "SBGI",
+    "name": "Sinclair, Inc.",
+    "sector": "Communication Services",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "SBGI",
+      "company": "Sinclair, Inc.",
+      "exchange": "NASDAQ",
+      "sector": "Communication Services"
+    },
+    "score": 55
+  },
+  {
+    "ticker": "GTN",
+    "name": "Gray Media, Inc.",
+    "sector": "Communication Services",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "GTN",
+      "company": "Gray Media, Inc.",
+      "exchange": "NASDAQ",
+      "sector": "Communication Services"
+    },
+    "score": 55
+  },
+  {
+    "ticker": "SGA",
+    "name": "Saga Communications, Inc.",
+    "sector": "Communication Services",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "SGA",
+      "company": "Saga Communications, Inc.",
+      "exchange": "NASDAQ",
+      "sector": "Communication Services"
+    },
+    "score": 55
+  },
+  {
+    "ticker": "BBGI",
+    "name": "Beasley Broadcast Group, Inc.",
+    "sector": "Communication Services",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "BBGI",
+      "company": "Beasley Broadcast Group, Inc.",
+      "exchange": "NASDAQ",
+      "sector": "Communication Services"
+    },
+    "score": 55
+  },
+  {
+    "ticker": "EVC",
+    "name": "Entravision Communications Corp.",
+    "sector": "Communication Services",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "EVC",
+      "company": "Entravision Communications Corp.",
+      "exchange": "NASDAQ",
+      "sector": "Communication Services"
+    },
+    "score": 55
+  },
+  {
+    "ticker": "TTD",
+    "name": "The Trade Desk, Inc.",
+    "sector": "Communication Services",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "TTD",
+      "company": "The Trade Desk, Inc.",
+      "exchange": "NASDAQ",
+      "sector": "Communication Services"
+    },
+    "score": 55
+  },
+  {
+    "ticker": "CRTO",
+    "name": "Criteo S.A.",
+    "sector": "Communication Services",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "CRTO",
+      "company": "Criteo S.A.",
+      "exchange": "NASDAQ",
+      "sector": "Communication Services"
+    },
+    "score": 55
+  },
+  {
+    "ticker": "NCMI",
+    "name": "National CineMedia, Inc.",
+    "sector": "Communication Services",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "NCMI",
+      "company": "National CineMedia, Inc.",
+      "exchange": "NASDAQ",
+      "sector": "Communication Services"
+    },
+    "score": 55
+  },
+  {
+    "ticker": "NWSA",
+    "name": "News Corporation",
+    "sector": "Communication Services",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "NWSA",
+      "company": "News Corporation",
+      "exchange": "NASDAQ",
+      "sector": "Communication Services"
+    },
+    "score": 55
+  },
+  {
+    "ticker": "NWS",
+    "name": "News Corporation",
+    "sector": "Communication Services",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "NWS",
+      "company": "News Corporation",
+      "exchange": "NASDAQ",
+      "sector": "Communication Services"
+    },
+    "score": 55
+  },
+  {
+    "ticker": "LEE",
+    "name": "Lee Enterprises, Inc.",
+    "sector": "Communication Services",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "LEE",
+      "company": "Lee Enterprises, Inc.",
+      "exchange": "NASDAQ",
+      "sector": "Communication Services"
+    },
+    "score": 55
+  },
+  {
+    "ticker": "IDT",
+    "name": "IDT Corporation",
+    "sector": "Communication Services",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "IDT",
+      "company": "IDT Corporation",
+      "exchange": "NASDAQ",
+      "sector": "Communication Services"
+    },
+    "score": 55
+  },
+  {
+    "ticker": "CAST",
+    "name": "FreeCast",
+    "sector": "Communication Services",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "CAST",
+      "company": "FreeCast",
+      "exchange": "NASDAQ",
+      "sector": "Communication Services"
+    },
+    "score": 55
+  },
+  {
+    "ticker": "MDIA",
+    "name": "MediaCo Holding",
+    "sector": "Communication Services",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "MDIA",
+      "company": "MediaCo Holding",
+      "exchange": "NASDAQ",
+      "sector": "Communication Services"
+    },
+    "score": 55
+  },
+  {
+    "ticker": "UONE",
+    "name": "Urban One",
+    "sector": "Communication Services",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "UONE",
+      "company": "Urban One",
+      "exchange": "NASDAQ",
+      "sector": "Communication Services"
+    },
+    "score": 55
+  },
+  {
+    "ticker": "UONEK",
+    "name": "Urban One",
+    "sector": "Communication Services",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "UONEK",
+      "company": "Urban One",
+      "exchange": "NASDAQ",
+      "sector": "Communication Services"
+    },
+    "score": 55
+  },
+  {
+    "ticker": "KVHI",
+    "name": "KVH Industries",
+    "sector": "Communication Services",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "KVHI",
+      "company": "KVH Industries",
+      "exchange": "NASDAQ",
+      "sector": "Communication Services"
+    },
+    "score": 55
+  },
+  {
+    "ticker": "CMCM",
+    "name": "Cheetah Mobile",
+    "sector": "Communication Services",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "CMCM",
+      "company": "Cheetah Mobile",
+      "exchange": "NASDAQ",
+      "sector": "Communication Services"
+    },
+    "score": 55
+  },
+  {
+    "ticker": "CREX",
+    "name": "Creative Realities",
+    "sector": "Communication Services",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "CREX",
+      "company": "Creative Realities",
+      "exchange": "NASDAQ",
+      "sector": "Communication Services"
+    },
+    "score": 55
+  },
+  {
+    "ticker": "YDKG",
+    "name": "Yueda Digital Holding",
+    "sector": "Communication Services",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "YDKG",
+      "company": "Yueda Digital Holding",
+      "exchange": "NASDAQ",
+      "sector": "Communication Services"
+    },
+    "score": 55
+  },
+  {
+    "ticker": "NXPL",
+    "name": "NextPlat Corp",
+    "sector": "Communication Services",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "NXPL",
+      "company": "NextPlat Corp",
+      "exchange": "NASDAQ",
+      "sector": "Communication Services"
+    },
+    "score": 55
+  },
+  {
+    "ticker": "SGRP",
+    "name": "SPAR Group",
+    "sector": "Communication Services",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "SGRP",
+      "company": "SPAR Group",
+      "exchange": "NASDAQ",
+      "sector": "Communication Services"
+    },
+    "score": 55
+  },
+  {
+    "ticker": "GXAI",
+    "name": "Gaxos.AI",
+    "sector": "Communication Services",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "GXAI",
+      "company": "Gaxos.AI",
+      "exchange": "NASDAQ",
+      "sector": "Communication Services"
+    },
+    "score": 55
+  },
+  {
+    "ticker": "ONFO",
+    "name": "Onfolio Holdings",
+    "sector": "Communication Services",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "ONFO",
+      "company": "Onfolio Holdings",
+      "exchange": "NASDAQ",
+      "sector": "Communication Services"
+    },
+    "score": 55
+  },
+  {
+    "ticker": "BAOS",
+    "name": "Baosheng Media",
+    "sector": "Communication Services",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "BAOS",
+      "company": "Baosheng Media",
+      "exchange": "NASDAQ",
+      "sector": "Communication Services"
+    },
+    "score": 55
+  },
+  {
+    "ticker": "CHR",
+    "name": "Cheer Holding",
+    "sector": "Communication Services",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "CHR",
+      "company": "Cheer Holding",
+      "exchange": "NASDAQ",
+      "sector": "Communication Services"
+    },
+    "score": 55
+  },
+  {
+    "ticker": "TNMG",
+    "name": "TNL Mediagene",
+    "sector": "Communication Services",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "TNMG",
+      "company": "TNL Mediagene",
+      "exchange": "NASDAQ",
+      "sector": "Communication Services"
+    },
+    "score": 55
+  },
+  {
+    "ticker": "MRDN",
+    "name": "Meridian Holdings",
+    "sector": "Communication Services",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "MRDN",
+      "company": "Meridian Holdings",
+      "exchange": "NASDAQ",
+      "sector": "Communication Services"
+    },
+    "score": 55
+  },
+  {
+    "ticker": "SDA",
+    "name": "SunCar Technology",
+    "sector": "Other Sectors",
+    "market_cap": null,
+    "revenue_growth": "~20%",
+    "_raw": {
+      "company": "SunCar Technology",
+      "ticker": "SDA",
+      "revenue_growth": "~20%",
+      "industry": "Other Sectors"
+    },
+    "score": 55
+  },
+  {
+    "ticker": "KARO",
+    "name": "Karooooo",
+    "sector": "Other Sectors",
+    "market_cap": null,
+    "revenue_growth": "~20%",
+    "_raw": {
+      "company": "Karooooo",
+      "ticker": "KARO",
+      "revenue_growth": "~20%",
+      "industry": "Other Sectors"
+    },
+    "score": 55
+  },
+  {
+    "ticker": "ELTK",
+    "name": "Eltek",
+    "sector": "Other Sectors",
+    "market_cap": null,
+    "revenue_growth": "~20%",
+    "_raw": {
+      "company": "Eltek",
+      "ticker": "ELTK",
+      "revenue_growth": "~20%",
+      "industry": "Other Sectors"
+    },
+    "score": 55
+  },
+  {
+    "ticker": "PRTH",
+    "name": "Priority Technology",
+    "sector": null,
+    "market_cap": null,
+    "revenue_growth": "~20%",
+    "_raw": {
+      "company": "Priority Technology",
+      "ticker": "PRTH",
+      "revenue_growth": "~20%",
+      "exchange": "NASDAQ",
+      "industry": null,
+      "status": null
+    },
+    "score": 55
+  },
+  {
+    "ticker": "DAVE",
+    "name": "Dave Inc.",
+    "sector": null,
+    "market_cap": null,
+    "revenue_growth": "~25%",
+    "_raw": {
+      "company": "Dave Inc.",
+      "ticker": "DAVE",
+      "revenue_growth": "~25%",
+      "exchange": "NASDAQ",
+      "industry": null,
+      "status": null
+    },
+    "score": 55
+  },
+  {
+    "ticker": "IBTA",
+    "name": "Ibotta",
+    "sector": null,
+    "market_cap": null,
+    "revenue_growth": "~26%",
+    "_raw": {
+      "company": "Ibotta",
+      "ticker": "IBTA",
+      "revenue_growth": "~26%",
+      "exchange": "NASDAQ",
+      "industry": null,
+      "status": null
+    },
+    "score": 55
+  },
+  {
+    "ticker": "CPRT",
+    "name": "Copart",
+    "sector": "Industrials",
+    "market_cap": "~$33 B",
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "CPRT",
+      "company_name": "Copart",
+      "exchange": "NASDAQ",
+      "sector": "Industrials"
+    },
+    "_raw_all": [
+      {
+        "company": "Copart Inc.",
+        "ticker": "CPRT",
+        "exchange": "NASDAQ",
+        "industry": "e-commerce",
+        "market_cap": "~$33 B"
+      }
+    ],
+    "score": 54
+  },
+  {
+    "ticker": "FISV",
+    "name": "Fiserv, Inc.",
+    "sector": "fintech",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "name": "Fiserv, Inc.",
+      "ticker": "FISV",
+      "exchange": "NASDAQ",
+      "industry": "fintech",
+      "category": "Payments & Digital Wallets"
+    },
+    "score": 54
+  },
+  {
+    "ticker": "V",
+    "name": "Visa Inc.",
+    "sector": "fintech",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "name": "Visa Inc.",
+      "ticker": "V",
+      "exchange": "NASDAQ",
+      "industry": "fintech",
+      "category": "Payments & Digital Wallets"
+    },
+    "score": 54
+  },
+  {
+    "ticker": "MQ",
+    "name": "Marqeta, Inc.",
+    "sector": "fintech",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "name": "Marqeta, Inc.",
+      "ticker": "MQ",
+      "exchange": "NASDAQ",
+      "industry": "fintech",
+      "category": "Payments & Digital Wallets"
+    },
+    "score": 54
+  },
+  {
+    "ticker": "SOFI",
+    "name": "SoFi Technologies, Inc.",
+    "sector": "fintech",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "name": "SoFi Technologies, Inc.",
+      "ticker": "SOFI",
+      "exchange": "NASDAQ",
+      "industry": "fintech",
+      "category": "Lending & Personal Finance"
+    },
+    "score": 54
+  },
+  {
+    "ticker": "UPST",
+    "name": "Upstart Holdings, Inc.",
+    "sector": "fintech",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "name": "Upstart Holdings, Inc.",
+      "ticker": "UPST",
+      "exchange": "NASDAQ",
+      "industry": "fintech",
+      "category": "Lending & Personal Finance"
+    },
+    "score": 54
+  },
+  {
+    "ticker": "LPLA",
+    "name": "LPL Financial Holdings Inc.",
+    "sector": "fintech",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "name": "LPL Financial Holdings Inc.",
+      "ticker": "LPLA",
+      "exchange": "NASDAQ",
+      "industry": "fintech",
+      "category": "Lending & Personal Finance"
+    },
+    "score": 54
+  },
+  {
+    "ticker": "IBKR",
+    "name": "Interactive Brokers",
+    "sector": "fintech",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "name": "Interactive Brokers",
+      "ticker": "IBKR",
+      "exchange": "NASDAQ",
+      "industry": "fintech",
+      "category": "Trading & Markets"
+    },
+    "score": 54
+  },
+  {
+    "ticker": "MKTX",
+    "name": "MarketAxess Holdings Inc.",
+    "sector": "fintech",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "name": "MarketAxess Holdings Inc.",
+      "ticker": "MKTX",
+      "exchange": "NASDAQ",
+      "industry": "fintech",
+      "category": "Trading & Markets"
+    },
+    "score": 54
+  },
+  {
+    "ticker": "ICE",
+    "name": "Intercontinental Exchange Holdings, Inc.",
+    "sector": "fintech",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "name": "Intercontinental Exchange Holdings, Inc.",
+      "ticker": "ICE",
+      "exchange": "NASDAQ",
+      "industry": "fintech",
+      "category": "Trading & Markets"
+    },
+    "score": 54
+  },
+  {
+    "ticker": "CBOE",
+    "name": "Cboe Global Markets, Inc.",
+    "sector": "fintech",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "name": "Cboe Global Markets, Inc.",
+      "ticker": "CBOE",
+      "exchange": "NASDAQ",
+      "industry": "fintech",
+      "category": "Trading & Markets"
+    },
+    "score": 54
+  },
+  {
+    "ticker": "SSNC",
+    "name": "SS&C Technologies Holdings, Inc.",
+    "sector": "fintech",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "name": "SS&C Technologies Holdings, Inc.",
+      "ticker": "SSNC",
+      "exchange": "NASDAQ",
+      "industry": "fintech",
+      "category": "Software & Platforms"
+    },
+    "score": 54
+  },
+  {
+    "ticker": "CRCL",
+    "name": "Circle Internet Group, Inc.",
+    "sector": "fintech",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "name": "Circle Internet Group, Inc.",
+      "ticker": "CRCL",
+      "exchange": "NASDAQ",
+      "industry": "fintech",
+      "category": "Digital Assets & Crypto"
+    },
+    "score": 54
+  },
+  {
+    "ticker": "PAY",
+    "name": "Paymentus Holdings, Inc.",
+    "sector": "fintech",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "name": "Paymentus Holdings, Inc.",
+      "ticker": "PAY",
+      "exchange": "NASDAQ",
+      "industry": "fintech",
+      "category": "Other Notable NASDAQ-Listed Fintech Names"
+    },
+    "score": 54
+  },
+  {
+    "ticker": "JKHY",
+    "name": "Jack Henry & Associates, Inc.",
+    "sector": "fintech",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "name": "Jack Henry & Associates, Inc.",
+      "ticker": "JKHY",
+      "exchange": "NASDAQ",
+      "industry": "fintech",
+      "category": "Other Notable NASDAQ-Listed Fintech Names"
+    },
+    "score": 54
+  },
+  {
+    "ticker": "HBAN",
+    "name": "Huntington Bancshares",
+    "sector": "Financials",
+    "market_cap": "Large Cap",
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "HBAN",
+      "company": "Huntington Bancshares",
+      "market_cap": "Large Cap",
+      "exchange": "NASDAQ",
+      "sector": "Financials"
+    },
+    "score": 50
+  },
+  {
+    "ticker": "ONB",
+    "name": "Old National Bancorp",
+    "sector": "Financials",
+    "market_cap": "~$9B",
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "ONB",
+      "company": "Old National Bancorp",
+      "market_cap": "~$9B",
+      "exchange": "NASDAQ",
+      "sector": "Financials"
+    },
+    "score": 50
+  },
+  {
+    "ticker": "COLB",
+    "name": "Columbia Banking System",
+    "sector": "Financials",
+    "market_cap": "~$8B",
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "COLB",
+      "company": "Columbia Banking System",
+      "market_cap": "~$8B",
+      "exchange": "NASDAQ",
+      "sector": "Financials"
+    },
+    "score": 50
+  },
+  {
+    "ticker": "BOKF",
+    "name": "BOK Financial Corporation",
+    "sector": "Financials",
+    "market_cap": "~$8B",
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "BOKF",
+      "company": "BOK Financial Corporation",
+      "market_cap": "~$8B",
+      "exchange": "NASDAQ",
+      "sector": "Financials"
+    },
+    "score": 50
+  },
+  {
+    "ticker": "UMBF",
+    "name": "UMB Financial Corporation",
+    "sector": "Financials",
+    "market_cap": "~$9B",
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "UMBF",
+      "company": "UMB Financial Corporation",
+      "market_cap": "~$9B",
+      "exchange": "NASDAQ",
+      "sector": "Financials"
+    },
+    "score": 50
+  },
+  {
+    "ticker": "BANR",
+    "name": "Banner Corporation",
+    "sector": "Financials",
+    "market_cap": "~$2.2B",
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "BANR",
+      "company": "Banner Corporation",
+      "market_cap": "~$2.2B",
+      "exchange": "NASDAQ",
+      "sector": "Financials"
+    },
+    "score": 50
+  },
+  {
+    "ticker": "MBIN",
+    "name": "Merchants Bancorp",
+    "sector": "Financials",
+    "market_cap": "~$2.2B",
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "MBIN",
+      "company": "Merchants Bancorp",
+      "market_cap": "~$2.2B",
+      "exchange": "NASDAQ",
+      "sector": "Financials"
+    },
+    "score": 50
+  },
+  {
+    "ticker": "EFSC",
+    "name": "Enterprise Financial Services",
+    "sector": "Financials",
+    "market_cap": "~$2.1B",
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "EFSC",
+      "company": "Enterprise Financial Services",
+      "market_cap": "~$2.1B",
+      "exchange": "NASDAQ",
+      "sector": "Financials"
+    },
+    "score": 50
+  },
+  {
+    "ticker": "SYBT",
+    "name": "Stock Yards Bancorp",
+    "sector": "Financials",
+    "market_cap": "~$2.1B",
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "SYBT",
+      "company": "Stock Yards Bancorp",
+      "market_cap": "~$2.1B",
+      "exchange": "NASDAQ",
+      "sector": "Financials"
+    },
+    "score": 50
+  },
+  {
+    "ticker": "NTB",
+    "name": "Bank of N.T. Butterfield & Son",
+    "sector": "Financials",
+    "market_cap": "~$2.2B",
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "NTB",
+      "company": "Bank of N.T. Butterfield & Son",
+      "market_cap": "~$2.2B",
+      "exchange": "NASDAQ",
+      "sector": "Financials"
+    },
+    "score": 50
+  },
+  {
+    "ticker": "PRI",
+    "name": "Primerica, Inc.",
+    "sector": "Financials",
+    "market_cap": "~$8.3B",
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "PRI",
+      "company": "Primerica, Inc.",
+      "market_cap": "~$8.3B",
+      "exchange": "NASDAQ",
+      "sector": "Financials"
+    },
+    "score": 50
+  },
+  {
+    "ticker": "JXN",
+    "name": "Jackson Financial Inc.",
+    "sector": "Financials",
+    "market_cap": "~$7.6B",
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "JXN",
+      "company": "Jackson Financial Inc.",
+      "market_cap": "~$7.6B",
+      "exchange": "NASDAQ",
+      "sector": "Financials"
+    },
+    "score": 50
+  },
+  {
+    "ticker": "LNC",
+    "name": "Lincoln National Corporation",
+    "sector": "Financials",
+    "market_cap": "~$6.8B",
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "LNC",
+      "company": "Lincoln National Corporation",
+      "market_cap": "~$6.8B",
+      "exchange": "NASDAQ",
+      "sector": "Financials"
+    },
+    "score": 50
+  },
+  {
+    "ticker": "CNO",
+    "name": "CNO Financial Group",
+    "sector": "Financials",
+    "market_cap": "~$4.1B",
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "CNO",
+      "company": "CNO Financial Group",
+      "market_cap": "~$4.1B",
+      "exchange": "NASDAQ",
+      "sector": "Financials"
+    },
+    "score": 50
+  },
+  {
+    "ticker": "BHF",
+    "name": "Brighthouse Financial",
+    "sector": "Financials",
+    "market_cap": "~$3.5B",
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "BHF",
+      "company": "Brighthouse Financial",
+      "market_cap": "~$3.5B",
+      "exchange": "NASDAQ",
+      "sector": "Financials"
+    },
+    "score": 50
+  },
+  {
+    "ticker": "FG",
+    "name": "F&G Annuities & Life",
+    "sector": "Financials",
+    "market_cap": "~$3.5B",
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "FG",
+      "company": "F&G Annuities & Life",
+      "market_cap": "~$3.5B",
+      "exchange": "NASDAQ",
+      "sector": "Financials"
+    },
+    "score": 50
+  },
+  {
+    "ticker": "WT",
+    "name": "WisdomTree, Inc.",
+    "sector": "Financials",
+    "market_cap": "~$2.2B",
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "WT",
+      "company": "WisdomTree, Inc.",
+      "market_cap": "~$2.2B",
+      "exchange": "NASDAQ",
+      "sector": "Financials"
+    },
+    "score": 50
+  },
+  {
+    "ticker": "FINV",
+    "name": "FinVolution Group",
+    "sector": "Financials",
+    "market_cap": "~$1.3B",
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "FINV",
+      "company": "FinVolution Group",
+      "market_cap": "~$1.3B",
+      "exchange": "NASDAQ",
+      "sector": "Financials"
+    },
+    "score": 50
+  },
+  {
+    "ticker": "VIRT",
+    "name": "Virtu Financial",
+    "sector": "Financials",
+    "market_cap": "Mid Cap",
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "VIRT",
+      "company": "Virtu Financial",
+      "market_cap": "Mid Cap",
+      "exchange": "NASDAQ",
+      "sector": "Financials"
+    },
+    "score": 50
+  },
+  {
+    "ticker": "MFIC",
+    "name": "MidCap Financial Investment Corp.",
+    "sector": "Financials",
+    "market_cap": "~$1.1B",
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "MFIC",
+      "company": "MidCap Financial Investment Corp.",
+      "market_cap": "~$1.1B",
+      "exchange": "NASDAQ",
+      "sector": "Financials"
+    },
+    "score": 50
+  },
+  {
+    "ticker": "MSDL",
+    "name": "Morgan Stanley Direct Lending Fund",
+    "sector": "Financials",
+    "market_cap": "~$1.2B",
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "MSDL",
+      "company": "Morgan Stanley Direct Lending Fund",
+      "market_cap": "~$1.2B",
+      "exchange": "NASDAQ",
+      "sector": "Financials"
+    },
+    "score": 50
+  },
+  {
+    "ticker": "TRUP",
+    "name": "Trupanion, Inc.",
+    "sector": "Financials",
+    "market_cap": "~$1.1B",
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "TRUP",
+      "company": "Trupanion, Inc.",
+      "market_cap": "~$1.1B",
+      "exchange": "NASDAQ",
+      "sector": "Financials"
+    },
+    "score": 50
+  },
+  {
+    "ticker": "ORLY",
+    "name": "O'Reilly Automotive, Inc.",
+    "sector": "Consumer Discretionary",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "exchange": "NASDAQ",
+      "sector": "Consumer Discretionary",
+      "ticker": "ORLY",
+      "company": "O'Reilly Automotive, Inc.",
+      "sub_sector": "Auto & Home Supply Stores"
+    },
+    "score": 50
+  },
+  {
+    "ticker": "ROST",
+    "name": "Ross Stores, Inc.",
+    "sector": "Consumer Discretionary",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "exchange": "NASDAQ",
+      "sector": "Consumer Discretionary",
+      "ticker": "ROST",
+      "company": "Ross Stores, Inc.",
+      "sub_sector": "Apparel Retail"
+    },
+    "score": 50
+  },
+  {
+    "ticker": "ULTA",
+    "name": "Ulta Beauty, Inc.",
+    "sector": "Consumer Discretionary",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "exchange": "NASDAQ",
+      "sector": "Consumer Discretionary",
+      "ticker": "ULTA",
+      "company": "Ulta Beauty, Inc.",
+      "sub_sector": "Specialty Retail"
+    },
+    "score": 50
+  },
+  {
+    "ticker": "FUBO",
+    "name": "fuboTV Inc.",
+    "sector": "Consumer Discretionary",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "exchange": "NASDAQ",
+      "sector": "Consumer Discretionary",
+      "ticker": "FUBO",
+      "company": "fuboTV Inc.",
+      "sub_sector": "Streaming / Media"
+    },
+    "score": 50
+  },
+  {
+    "ticker": "ROKU",
+    "name": "Roku, Inc.",
+    "sector": "Consumer Discretionary",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "exchange": "NASDAQ",
+      "sector": "Consumer Discretionary",
+      "ticker": "ROKU",
+      "company": "Roku, Inc.",
+      "sub_sector": "Streaming Devices / Media"
+    },
+    "score": 50
+  },
+  {
+    "ticker": "PTON",
+    "name": "Peloton Interactive, Inc.",
+    "sector": "Consumer Discretionary",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "exchange": "NASDAQ",
+      "sector": "Consumer Discretionary",
+      "ticker": "PTON",
+      "company": "Peloton Interactive, Inc.",
+      "sub_sector": "Fitness / Leisure"
+    },
+    "score": 50
+  },
+  {
+    "ticker": "RVLV",
+    "name": "Revolve Group, Inc.",
+    "sector": "Consumer Discretionary",
+    "market_cap": "~$1.6 B",
+    "revenue_growth": null,
+    "_raw": {
+      "exchange": "NASDAQ",
+      "sector": "Consumer Discretionary",
+      "ticker": "RVLV",
+      "company": "Revolve Group, Inc.",
+      "sub_sector": "Online Apparel Retail"
+    },
+    "_raw_all": [
+      {
+        "company": "Revolve Group Inc.",
+        "ticker": "RVLV",
+        "exchange": "NASDAQ",
+        "industry": "e-commerce",
+        "market_cap": "~$1.6 B"
+      }
+    ],
+    "score": 50
+  },
+  {
+    "ticker": "POOL",
+    "name": "Pool Corporation",
+    "sector": "Consumer Discretionary",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "exchange": "NASDAQ",
+      "sector": "Consumer Discretionary",
+      "ticker": "POOL",
+      "company": "Pool Corporation",
+      "sub_sector": "Leisure Products"
+    },
+    "score": 50
+  },
+  {
+    "ticker": "CROX",
+    "name": "Crocs, Inc.",
+    "sector": "Consumer Discretionary",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "exchange": "NASDAQ",
+      "sector": "Consumer Discretionary",
+      "ticker": "CROX",
+      "company": "Crocs, Inc.",
+      "sub_sector": "Footwear"
+    },
+    "score": 50
+  },
+  {
+    "ticker": "DKNG",
+    "name": "DraftKings Inc.",
+    "sector": "Consumer Discretionary",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "exchange": "NASDAQ",
+      "sector": "Consumer Discretionary",
+      "ticker": "DKNG",
+      "company": "DraftKings Inc.",
+      "sub_sector": "Sports Betting / Gaming"
+    },
+    "score": 50
+  },
+  {
+    "ticker": "MLCO",
+    "name": "Melco Resorts & Entertainment",
+    "sector": "Consumer Discretionary",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "exchange": "NASDAQ",
+      "sector": "Consumer Discretionary",
+      "ticker": "MLCO",
+      "company": "Melco Resorts & Entertainment",
+      "sub_sector": "Casinos & Gaming"
+    },
+    "score": 50
+  },
+  {
+    "ticker": "CHPT",
+    "name": "ChargePoint Holdings, Inc.",
+    "sector": "Consumer Discretionary",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "exchange": "NASDAQ",
+      "sector": "Consumer Discretionary",
+      "ticker": "CHPT",
+      "company": "ChargePoint Holdings, Inc.",
+      "sub_sector": "EV Charging"
+    },
+    "score": 50
+  },
+  {
+    "ticker": "BZUN",
+    "name": "Baozun Inc.",
+    "sector": "Consumer Discretionary",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "exchange": "NASDAQ",
+      "sector": "Consumer Discretionary",
+      "ticker": "BZUN",
+      "company": "Baozun Inc.",
+      "sub_sector": "E-Commerce Services"
+    },
+    "score": 50
+  },
+  {
+    "ticker": "GAMB",
+    "name": "Gambling.com Group Limited",
+    "sector": "Consumer Discretionary",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "exchange": "NASDAQ",
+      "sector": "Consumer Discretionary",
+      "ticker": "GAMB",
+      "company": "Gambling.com Group Limited",
+      "sub_sector": "Online Gaming"
+    },
+    "score": 50
+  },
+  {
+    "ticker": "ADP",
+    "name": "Automatic Data Processing",
+    "sector": "Industrials",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "ADP",
+      "company_name": "Automatic Data Processing",
+      "exchange": "NASDAQ",
+      "sector": "Industrials"
+    },
+    "score": 48
+  },
+  {
+    "ticker": "AXON",
+    "name": "Axon Enterprise",
+    "sector": "Industrials",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "AXON",
+      "company_name": "Axon Enterprise",
+      "exchange": "NASDAQ",
+      "sector": "Industrials"
+    },
+    "score": 48
+  },
+  {
+    "ticker": "CSX",
+    "name": "CSX Corporation",
+    "sector": "Industrials",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "CSX",
+      "company_name": "CSX Corporation",
+      "exchange": "NASDAQ",
+      "sector": "Industrials"
+    },
+    "score": 48
+  },
+  {
+    "ticker": "CTAS",
+    "name": "Cintas Corporation",
+    "sector": "Industrials",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "CTAS",
+      "company_name": "Cintas Corporation",
+      "exchange": "NASDAQ",
+      "sector": "Industrials"
+    },
+    "score": 48
+  },
+  {
+    "ticker": "FAST",
+    "name": "Fastenal Company",
+    "sector": "Industrials",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "FAST",
+      "company_name": "Fastenal Company",
+      "exchange": "NASDAQ",
+      "sector": "Industrials"
+    },
+    "score": 48
+  },
+  {
+    "ticker": "FER",
+    "name": "Ferrovial SE",
+    "sector": "Industrials",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "FER",
+      "company_name": "Ferrovial SE",
+      "exchange": "NASDAQ",
+      "sector": "Industrials"
+    },
+    "score": 48
+  },
+  {
+    "ticker": "HON",
+    "name": "Honeywell International",
+    "sector": "Industrials",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "HON",
+      "company_name": "Honeywell International",
+      "exchange": "NASDAQ",
+      "sector": "Industrials"
+    },
+    "score": 48
+  },
+  {
+    "ticker": "ODFL",
+    "name": "Old Dominion Freight Line",
+    "sector": "Industrials",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "ODFL",
+      "company_name": "Old Dominion Freight Line",
+      "exchange": "NASDAQ",
+      "sector": "Industrials"
+    },
+    "score": 48
+  },
+  {
+    "ticker": "PCAR",
+    "name": "PACCAR",
+    "sector": "Industrials",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "PCAR",
+      "company_name": "PACCAR",
+      "exchange": "NASDAQ",
+      "sector": "Industrials"
+    },
+    "score": 48
+  },
+  {
+    "ticker": "ROP",
+    "name": "Roper Technologies",
+    "sector": "Industrials",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "ROP",
+      "company_name": "Roper Technologies",
+      "exchange": "NASDAQ",
+      "sector": "Industrials"
+    },
+    "score": 48
+  },
+  {
+    "ticker": "VRSK",
+    "name": "Verisk Analytics",
+    "sector": "Industrials",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "VRSK",
+      "company_name": "Verisk Analytics",
+      "exchange": "NASDAQ",
+      "sector": "Industrials"
+    },
+    "score": 48
+  },
+  {
+    "ticker": "SAIA",
+    "name": "Saia Inc.",
+    "sector": "Industrials",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "SAIA",
+      "company_name": "Saia Inc.",
+      "exchange": "NASDAQ",
+      "sector": "Industrials"
+    },
+    "score": 48
+  },
+  {
+    "ticker": "ARCB",
+    "name": "ArcBest Corporation",
+    "sector": "Industrials",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "ARCB",
+      "company_name": "ArcBest Corporation",
+      "exchange": "NASDAQ",
+      "sector": "Industrials"
+    },
+    "score": 48
+  },
+  {
+    "ticker": "ETS",
+    "name": "Elite Express Holding",
+    "sector": "Industrials",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "ETS",
+      "company_name": "Elite Express Holding",
+      "exchange": "NASDAQ",
+      "sector": "Industrials"
+    },
+    "score": 48
+  },
+  {
+    "ticker": "WAB",
+    "name": "Westinghouse Air Brake Technologies (Wabtec)",
+    "sector": "Industrials",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "WAB",
+      "company_name": "Westinghouse Air Brake Technologies (Wabtec)",
+      "exchange": "NASDAQ",
+      "sector": "Industrials"
+    },
+    "score": 48
+  },
+  {
+    "ticker": "TRN",
+    "name": "Trinity Industries",
+    "sector": "Industrials",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "TRN",
+      "company_name": "Trinity Industries",
+      "exchange": "NASDAQ",
+      "sector": "Industrials"
+    },
+    "score": 48
+  },
+  {
+    "ticker": "XPO",
+    "name": "XPO Inc.",
+    "sector": "Industrials",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "XPO",
+      "company_name": "XPO Inc.",
+      "exchange": "NASDAQ",
+      "sector": "Industrials"
+    },
+    "score": 48
+  },
+  {
+    "ticker": "JBHT",
+    "name": "J.B. Hunt Transport Services",
+    "sector": "Industrials",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "JBHT",
+      "company_name": "J.B. Hunt Transport Services",
+      "exchange": "NASDAQ",
+      "sector": "Industrials"
+    },
+    "score": 48
+  },
+  {
+    "ticker": "FANG",
+    "name": "Diamondback Energy, Inc.",
+    "sector": "Energy",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "FANG",
+      "company": "Diamondback Energy, Inc.",
+      "exchange": "NASDAQ",
+      "sector": "Energy",
+      "category": "Oil & Gas Exploration & Production"
+    },
+    "score": 48
+  },
+  {
+    "ticker": "APA",
+    "name": "APA Corporation",
+    "sector": "Energy",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "APA",
+      "company": "APA Corporation",
+      "exchange": "NASDAQ",
+      "sector": "Energy",
+      "category": "Oil & Gas Exploration & Production"
+    },
+    "score": 48
+  },
+  {
+    "ticker": "CTRA",
+    "name": "Coterra Energy Inc.",
+    "sector": "Energy",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "CTRA",
+      "company": "Coterra Energy Inc.",
+      "exchange": "NASDAQ",
+      "sector": "Energy",
+      "category": "Oil & Gas Exploration & Production"
+    },
+    "score": 48
+  },
+  {
+    "ticker": "EQT",
+    "name": "EQT Corporation",
+    "sector": "Energy",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "EQT",
+      "company": "EQT Corporation",
+      "exchange": "NASDAQ",
+      "sector": "Energy",
+      "category": "Oil & Gas Exploration & Production"
+    },
+    "score": 48
+  },
+  {
+    "ticker": "EXE",
+    "name": "Expand Energy Corporation",
+    "sector": "Energy",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "EXE",
+      "company": "Expand Energy Corporation",
+      "exchange": "NASDAQ",
+      "sector": "Energy",
+      "category": "Oil & Gas Exploration & Production"
+    },
+    "score": 48
+  },
+  {
+    "ticker": "PR",
+    "name": "Permian Resources Corporation",
+    "sector": "Energy",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "PR",
+      "company": "Permian Resources Corporation",
+      "exchange": "NASDAQ",
+      "sector": "Energy",
+      "category": "Oil & Gas Exploration & Production"
+    },
+    "score": 48
+  },
+  {
+    "ticker": "CHRD",
+    "name": "Chord Energy Corporation",
+    "sector": "Energy",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "CHRD",
+      "company": "Chord Energy Corporation",
+      "exchange": "NASDAQ",
+      "sector": "Energy",
+      "category": "Oil & Gas Exploration & Production"
+    },
+    "score": 48
+  },
+  {
+    "ticker": "MTDR",
+    "name": "Matador Resources Company",
+    "sector": "Energy",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "MTDR",
+      "company": "Matador Resources Company",
+      "exchange": "NASDAQ",
+      "sector": "Energy",
+      "category": "Oil & Gas Exploration & Production"
+    },
+    "score": 48
+  },
+  {
+    "ticker": "MGY",
+    "name": "Magnolia Oil & Gas Corporation",
+    "sector": "Energy",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "MGY",
+      "company": "Magnolia Oil & Gas Corporation",
+      "exchange": "NASDAQ",
+      "sector": "Energy",
+      "category": "Oil & Gas Exploration & Production"
+    },
+    "score": 48
+  },
+  {
+    "ticker": "AR",
+    "name": "Antero Resources Corporation",
+    "sector": "Energy",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "AR",
+      "company": "Antero Resources Corporation",
+      "exchange": "NASDAQ",
+      "sector": "Energy",
+      "category": "Oil & Gas Exploration & Production"
+    },
+    "score": 48
+  },
+  {
+    "ticker": "RRC",
+    "name": "Range Resources Corporation",
+    "sector": "Energy",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "RRC",
+      "company": "Range Resources Corporation",
+      "exchange": "NASDAQ",
+      "sector": "Energy",
+      "category": "Oil & Gas Exploration & Production"
+    },
+    "score": 48
+  },
+  {
+    "ticker": "OVV",
+    "name": "Ovintiv Inc.",
+    "sector": "Energy",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "OVV",
+      "company": "Ovintiv Inc.",
+      "exchange": "NASDAQ",
+      "sector": "Energy",
+      "category": "Oil & Gas Exploration & Production"
+    },
+    "score": 48
+  },
+  {
+    "ticker": "GPOR",
+    "name": "Gulfport Energy Corporation",
+    "sector": "Energy",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "GPOR",
+      "company": "Gulfport Energy Corporation",
+      "exchange": "NASDAQ",
+      "sector": "Energy",
+      "category": "Oil & Gas Exploration & Production"
+    },
+    "score": 48
+  },
+  {
+    "ticker": "CNX",
+    "name": "CNX Resources Corporation",
+    "sector": "Energy",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "CNX",
+      "company": "CNX Resources Corporation",
+      "exchange": "NASDAQ",
+      "sector": "Energy",
+      "category": "Oil & Gas Exploration & Production"
+    },
+    "score": 48
+  },
+  {
+    "ticker": "CRGY",
+    "name": "Crescent Energy Company",
+    "sector": "Energy",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "CRGY",
+      "company": "Crescent Energy Company",
+      "exchange": "NASDAQ",
+      "sector": "Energy",
+      "category": "Oil & Gas Exploration & Production"
+    },
+    "score": 48
+  },
+  {
+    "ticker": "SM",
+    "name": "SM Energy Company",
+    "sector": "Energy",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "SM",
+      "company": "SM Energy Company",
+      "exchange": "NASDAQ",
+      "sector": "Energy",
+      "category": "Oil & Gas Exploration & Production"
+    },
+    "score": 48
+  },
+  {
+    "ticker": "MUR",
+    "name": "Murphy Oil Corporation",
+    "sector": "Energy",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "MUR",
+      "company": "Murphy Oil Corporation",
+      "exchange": "NASDAQ",
+      "sector": "Energy",
+      "category": "Oil & Gas Exploration & Production"
+    },
+    "score": 48
+  },
+  {
+    "ticker": "CRK",
+    "name": "Comstock Resources, Inc.",
+    "sector": "Energy",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "CRK",
+      "company": "Comstock Resources, Inc.",
+      "exchange": "NASDAQ",
+      "sector": "Energy",
+      "category": "Oil & Gas Exploration & Production"
+    },
+    "score": 48
+  },
+  {
+    "ticker": "VNOM",
+    "name": "Viper Energy, Inc.",
+    "sector": "Energy",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "VNOM",
+      "company": "Viper Energy, Inc.",
+      "exchange": "NASDAQ",
+      "sector": "Energy",
+      "category": "Oil & Gas Exploration & Production"
+    },
+    "score": 48
+  },
+  {
+    "ticker": "DMLP",
+    "name": "Dorchester Minerals, L.P.",
+    "sector": "Energy",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "DMLP",
+      "company": "Dorchester Minerals, L.P.",
+      "exchange": "NASDAQ",
+      "sector": "Energy",
+      "category": "Oil & Gas Exploration & Production"
+    },
+    "score": 48
+  },
+  {
+    "ticker": "LNG",
+    "name": "Cheniere Energy, Inc.",
+    "sector": "Energy",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "LNG",
+      "company": "Cheniere Energy, Inc.",
+      "exchange": "NASDAQ",
+      "sector": "Energy",
+      "category": "LNG / Midstream / Pipelines"
+    },
+    "score": 48
+  },
+  {
+    "ticker": "TRGP",
+    "name": "Targa Resources Corp.",
+    "sector": "Energy",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "TRGP",
+      "company": "Targa Resources Corp.",
+      "exchange": "NASDAQ",
+      "sector": "Energy",
+      "category": "LNG / Midstream / Pipelines"
+    },
+    "score": 48
+  },
+  {
+    "ticker": "AM",
+    "name": "Antero Midstream Corporation",
+    "sector": "Energy",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "AM",
+      "company": "Antero Midstream Corporation",
+      "exchange": "NASDAQ",
+      "sector": "Energy",
+      "category": "LNG / Midstream / Pipelines"
+    },
+    "score": 48
+  },
+  {
+    "ticker": "DTM",
+    "name": "DT Midstream, Inc.",
+    "sector": "Energy",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "DTM",
+      "company": "DT Midstream, Inc.",
+      "exchange": "NASDAQ",
+      "sector": "Energy",
+      "category": "LNG / Midstream / Pipelines"
+    },
+    "score": 48
+  },
+  {
+    "ticker": "HESM",
+    "name": "Hess Midstream LP",
+    "sector": "Energy",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "HESM",
+      "company": "Hess Midstream LP",
+      "exchange": "NASDAQ",
+      "sector": "Energy",
+      "category": "LNG / Midstream / Pipelines"
+    },
+    "score": 48
+  },
+  {
+    "ticker": "WES",
+    "name": "Western Midstream Partners, LP",
+    "sector": "Energy",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "WES",
+      "company": "Western Midstream Partners, LP",
+      "exchange": "NASDAQ",
+      "sector": "Energy",
+      "category": "LNG / Midstream / Pipelines"
+    },
+    "score": 48
+  },
+  {
+    "ticker": "NFG",
+    "name": "National Fuel Gas Company",
+    "sector": "Energy",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "NFG",
+      "company": "National Fuel Gas Company",
+      "exchange": "NASDAQ",
+      "sector": "Energy",
+      "category": "LNG / Midstream / Pipelines"
+    },
+    "score": 48
+  },
+  {
+    "ticker": "HAL",
+    "name": "Halliburton Company",
+    "sector": "Energy",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "HAL",
+      "company": "Halliburton Company",
+      "exchange": "NASDAQ",
+      "sector": "Energy",
+      "category": "Oilfield Services & Equipment"
+    },
+    "score": 48
+  },
+  {
+    "ticker": "BKR",
+    "name": "Baker Hughes Company",
+    "sector": "Energy",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "BKR",
+      "company": "Baker Hughes Company",
+      "exchange": "NASDAQ",
+      "sector": "Energy",
+      "category": "Oilfield Services & Equipment"
+    },
+    "score": 48
+  },
+  {
+    "ticker": "FTI",
+    "name": "TechnipFMC plc",
+    "sector": "Energy",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "FTI",
+      "company": "TechnipFMC plc",
+      "exchange": "NASDAQ",
+      "sector": "Energy",
+      "category": "Oilfield Services & Equipment"
+    },
+    "score": 48
+  },
+  {
+    "ticker": "RES",
+    "name": "RPC, Inc.",
+    "sector": "Energy",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "RES",
+      "company": "RPC, Inc.",
+      "exchange": "NASDAQ",
+      "sector": "Energy",
+      "category": "Oilfield Services & Equipment"
+    },
+    "score": 48
+  },
+  {
+    "ticker": "WTTR",
+    "name": "Select Water Solutions, Inc.",
+    "sector": "Energy",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "WTTR",
+      "company": "Select Water Solutions, Inc.",
+      "exchange": "NASDAQ",
+      "sector": "Energy",
+      "category": "Oilfield Services & Equipment"
+    },
+    "score": 48
+  },
+  {
+    "ticker": "HLX",
+    "name": "Helix Energy Solutions Group, Inc.",
+    "sector": "Energy",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "HLX",
+      "company": "Helix Energy Solutions Group, Inc.",
+      "exchange": "NASDAQ",
+      "sector": "Energy",
+      "category": "Oilfield Services & Equipment"
+    },
+    "score": 48
+  },
+  {
+    "ticker": "DINO",
+    "name": "HF Sinclair Corporation",
+    "sector": "Energy",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "DINO",
+      "company": "HF Sinclair Corporation",
+      "exchange": "NASDAQ",
+      "sector": "Energy",
+      "category": "Refining & Marketing"
+    },
+    "score": 48
+  },
+  {
+    "ticker": "MUSA",
+    "name": "Murphy USA Inc.",
+    "sector": "Energy",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "MUSA",
+      "company": "Murphy USA Inc.",
+      "exchange": "NASDAQ",
+      "sector": "Energy",
+      "category": "Refining & Marketing"
+    },
+    "score": 48
+  },
+  {
+    "ticker": "TPL",
+    "name": "Texas Pacific Land Corporation",
+    "sector": "Energy",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "TPL",
+      "company": "Texas Pacific Land Corporation",
+      "exchange": "NASDAQ",
+      "sector": "Energy",
+      "category": "Other / Diversified Energy"
+    },
+    "score": 48
+  },
+  {
+    "ticker": "CEG",
+    "name": "Constellation Energy Corporation",
+    "sector": "Energy",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "CEG",
+      "company": "Constellation Energy Corporation",
+      "exchange": "NASDAQ",
+      "sector": "Energy",
+      "category": "Other / Diversified Energy"
+    },
+    "_raw_all": [
+      {
+        "ticker": "CEG",
+        "company": "Constellation Energy",
+        "sub_industry": "Electric Utilities",
+        "exchange": "NASDAQ",
+        "sector": "Utilities"
+      }
+    ],
+    "score": 48
+  },
+  {
+    "ticker": "NEXT",
+    "name": "NextDecade Corporation",
+    "sector": "Energy",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "NEXT",
+      "company": "NextDecade Corporation",
+      "exchange": "NASDAQ",
+      "sector": "Energy",
+      "category": "Other / Diversified Energy"
+    },
+    "score": 48
+  },
+  {
+    "ticker": "SOC",
+    "name": "Sable Offshore Corp.",
+    "sector": "Energy",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "SOC",
+      "company": "Sable Offshore Corp.",
+      "exchange": "NASDAQ",
+      "sector": "Energy",
+      "category": "Other / Diversified Energy"
+    },
+    "score": 48
+  },
+  {
+    "ticker": "VTOL",
+    "name": "Bristow Group Inc.",
+    "sector": "Energy",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "VTOL",
+      "company": "Bristow Group Inc.",
+      "exchange": "NASDAQ",
+      "sector": "Energy",
+      "category": "Other / Diversified Energy"
+    },
+    "score": 48
+  },
+  {
+    "ticker": "LPG",
+    "name": "Dorian LPG Ltd.",
+    "sector": "Energy",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "LPG",
+      "company": "Dorian LPG Ltd.",
+      "exchange": "NASDAQ",
+      "sector": "Energy",
+      "category": "Other / Diversified Energy"
+    },
+    "score": 48
+  },
+  {
+    "ticker": "NAT",
+    "name": "Nordic American Tankers Limited",
+    "sector": "Energy",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "NAT",
+      "company": "Nordic American Tankers Limited",
+      "exchange": "NASDAQ",
+      "sector": "Energy",
+      "category": "Other / Diversified Energy"
+    },
+    "score": 48
+  },
+  {
+    "ticker": "ENPH",
+    "name": "Enphase Energy, Inc.",
+    "sector": "Energy",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "ENPH",
+      "company": "Enphase Energy, Inc.",
+      "exchange": "NASDAQ",
+      "sector": "Energy",
+      "category": "Renewable / Solar Energy"
+    },
+    "score": 48
+  },
+  {
+    "ticker": "FSLR",
+    "name": "First Solar, Inc.",
+    "sector": "Energy",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "FSLR",
+      "company": "First Solar, Inc.",
+      "exchange": "NASDAQ",
+      "sector": "Energy",
+      "category": "Renewable / Solar Energy"
+    },
+    "score": 48
+  },
+  {
+    "ticker": "PDD",
+    "name": "PDD Holdings (Pinduoduo)",
+    "sector": "e-commerce",
+    "market_cap": "~$140 B",
+    "revenue_growth": null,
+    "_raw": {
+      "company": "PDD Holdings (Pinduoduo)",
+      "ticker": "PDD",
+      "exchange": "NASDAQ",
+      "industry": "e-commerce",
+      "market_cap": "~$140 B"
+    },
+    "score": 48
+  },
+  {
+    "ticker": "CVNA",
+    "name": "Carvana Co.",
+    "sector": "e-commerce",
+    "market_cap": "~$75 B",
+    "revenue_growth": null,
+    "_raw": {
+      "company": "Carvana Co.",
+      "ticker": "CVNA",
+      "exchange": "NASDAQ",
+      "industry": "e-commerce",
+      "market_cap": "~$75 B"
+    },
+    "score": 48
+  },
+  {
+    "ticker": "ATLN",
+    "name": "Atlantic International Corp.",
+    "sector": null,
+    "market_cap": null,
+    "revenue_growth": ">10%",
+    "_raw": {
+      "company": "Atlantic International Corp.",
+      "ticker": "ATLN",
+      "revenue_growth": ">10%",
+      "exchange": "NASDAQ",
+      "industry": null,
+      "status": null
+    },
+    "score": 48
+  },
+  {
+    "ticker": "BRLA",
+    "name": "BrilliA",
+    "sector": null,
+    "market_cap": null,
+    "revenue_growth": "+15% (FY ended Mar 2025)",
+    "_raw": {
+      "ticker": "BRLA",
+      "company": "BrilliA",
+      "revenue_growth": "+15% (FY ended Mar 2025)",
+      "exchange": "NASDAQ",
+      "industry": null,
+      "status": null
+    },
+    "score": 48
+  },
+  {
+    "ticker": "PEP",
+    "name": "PepsiCo",
+    "sector": "Consumer Staples",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "PEP",
+      "company_name": "PepsiCo",
+      "market_cap": null,
+      "sector": null
+    },
+    "_raw_all": [
+      {
+        "ticker": "PEP",
+        "company": "PepsiCo, Inc.",
+        "sector": "Consumer Staples",
+        "exchange": "NASDAQ",
+        "sub_industry": "Beverages (Soft Drinks & Snacks)"
+      }
+    ],
+    "score": 46
+  },
+  {
+    "ticker": "MDLZ",
+    "name": "Mondelez International, Inc.",
+    "sector": "Consumer Staples",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "MDLZ",
+      "company": "Mondelez International, Inc.",
+      "sector": "Consumer Staples",
+      "exchange": "NASDAQ",
+      "sub_industry": "Packaged Foods / Confectionery"
+    },
+    "score": 46
+  },
+  {
+    "ticker": "KHC",
+    "name": "The Kraft Heinz Company",
+    "sector": "Consumer Staples",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "KHC",
+      "company": "The Kraft Heinz Company",
+      "sector": "Consumer Staples",
+      "exchange": "NASDAQ",
+      "sub_industry": "Packaged Foods"
+    },
+    "score": 46
+  },
+  {
+    "ticker": "MNST",
+    "name": "Monster Beverage Corporation",
+    "sector": "Consumer Staples",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "MNST",
+      "company": "Monster Beverage Corporation",
+      "sector": "Consumer Staples",
+      "exchange": "NASDAQ",
+      "sub_industry": "Beverages (Energy Drinks)"
+    },
+    "score": 46
+  },
+  {
+    "ticker": "CELH",
+    "name": "Celsius Holdings, Inc.",
+    "sector": "Consumer Staples",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "CELH",
+      "company": "Celsius Holdings, Inc.",
+      "sector": "Consumer Staples",
+      "exchange": "NASDAQ",
+      "sub_industry": "Beverages (Functional/Energy)"
+    },
+    "score": 46
+  },
+  {
+    "ticker": "KDP",
+    "name": "Keurig Dr Pepper Inc.",
+    "sector": "Consumer Staples",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "KDP",
+      "company": "Keurig Dr Pepper Inc.",
+      "sector": "Consumer Staples",
+      "exchange": "NASDAQ",
+      "sub_industry": "Beverages"
+    },
+    "score": 46
+  },
+  {
+    "ticker": "ELF",
+    "name": "e.l.f. Beauty, Inc.",
+    "sector": "Consumer Staples",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "ELF",
+      "company": "e.l.f. Beauty, Inc.",
+      "sector": "Consumer Staples",
+      "exchange": "NASDAQ",
+      "sub_industry": "Personal Care / Beauty"
+    },
+    "score": 46
+  },
+  {
+    "ticker": "FRPT",
+    "name": "Freshpet, Inc.",
+    "sector": "Consumer Staples",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "FRPT",
+      "company": "Freshpet, Inc.",
+      "sector": "Consumer Staples",
+      "exchange": "NASDAQ",
+      "sub_industry": "Pet Food"
+    },
+    "score": 46
+  },
+  {
+    "ticker": "VITL",
+    "name": "Vital Farms, Inc.",
+    "sector": "Consumer Staples",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "VITL",
+      "company": "Vital Farms, Inc.",
+      "sector": "Consumer Staples",
+      "exchange": "NASDAQ",
+      "sub_industry": "Food Products"
+    },
+    "score": 46
+  },
+  {
+    "ticker": "BRBR",
+    "name": "BellRing Brands, Inc.",
+    "sector": "Consumer Staples",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "BRBR",
+      "company": "BellRing Brands, Inc.",
+      "sector": "Consumer Staples",
+      "exchange": "NASDAQ",
+      "sub_industry": "Packaged Foods / Nutrition"
+    },
+    "score": 46
+  },
+  {
+    "ticker": "USFD",
+    "name": "US Foods Holding Corp.",
+    "sector": "Consumer Staples",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "USFD",
+      "company": "US Foods Holding Corp.",
+      "sector": "Consumer Staples",
+      "exchange": "NASDAQ",
+      "sub_industry": null
+    },
+    "score": 46
+  },
+  {
+    "ticker": "SFM",
+    "name": "Sprouts Farmers Market",
+    "sector": "Consumer Staples",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "SFM",
+      "company": "Sprouts Farmers Market",
+      "sector": "Consumer Staples",
+      "exchange": "NASDAQ",
+      "sub_industry": null
+    },
+    "score": 46
+  },
+  {
+    "ticker": "CASY",
+    "name": "Casey's General Stores",
+    "sector": "Consumer Staples",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "CASY",
+      "company": "Casey's General Stores",
+      "sector": "Consumer Staples",
+      "exchange": "NASDAQ",
+      "sub_industry": null
+    },
+    "score": 46
+  },
+  {
+    "ticker": "LANC",
+    "name": "Lancaster Colony Corp.",
+    "sector": "Consumer Staples",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "LANC",
+      "company": "Lancaster Colony Corp.",
+      "sector": "Consumer Staples",
+      "exchange": "NASDAQ",
+      "sub_industry": null
+    },
+    "score": 46
+  },
+  {
+    "ticker": "JJSF",
+    "name": "J&J Snack Foods Corp.",
+    "sector": "Consumer Staples",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "JJSF",
+      "company": "J&J Snack Foods Corp.",
+      "sector": "Consumer Staples",
+      "exchange": "NASDAQ",
+      "sub_industry": null
+    },
+    "score": 46
+  },
+  {
+    "ticker": "FARM",
+    "name": "Farmer Brothers Co.",
+    "sector": "Consumer Staples",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "FARM",
+      "company": "Farmer Brothers Co.",
+      "sector": "Consumer Staples",
+      "exchange": "NASDAQ",
+      "sub_industry": null
+    },
+    "score": 46
+  },
+  {
+    "ticker": "HAIN",
+    "name": "The Hain Celestial Group",
+    "sector": "Consumer Staples",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "HAIN",
+      "company": "The Hain Celestial Group",
+      "sector": "Consumer Staples",
+      "exchange": "NASDAQ",
+      "sub_industry": null
+    },
+    "score": 46
+  },
+  {
+    "ticker": "JD",
+    "name": "JD.com Inc.",
+    "sector": "e-commerce",
+    "market_cap": "~$39 B",
+    "revenue_growth": null,
+    "_raw": {
+      "company": "JD.com Inc.",
+      "ticker": "JD",
+      "exchange": "NASDAQ",
+      "industry": "e-commerce",
+      "market_cap": "~$39 B"
+    },
+    "score": 46
+  },
+  {
+    "ticker": "CPNG",
+    "name": "Coupang Inc.",
+    "sector": "e-commerce",
+    "market_cap": "~$31 B",
+    "revenue_growth": null,
+    "_raw": {
+      "company": "Coupang Inc.",
+      "ticker": "CPNG",
+      "exchange": "NASDAQ",
+      "industry": "e-commerce",
+      "market_cap": "~$31 B"
+    },
+    "score": 46
+  },
+  {
+    "ticker": "CHWY",
+    "name": "Chewy Inc.",
+    "sector": "e-commerce",
+    "market_cap": "~$10 B",
+    "revenue_growth": null,
+    "_raw": {
+      "company": "Chewy Inc.",
+      "ticker": "CHWY",
+      "exchange": "NASDAQ",
+      "industry": "e-commerce",
+      "market_cap": "~$10 B"
+    },
+    "score": 46
+  },
+  {
+    "ticker": "CART",
+    "name": "Maplebear Inc. (Instacart)",
+    "sector": "e-commerce",
+    "market_cap": "~$10 B",
+    "revenue_growth": null,
+    "_raw": {
+      "company": "Maplebear Inc. (Instacart)",
+      "ticker": "CART",
+      "exchange": "NASDAQ",
+      "industry": "e-commerce",
+      "market_cap": "~$10 B"
+    },
+    "score": 46
+  },
+  {
+    "ticker": "W",
+    "name": "Wayfair Inc.",
+    "sector": "e-commerce",
+    "market_cap": "~$10 B",
+    "revenue_growth": null,
+    "_raw": {
+      "company": "Wayfair Inc.",
+      "ticker": "W",
+      "exchange": "NASDAQ",
+      "industry": "e-commerce",
+      "market_cap": "~$10 B"
+    },
+    "score": 46
+  },
+  {
+    "ticker": "NFBK",
+    "name": "Northfield Bancorp",
+    "sector": "Financials",
+    "market_cap": "~$581M",
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "NFBK",
+      "company": "Northfield Bancorp",
+      "market_cap": "~$581M",
+      "exchange": "NASDAQ",
+      "sector": "Financials"
+    },
+    "score": 45
+  },
+  {
+    "ticker": "ALTI",
+    "name": "AlTi Global, Inc.",
+    "sector": "Financials",
+    "market_cap": "~$580M",
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "ALTI",
+      "company": "AlTi Global, Inc.",
+      "market_cap": "~$580M",
+      "exchange": "NASDAQ",
+      "sector": "Financials"
+    },
+    "score": 45
+  },
+  {
+    "ticker": "GAIN",
+    "name": "Gladstone Investment Corporation",
+    "sector": "Financials",
+    "market_cap": "~$584M",
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "GAIN",
+      "company": "Gladstone Investment Corporation",
+      "market_cap": "~$584M",
+      "exchange": "NASDAQ",
+      "sector": "Financials"
+    },
+    "score": 45
+  },
+  {
+    "ticker": "AEP",
+    "name": "American Electric Power",
+    "sector": "Utilities",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "AEP",
+      "company": "American Electric Power",
+      "sub_industry": "Electric Utilities",
+      "exchange": "NASDAQ",
+      "sector": "Utilities"
+    },
+    "score": 44
+  },
+  {
+    "ticker": "EXC",
+    "name": "Exelon Corporation",
+    "sector": "Utilities",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "EXC",
+      "company": "Exelon Corporation",
+      "sub_industry": "Power Generation",
+      "exchange": "NASDAQ",
+      "sector": "Utilities"
+    },
+    "score": 44
+  },
+  {
+    "ticker": "XEL",
+    "name": "Xcel Energy",
+    "sector": "Utilities",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "XEL",
+      "company": "Xcel Energy",
+      "sub_industry": "Electric Utilities",
+      "exchange": "NASDAQ",
+      "sector": "Utilities"
+    },
+    "score": 44
+  },
+  {
+    "ticker": "AES",
+    "name": "AES Corporation",
+    "sector": "Utilities",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "AES",
+      "company": "AES Corporation",
+      "sub_industry": "Diversified Utilities",
+      "exchange": "NASDAQ",
+      "sector": "Utilities"
+    },
+    "score": 44
+  },
+  {
+    "ticker": "AQN",
+    "name": "Algonquin Power & Utilities",
+    "sector": "Utilities",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "AQN",
+      "company": "Algonquin Power & Utilities",
+      "sub_industry": "Diversified Utilities",
+      "exchange": "NASDAQ",
+      "sector": "Utilities"
+    },
+    "score": 44
+  },
+  {
+    "ticker": "AGR",
+    "name": "Avangrid",
+    "sector": "Utilities",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "AGR",
+      "company": "Avangrid",
+      "sub_industry": "Electric Utilities",
+      "exchange": "NASDAQ",
+      "sector": "Utilities"
+    },
+    "score": 44
+  },
+  {
+    "ticker": "ATO",
+    "name": "Atmos Energy",
+    "sector": "Utilities",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "ATO",
+      "company": "Atmos Energy",
+      "sub_industry": "Gas Utilities",
+      "exchange": "NASDAQ",
+      "sector": "Utilities"
+    },
+    "score": 44
+  },
+  {
+    "ticker": "AWK",
+    "name": "American Water Works",
+    "sector": "Utilities",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "AWK",
+      "company": "American Water Works",
+      "sub_industry": "Water Utilities",
+      "exchange": "NASDAQ",
+      "sector": "Utilities"
+    },
+    "score": 44
+  },
+  {
+    "ticker": "CNP",
+    "name": "CenterPoint Energy",
+    "sector": "Utilities",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "CNP",
+      "company": "CenterPoint Energy",
+      "sub_industry": "Electric Utilities",
+      "exchange": "NASDAQ",
+      "sector": "Utilities"
+    },
+    "score": 44
+  },
+  {
+    "ticker": "CMS",
+    "name": "CMS Energy",
+    "sector": "Utilities",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "CMS",
+      "company": "CMS Energy",
+      "sub_industry": "Diversified Utilities",
+      "exchange": "NASDAQ",
+      "sector": "Utilities"
+    },
+    "score": 44
+  },
+  {
+    "ticker": "D",
+    "name": "Dominion Energy",
+    "sector": "Utilities",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "D",
+      "company": "Dominion Energy",
+      "sub_industry": "Diversified Utilities",
+      "exchange": "NASDAQ",
+      "sector": "Utilities"
+    },
+    "score": 44
+  },
+  {
+    "ticker": "DTE",
+    "name": "DTE Energy",
+    "sector": "Utilities",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "DTE",
+      "company": "DTE Energy",
+      "sub_industry": "Diversified Utilities",
+      "exchange": "NASDAQ",
+      "sector": "Utilities"
+    },
+    "score": 44
+  },
+  {
+    "ticker": "DUK",
+    "name": "Duke Energy",
+    "sector": "Utilities",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "DUK",
+      "company": "Duke Energy",
+      "sub_industry": "Electric Utilities",
+      "exchange": "NASDAQ",
+      "sector": "Utilities"
+    },
+    "score": 44
+  },
+  {
+    "ticker": "ED",
+    "name": "Consolidated Edison",
+    "sector": "Utilities",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "ED",
+      "company": "Consolidated Edison",
+      "sub_industry": "Diversified Utilities",
+      "exchange": "NASDAQ",
+      "sector": "Utilities"
+    },
+    "score": 44
+  },
+  {
+    "ticker": "EIX",
+    "name": "Edison International",
+    "sector": "Utilities",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "EIX",
+      "company": "Edison International",
+      "sub_industry": "Electric Utilities",
+      "exchange": "NASDAQ",
+      "sector": "Utilities"
+    },
+    "score": 44
+  },
+  {
+    "ticker": "ES",
+    "name": "Eversource Energy",
+    "sector": "Utilities",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "ES",
+      "company": "Eversource Energy",
+      "sub_industry": "Electric Utilities",
+      "exchange": "NASDAQ",
+      "sector": "Utilities"
+    },
+    "score": 44
+  },
+  {
+    "ticker": "ETR",
+    "name": "Entergy Corporation",
+    "sector": "Utilities",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "ETR",
+      "company": "Entergy Corporation",
+      "sub_industry": "Electric Utilities",
+      "exchange": "NASDAQ",
+      "sector": "Utilities"
+    },
+    "score": 44
+  },
+  {
+    "ticker": "EVRG",
+    "name": "Evergy",
+    "sector": "Utilities",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "EVRG",
+      "company": "Evergy",
+      "sub_industry": "Electric Utilities",
+      "exchange": "NASDAQ",
+      "sector": "Utilities"
+    },
+    "score": 44
+  },
+  {
+    "ticker": "FE",
+    "name": "FirstEnergy",
+    "sector": "Utilities",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "FE",
+      "company": "FirstEnergy",
+      "sub_industry": "Electric Utilities",
+      "exchange": "NASDAQ",
+      "sector": "Utilities"
+    },
+    "score": 44
+  },
+  {
+    "ticker": "FTS",
+    "name": "Fortis Inc.",
+    "sector": "Utilities",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "FTS",
+      "company": "Fortis Inc.",
+      "sub_industry": "Diversified Utilities",
+      "exchange": "NASDAQ",
+      "sector": "Utilities"
+    },
+    "score": 44
+  },
+  {
+    "ticker": "LNT",
+    "name": "Alliant Energy",
+    "sector": "Utilities",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "LNT",
+      "company": "Alliant Energy",
+      "sub_industry": "Diversified Utilities",
+      "exchange": "NASDAQ",
+      "sector": "Utilities"
+    },
+    "score": 44
+  },
+  {
+    "ticker": "NEE",
+    "name": "NextEra Energy",
+    "sector": "Utilities",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "NEE",
+      "company": "NextEra Energy",
+      "sub_industry": "Electric Utilities",
+      "exchange": "NASDAQ",
+      "sector": "Utilities"
+    },
+    "score": 44
+  },
+  {
+    "ticker": "NRG",
+    "name": "NRG Energy",
+    "sector": "Utilities",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "NRG",
+      "company": "NRG Energy",
+      "sub_industry": "Independent Power Producers",
+      "exchange": "NASDAQ",
+      "sector": "Utilities"
+    },
+    "score": 44
+  },
+  {
+    "ticker": "OTTR",
+    "name": "Otter Tail Corporation",
+    "sector": "Utilities",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "OTTR",
+      "company": "Otter Tail Corporation",
+      "sub_industry": "Diversified Utilities",
+      "exchange": "NASDAQ",
+      "sector": "Utilities"
+    },
+    "score": 44
+  },
+  {
+    "ticker": "PCG",
+    "name": "PG&E Corporation",
+    "sector": "Utilities",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "PCG",
+      "company": "PG&E Corporation",
+      "sub_industry": "Electric Utilities",
+      "exchange": "NASDAQ",
+      "sector": "Utilities"
+    },
+    "score": 44
+  },
+  {
+    "ticker": "PEG",
+    "name": "Public Service Enterprise Group",
+    "sector": "Utilities",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "PEG",
+      "company": "Public Service Enterprise Group",
+      "sub_industry": "Diversified Utilities",
+      "exchange": "NASDAQ",
+      "sector": "Utilities"
+    },
+    "score": 44
+  },
+  {
+    "ticker": "PNW",
+    "name": "Pinnacle West Capital",
+    "sector": "Utilities",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "PNW",
+      "company": "Pinnacle West Capital",
+      "sub_industry": "Electric Utilities",
+      "exchange": "NASDAQ",
+      "sector": "Utilities"
+    },
+    "score": 44
+  },
+  {
+    "ticker": "PPL",
+    "name": "PPL Corporation",
+    "sector": "Utilities",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "PPL",
+      "company": "PPL Corporation",
+      "sub_industry": "Electric Utilities",
+      "exchange": "NASDAQ",
+      "sector": "Utilities"
+    },
+    "score": 44
+  },
+  {
+    "ticker": "SO",
+    "name": "The Southern Company",
+    "sector": "Utilities",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "SO",
+      "company": "The Southern Company",
+      "sub_industry": "Electric Utilities",
+      "exchange": "NASDAQ",
+      "sector": "Utilities"
+    },
+    "score": 44
+  },
+  {
+    "ticker": "SRE",
+    "name": "Sempra",
+    "sector": "Utilities",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "SRE",
+      "company": "Sempra",
+      "sub_industry": "Diversified Utilities",
+      "exchange": "NASDAQ",
+      "sector": "Utilities"
+    },
+    "score": 44
+  },
+  {
+    "ticker": "SWX",
+    "name": "Southwest Gas",
+    "sector": "Utilities",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "SWX",
+      "company": "Southwest Gas",
+      "sub_industry": "Gas Utilities",
+      "exchange": "NASDAQ",
+      "sector": "Utilities"
+    },
+    "score": 44
+  },
+  {
+    "ticker": "VST",
+    "name": "Vistra Corp.",
+    "sector": "Utilities",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "VST",
+      "company": "Vistra Corp.",
+      "sub_industry": "Independent Power Producers",
+      "exchange": "NASDAQ",
+      "sector": "Utilities"
+    },
+    "score": 44
+  },
+  {
+    "ticker": "WEC",
+    "name": "WEC Energy Group",
+    "sector": "Utilities",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "WEC",
+      "company": "WEC Energy Group",
+      "sub_industry": "Diversified Utilities",
+      "exchange": "NASDAQ",
+      "sector": "Utilities"
+    },
+    "score": 44
+  },
+  {
+    "ticker": "WTRG",
+    "name": "Essential Utilities",
+    "sector": "Utilities",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "WTRG",
+      "company": "Essential Utilities",
+      "sub_industry": "Water Utilities",
+      "exchange": "NASDAQ",
+      "sector": "Utilities"
+    },
+    "score": 44
+  },
+  {
+    "ticker": "NJR",
+    "name": "New Jersey Resources",
+    "sector": "Utilities",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "NJR",
+      "company": "New Jersey Resources",
+      "sub_industry": "Gas Utilities",
+      "exchange": "NASDAQ",
+      "sector": "Utilities"
+    },
+    "score": 44
+  },
+  {
+    "ticker": "UTL",
+    "name": "Unitil Corporation",
+    "sector": "Utilities",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "UTL",
+      "company": "Unitil Corporation",
+      "sub_industry": "Diversified Utilities",
+      "exchange": "NASDAQ",
+      "sector": "Utilities"
+    },
+    "score": 44
+  },
+  {
+    "ticker": "CWCO",
+    "name": "Consolidated Water Co.",
+    "sector": "Utilities",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "CWCO",
+      "company": "Consolidated Water Co.",
+      "sub_industry": "Water Utilities",
+      "exchange": "NASDAQ",
+      "sector": "Utilities"
+    },
+    "score": 44
+  },
+  {
+    "ticker": "NRGV",
+    "name": "Energy Vault Holdings",
+    "sector": "Utilities",
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "ticker": "NRGV",
+      "company": "Energy Vault Holdings",
+      "sub_industry": "Renewable Utilities",
+      "exchange": "NASDAQ",
+      "sector": "Utilities"
+    },
+    "score": 44
+  },
+  {
+    "ticker": "GLBE",
+    "name": "Global-e Online Ltd.",
+    "sector": "e-commerce",
+    "market_cap": "~$5 B",
+    "revenue_growth": null,
+    "_raw": {
+      "company": "Global-e Online Ltd.",
+      "ticker": "GLBE",
+      "exchange": "NASDAQ",
+      "industry": "e-commerce",
+      "market_cap": "~$5 B"
+    },
+    "score": 40
+  },
+  {
+    "ticker": "REAL",
+    "name": "The RealReal Inc.",
+    "sector": "e-commerce",
+    "market_cap": "~$1.3 B",
+    "revenue_growth": null,
+    "_raw": {
+      "company": "The RealReal Inc.",
+      "ticker": "REAL",
+      "exchange": "NASDAQ",
+      "industry": "e-commerce",
+      "market_cap": "~$1.3 B"
+    },
+    "score": 40
+  },
+  {
+    "ticker": "NEGG",
+    "name": "Newegg Commerce Inc.",
+    "sector": "e-commerce",
+    "market_cap": "Small cap",
+    "revenue_growth": null,
+    "_raw": {
+      "company": "Newegg Commerce Inc.",
+      "ticker": "NEGG",
+      "exchange": "NASDAQ",
+      "industry": "e-commerce",
+      "market_cap": "Small cap"
+    },
+    "score": 40
+  },
+  {
+    "ticker": "ASTS",
+    "name": "AST SpaceMobile",
+    "sector": "Telecom / Satellite",
+    "market_cap": null,
+    "revenue_growth": "~1,200% in 2025 / ~311% in 2026",
+    "_raw": {
+      "company": "AST SpaceMobile",
+      "ticker": "ASTS",
+      "revenue_growth": "~1,200% in 2025 / ~311% in 2026",
+      "industry": "Telecom / Satellite"
+    },
+    "score": 40
+  },
+  {
+    "ticker": "SEZL",
+    "name": "Sezzle",
+    "sector": null,
+    "market_cap": null,
+    "revenue_growth": null,
+    "_raw": {
+      "company": "Sezzle",
+      "ticker": "SEZL",
+      "revenue_growth": null,
+      "exchange": "NASDAQ",
+      "industry": null,
+      "status": null
+    },
+    "score": 40
+  },
+  {
+    "ticker": "GRPN",
+    "name": "Groupon Inc.",
+    "sector": "e-commerce",
+    "market_cap": "~$0.5 B",
+    "revenue_growth": null,
+    "_raw": {
+      "company": "Groupon Inc.",
+      "ticker": "GRPN",
+      "exchange": "NASDAQ",
+      "industry": "e-commerce",
+      "market_cap": "~$0.5 B"
+    },
+    "score": 35
+  },
+  {
+    "ticker": "HOUR",
+    "name": "Hour Loop Inc.",
+    "sector": "e-commerce",
+    "market_cap": "~$0.07 B",
+    "revenue_growth": null,
+    "_raw": {
+      "company": "Hour Loop Inc.",
+      "ticker": "HOUR",
+      "exchange": "NASDAQ",
+      "industry": "e-commerce",
+      "market_cap": "~$0.07 B"
+    },
+    "score": 35
+  },
+  {
+    "ticker": "PETS",
+    "name": "1-800-PetMeds (PetMed Express)",
+    "sector": "e-commerce",
+    "market_cap": "~$0.07 B",
+    "revenue_growth": null,
+    "_raw": {
+      "company": "1-800-PetMeds (PetMed Express)",
+      "ticker": "PETS",
+      "exchange": "NASDAQ",
+      "industry": "e-commerce",
+      "market_cap": "~$0.07 B"
+    },
+    "score": 35
+  }
+]
