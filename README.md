@@ -153,4 +153,4 @@ See `lobster-of-wall-street/SUBMISSION.md` for the full detailed write-up.
 
 ## Team
 
-**TUM.ai Dreamteam** — Technical University of Munich
+**TUM.ai Dreamteam**
