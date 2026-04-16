@@ -177,15 +177,26 @@ def main():
         print(f"  WARNING: too few candidates, relaxing filters")
         screened = features.nlargest(200, "vol_60d")
 
-    # ── Stage 4a: Use NASDAQ API sector data (already have it, no extra calls) ──
-    print(f"\n[Stage 4a] Applying NASDAQ API sector data ...")
+    # ── Stage 4a: Use NASDAQ API sector + country data ──
+    print(f"\n[Stage 4a] Applying NASDAQ API sector + country data ...")
     for col in ["yf_sector", "yf_industry", "total_revenue", "book_value", "shares_outstanding"]:
         screened[col] = "" if col.startswith("yf") else 0.0
-    # Map sector from the universe build step
+    screened["country"] = "Unknown"
+
+    # Load country data from NASDAQ API cache
+    import json as _json
+    from alpha.data import CACHE_DIR
+    api_cache = CACHE_DIR / "nasdaq_api.json"
+    country_map = {}
+    if api_cache.exists():
+        for row in _json.loads(api_cache.read_text()):
+            country_map[row["symbol"]] = row.get("country", "Unknown") or "Unknown"
+
     for i, row in screened.iterrows():
         sec = sector_map.get(row["ticker"], "Unknown")
         screened.loc[i, "yf_sector"] = sec
         screened.loc[i, "yf_industry"] = sec
+        screened.loc[i, "country"] = country_map.get(row["ticker"], "Unknown")
 
     # ── Stage 4b: Fetch yfinance .info for all screened candidates ──
     # Reads from cache (pre-populated) — only makes new API calls for misses

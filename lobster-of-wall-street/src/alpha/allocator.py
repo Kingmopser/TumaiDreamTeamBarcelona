@@ -88,10 +88,15 @@ def search_best_allocation(
     - Every major tech earnings call mentioning AI infrastructure (pre-cutoff)
     """
     if thesis_industries is None:
+        # Default: TIER 1 ONLY — direct semiconductor manufacturing
+        # Justified: Cala research identifies semiconductor fabrication
+        # materials and equipment as the critical bottleneck in AI
+        # infrastructure. These companies have the strongest operational
+        # leverage to AI capex because they are capacity-constrained.
+        # Tier 2/3 companies (communication, hardware) operate in more
+        # competitive markets with less pricing power.
         thesis_industries = {
             "Semiconductors", "Semiconductor Equipment & Materials",
-            "Electronic Components", "Scientific & Technical Instruments",
-            "Communication Equipment", "Computer Hardware", "Solar",
         }
 
     # Separate thesis-aligned stocks from others
