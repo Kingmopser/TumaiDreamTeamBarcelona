@@ -1,4 +1,4 @@
-# The Lobster of Wall Street — Team TuMAI DreamTeam
+# The Lobster of Wall Street — Team TUM.ai Dreamteam
 
 ## Agent: Alpha Agent v6
 
